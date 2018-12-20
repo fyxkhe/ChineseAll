@@ -1,0 +1,3715 @@
+<?xml version="1.0" encoding="gbk"?>
+
+            <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:x="urn:schemas-microsoft-com:office:excel"
+            xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="1512098676">
+<Table>
+<Row>
+<Cell><Data ss:Type="String">微信用户</Data></Cell>
+<Cell><Data ss:Type="String">创建时间</Data></Cell>
+<Cell><Data ss:Type="String">我的昵称</Data></Cell>
+<Cell><Data ss:Type="String">微信号</Data></Cell>
+<Cell><Data ss:Type="String">满足以下条件</Data></Cell>
+<Cell><Data ss:Type="String">最早接触观棋小说是什么时候？</Data></Cell>
+<Cell><Data ss:Type="String">看过观棋哪几本小说？最喜欢哪一本？或让你印象最深刻的是哪个人物或情节？</Data></Cell>
+<Cell><Data ss:Type="String">想对观棋说的话或感慨</Data></Cell>
+<Cell><Data ss:Type="String">我的性别是？</Data></Cell>
+<Cell><Data ss:Type="String">我的年龄段是？</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">张海龙</Data></Cell>
+<Cell><Data ss:Type="String">1511934409</Data></Cell>
+<Cell><Data ss:Type="String">张海龙</Data></Cell>
+<Cell><Data ss:Type="String">17863839011</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，特别喜欢古海的性格。</Data></Cell>
+<Cell><Data ss:Type="String">写的太棒拉。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">红太阳</Data></Cell>
+<Cell><Data ss:Type="String">1511908666</Data></Cell>
+<Cell><Data ss:Type="String">红太阳</Data></Cell>
+<Cell><Data ss:Type="String">18956610886</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2015年开始看仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">看过，长生不死，仙国大帝，盖世天尊，万古仙穹，最喜欢仙国大，最喜欢闫川，</Data></Cell>
+<Cell><Data ss:Type="String">盖世天尊没写完有点可惜</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">相依</Data></Cell>
+<Cell><Data ss:Type="String">1511484231</Data></Cell>
+<Cell><Data ss:Type="String">东方不败</Data></Cell>
+<Cell><Data ss:Type="String">15006366657</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 仙国大帝 万古仙穹 最喜欢仙国大帝 看了无数遍了</Data></Cell>
+<Cell><Data ss:Type="String">别脱离主线</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1509684316</Data></Cell>
+<Cell><Data ss:Type="String">樱花雪之岛</Data></Cell>
+<Cell><Data ss:Type="String">AGG1313258</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹年等</Data></Cell>
+<Cell><Data ss:Type="String">小说内容很精彩！只是更新有点慢！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">憨哥</Data></Cell>
+<Cell><Data ss:Type="String">1508751370</Data></Cell>
+<Cell><Data ss:Type="String">憨个</Data></Cell>
+<Cell><Data ss:Type="String">18323419491</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">都看过。喜欢仙国大帝，万古仙穹，长生不死，新书，凌霄之上也喜欢哈哈。因为喜欢这种气运国度类小说，一步一步建立自己的势力。特别喜欢主角在招到自己有能力的下属时。看得观棋第一本是万古仙穹，突然感觉发现新大陆，就去吧观棋的其他都看了。就是我想要的类型</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹已经成为我每天生活必不可少的一部分，突然完结心里空落落的，直到凌霄之上出来，明天中午，下午都会有几分钟抽出来看每天更新的。已经成为习惯。还有我有钱了也看正版。哈哈哈</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">杨波</Data></Cell>
+<Cell><Data ss:Type="String">1508177726</Data></Cell>
+<Cell><Data ss:Type="String">梦里寻她</Data></Cell>
+<Cell><Data ss:Type="String">15084802779</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，盖世天尊等。喜欢钟山</Data></Cell>
+<Cell><Data ss:Type="String">观大，希望凌霄给我们一个大惊喜，加油。我们挺你……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">丶丿夏沫</Data></Cell>
+<Cell><Data ss:Type="String">1507816681</Data></Cell>
+<Cell><Data ss:Type="String">夏沫</Data></Cell>
+<Cell><Data ss:Type="String">H760935313</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">钟山</Data></Cell>
+<Cell><Data ss:Type="String">写的小说很好看</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">年轻的小伙可劲嗨＆</Data></Cell>
+<Cell><Data ss:Type="String">1507805395</Data></Cell>
+<Cell><Data ss:Type="String">帅帅</Data></Cell>
+<Cell><Data ss:Type="String">zs18736567006</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，凌霄之上</Data></Cell>
+<Cell><Data ss:Type="String">感觉三本小说的好多情节都惊人的相似</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">凌千</Data></Cell>
+<Cell><Data ss:Type="String">1507379494</Data></Cell>
+<Cell><Data ss:Type="String">凌千</Data></Cell>
+<Cell><Data ss:Type="String">hj123321123h</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">俩本。万古仙穹。古海制定灭宋计划。因为第一次，挺震撼的
+</Data></Cell>
+<Cell><Data ss:Type="String">我是刚刚接触观棋的书，但还是明白他擅长朝战和仙侠，希望他能发挥自己的特长。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A0张启赞网吧电竞外设</Data></Cell>
+<Cell><Data ss:Type="String">1507188671</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">185309365451</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹，观大的书全部</Data></Cell>
+<Cell><Data ss:Type="String">观大开发接力这一代名词</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">李记炒货13584419992</Data></Cell>
+<Cell><Data ss:Type="String">1506938104</Data></Cell>
+<Cell><Data ss:Type="String">李记小李</Data></Cell>
+<Cell><Data ss:Type="String">13584419992</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2014</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，仙国大帝，最喜欢古海</Data></Cell>
+<Cell><Data ss:Type="String">观棋加油，你一直写，我一直看。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">只是一场戏ゝ</Data></Cell>
+<Cell><Data ss:Type="String">1506519588</Data></Cell>
+<Cell><Data ss:Type="String">七友</Data></Cell>
+<Cell><Data ss:Type="String">chenjiefeng8949</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">钟山，天灵儿</Data></Cell>
+<Cell><Data ss:Type="String">没什么想说的，就默默支持吧。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">狐狸要成精</Data></Cell>
+<Cell><Data ss:Type="String">1506491914</Data></Cell>
+<Cell><Data ss:Type="String">狐狸要成精</Data></Cell>
+<Cell><Data ss:Type="String">x19901013</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">今年</Data></Cell>
+<Cell><Data ss:Type="String">凌霄之上     长生不死</Data></Cell>
+<Cell><Data ss:Type="String">希望凌霄之上越来越好</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小幸运</Data></Cell>
+<Cell><Data ss:Type="String">1506162661</Data></Cell>
+<Cell><Data ss:Type="String">小幸运</Data></Cell>
+<Cell><Data ss:Type="String">caizhuolong002</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">14</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢观棋的万古了。现在都反复看了几次了非常不错</Data></Cell>
+<Cell><Data ss:Type="String">观棋加油。永远支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">.</Data></Cell>
+<Cell><Data ss:Type="String">1505977880</Data></Cell>
+<Cell><Data ss:Type="String">小助手</Data></Cell>
+<Cell><Data ss:Type="String">9999</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">好几本</Data></Cell>
+<Cell><Data ss:Type="String">你挺好的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">風</Data></Cell>
+<Cell><Data ss:Type="String">1505926665</Data></Cell>
+<Cell><Data ss:Type="String">南風</Data></Cell>
+<Cell><Data ss:Type="String">Sheng941992338</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2010</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，盖世天尊，万古仙穹，凌宵之上，
+最喜欢盖世天尊，可惜太监了，息夫人让我最深刻，男人懂的</Data></Cell>
+<Cell><Data ss:Type="String">没什么说的，虽然我是看盗版的，但是观棋能做到不断更，拖更我就挺你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505910764</Data></Cell>
+<Cell><Data ss:Type="String">Ai Wco</Data></Cell>
+<Cell><Data ss:Type="String">w786171049</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">就前段时间</Data></Cell>
+<Cell><Data ss:Type="String">就刚看一本 万古仙穹 最深刻的人物就是姜连山了 套路帝啊 蚩尤是他儿子 拔是他女儿 精卫也是他女儿 连如来都是他儿子 皇帝是他手下 还有后羿 刑天 太厉害了</Data></Cell>
+<Cell><Data ss:Type="String">以前没关注过你我是一次偶然的机会在爱奇艺看动漫 正好看到万古仙穹我一看就喜欢上了 看完动漫我就去看小说了 没想到 小说比动漫还好看 到现在看完了 还有种意犹未尽的感觉 我说要去看看你写的别的小说 我觉得 一样会让我 意犹未尽的感觉吧</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">卖女孩的小火柴</Data></Cell>
+<Cell><Data ss:Type="String">1505832775</Data></Cell>
+<Cell><Data ss:Type="String">卖女孩的小火柴</Data></Cell>
+<Cell><Data ss:Type="String">13224003109</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">所以，最爱嬴政，其次第二妖角，白中仙还有长生的古神通、仙国的冥河。冥河创世厉害啊。</Data></Cell>
+<Cell><Data ss:Type="String">  希望多谢一些想刹、玄元这样的配角。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505542823</Data></Cell>
+<Cell><Data ss:Type="String">阿桐</Data></Cell>
+<Cell><Data ss:Type="String">lzx2420028742</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">所有的都看过，最喜欢《万古仙穹》古海，还有龙婉清和她的可爱妹妹。最喜欢分身了，特别是骨头刀！还喜欢葫芦和盘古斧，很厉害</Data></Cell>
+<Cell><Data ss:Type="String">我喜欢观棋大大能写出更多好作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">futures</Data></Cell>
+<Cell><Data ss:Type="String">1505472201</Data></Cell>
+<Cell><Data ss:Type="String">futures</Data></Cell>
+<Cell><Data ss:Type="String">785046205</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学时候</Data></Cell>
+<Cell><Data ss:Type="String">看过观棋的5本小说，最喜欢万古仙穹，印象深刻的是古海和龙战国。</Data></Cell>
+<Cell><Data ss:Type="String">天道酬勤，继续努力，保持高水准的写作，观棋绝对会名满天下的。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505307595</Data></Cell>
+<Cell><Data ss:Type="String">遗忘</Data></Cell>
+<Cell><Data ss:Type="String">zy1094750347</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢《万古仙穹》，里面的古海足智多谋，例如用商业来破国，非常经典。而且里面的对应的神话人物都很带感，他们所具有的技能，都写了出来，例如释迦牟尼佛，小书我看了几个月。却一点也不感觉腻，不像别的小说，男主人公会了修炼，就知道杀杀杀，无厘头的感觉，看了很腻，但是《万古仙穹》就不会，很有味道！</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505196367</Data></Cell>
+<Cell><Data ss:Type="String">孤独幸运星</Data></Cell>
+<Cell><Data ss:Type="String">13673660557</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，御道，白中仙，邪魔妖道，仙国大帝，万古仙穹，盖世天尊，都看过。
+最喜欢长生不死，第一次接触运朝流小说，格局大气磅礴，剧情酣畅淋漓，全书无废话，每一个人物都有鲜明特点，哪怕龙套都有闪光点，一口气看完的，意犹未尽，至少看了五遍，每次看都还是那么过瘾。</Data></Cell>
+<Cell><Data ss:Type="String">观棋大神，虽然我很希望观大写的快点，但码字也要注意身体啊，以前说实话也没什么经济来源，现在工作了，肯定要多多支持观棋大神。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505129549</Data></Cell>
+<Cell><Data ss:Type="String">转身离去</Data></Cell>
+<Cell><Data ss:Type="String">mcx2000122</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，万古仙穹，凌霄之上，古海，阎川，</Data></Cell>
+<Cell><Data ss:Type="String">正在一部部的看你的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">剑煮酒无味</Data></Cell>
+<Cell><Data ss:Type="String">1505018509</Data></Cell>
+<Cell><Data ss:Type="String">剑煮酒无味</Data></Cell>
+<Cell><Data ss:Type="String">2641934336</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">一本，万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">写的书很好看</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505017722</Data></Cell>
+<Cell><Data ss:Type="String">剑戟仙魔</Data></Cell>
+<Cell><Data ss:Type="String">SX1001815iamtheflash</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2016年初三</Data></Cell>
+<Cell><Data ss:Type="String">《万古仙穹》，《凌霄之上》最深刻的是《万古仙穹》中古海的灭宋计划，那种扑朔迷离的感觉至今难忘。</Data></Cell>
+<Cell><Data ss:Type="String">其实观棋的书开始写的都挺好，我感觉甚至超过了辰东他们，但后来就有点烂尾，主要就是描述的世界层次太少，而且结局太过平常，如果在结尾是设下一个悬念或是传说就好多了。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">归嘘</Data></Cell>
+<Cell><Data ss:Type="String">1504846314</Data></Cell>
+<Cell><Data ss:Type="String">归墟</Data></Cell>
+<Cell><Data ss:Type="String">gusiwuming</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学，1几年吧</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，钟老魔
+很霸气，对手嬴政不傻</Data></Cell>
+<Cell><Data ss:Type="String">节奏可以加快点，这次这本书中，反派智商太弱了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504793736</Data></Cell>
+<Cell><Data ss:Type="String">琅琊阁主</Data></Cell>
+<Cell><Data ss:Type="String">gaook89921318425</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">18</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">每一本书都好看，我很喜欢你的书！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504786756</Data></Cell>
+<Cell><Data ss:Type="String">秋风萧瑟孤独客</Data></Cell>
+<Cell><Data ss:Type="String">gd1324851300</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">工作</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹！</Data></Cell>
+<Cell><Data ss:Type="String">没别的说得，新婚快乐！如果可能的话，，希望您在古代传说方面再深入了解下。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504774979</Data></Cell>
+<Cell><Data ss:Type="String">锋瑟</Data></Cell>
+<Cell><Data ss:Type="String">18391768321</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">11年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，邪魔妖道，盖世天尊，凌霄之上
+钟山，闫川，姜泰，王雄</Data></Cell>
+<Cell><Data ss:Type="String">我只是一个普通的读者，在我看过的书里我觉得唯一的遗憾就是盖世的夭折。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小蜗</Data></Cell>
+<Cell><Data ss:Type="String">1504773904</Data></Cell>
+<Cell><Data ss:Type="String">观棋天庭七军团长</Data></Cell>
+<Cell><Data ss:Type="String">yanhan252156</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死、仙国大帝、万古仙穹 就喜欢这种独树一帜的帝王流</Data></Cell>
+<Cell><Data ss:Type="String">观棋我是你的粉丝 永远支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504768918</Data></Cell>
+<Cell><Data ss:Type="String">剑星天</Data></Cell>
+<Cell><Data ss:Type="String">18380591513</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，因为很喜欢观棋写的运朝类小说，里面的斗智斗勇，情节紧凑，又不失节奏感，也不无脑。</Data></Cell>
+<Cell><Data ss:Type="String">多谢观棋写的小说一直陪伴我从高中，大学，以及现在，我很喜欢运朝类小说，那种天下大势的感觉。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504764190</Data></Cell>
+<Cell><Data ss:Type="String">流年空心</Data></Cell>
+<Cell><Data ss:Type="String">wu435991406</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中吧，</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，写的挺不错的，</Data></Cell>
+<Cell><Data ss:Type="String">观棋加油啊！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504758356</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟方坤</Data></Cell>
+<Cell><Data ss:Type="String">fk1667378975</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中，连载御道的时候</Data></Cell>
+<Cell><Data ss:Type="String">观棋的小说没本都看过，最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">观大，求爆更啊</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504757965</Data></Cell>
+<Cell><Data ss:Type="String">阿云</Data></Cell>
+<Cell><Data ss:Type="String">15296731080</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">6月份</Data></Cell>
+<Cell><Data ss:Type="String">2本  万古仙穹  观棋老人  古海</Data></Cell>
+<Cell><Data ss:Type="String">好好写书，加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">新环境小蔡</Data></Cell>
+<Cell><Data ss:Type="String">1504754630</Data></Cell>
+<Cell><Data ss:Type="String">飘雪小蔡</Data></Cell>
+<Cell><Data ss:Type="String">18140559050</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，长生不死</Data></Cell>
+<Cell><Data ss:Type="String">更新快点</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504747815</Data></Cell>
+<Cell><Data ss:Type="String">啊宇</Data></Cell>
+<Cell><Data ss:Type="String">15049083410</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大写的不错看得我热血沸腾</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">戴戴</Data></Cell>
+<Cell><Data ss:Type="String">1504735120</Data></Cell>
+<Cell><Data ss:Type="String">一世、清莲</Data></Cell>
+<Cell><Data ss:Type="String">Dai1172225603</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹 ：古海的从容淡定，聪明机智
+
+
+  凌霄之上 ：苏青环，可爱与执着 
+
+长生不死
+
+
+御道
+
+
+盖世天尊
+
+等。。。。
+
+</Data></Cell>
+<Cell><Data ss:Type="String">挺好的，虽然都是套路，
+但是我看得津津有味，孜孜不倦，
+
+总是给我的人生有不断的启迪，让我生活充满了乐趣！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504714541</Data></Cell>
+<Cell><Data ss:Type="String">风起时</Data></Cell>
+<Cell><Data ss:Type="String">13469373145</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">希望能多更那么一点店</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504713953</Data></Cell>
+<Cell><Data ss:Type="String">杨敬圆</Data></Cell>
+<Cell><Data ss:Type="String">YXJ-119</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2017.</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穷</Data></Cell>
+<Cell><Data ss:Type="String">就是喜欢 </Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">南人℡歌善 |</Data></Cell>
+<Cell><Data ss:Type="String">1504709227</Data></Cell>
+<Cell><Data ss:Type="String">南人歌</Data></Cell>
+<Cell><Data ss:Type="String">17877112012</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">不记得了！</Data></Cell>
+<Cell><Data ss:Type="String">观棋大神所有的书都看过，然而却最喜欢那句人人如龙！</Data></Cell>
+<Cell><Data ss:Type="String">一直被人人如龙这句话所感动，激动，真的愿人人如龙！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">默灬念殇</Data></Cell>
+<Cell><Data ss:Type="String">1504708675</Data></Cell>
+<Cell><Data ss:Type="String">萧天师</Data></Cell>
+<Cell><Data ss:Type="String">18867777211</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">从长生不死开始追更 一直到现在 都是正版订阅</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 仙国大帝 盖世天尊 万古仙穹 比较喜欢父子情生那几段 都是好孩子</Data></Cell>
+<Cell><Data ss:Type="String">其实对于盖世还是比较遗憾的 也看出作者的心大 百家争鸣于乱世 脱引而出 不过后来的万古还是很给力 连动漫都看了 喜欢观大大继续加油 支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504707530</Data></Cell>
+<Cell><Data ss:Type="String">rehab</Data></Cell>
+<Cell><Data ss:Type="String">2486884102</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">一年前吧！初三</Data></Cell>
+<Cell><Data ss:Type="String">从万古仙穹开始就迷上了，然后开始找观棋的书。现在基本全看过了，仙国大帝即将看完。
+  因为最开始是看万古仙穹的，然后看了比较短的小说，把像《长生不死》《仙国大帝》之类长的留到最后。因为《万古仙穹》和《长生不死》是很相似的，所以都喜欢。而且观大写的人物都很有智慧，很烧脑的感觉，很喜欢。而且每一部只要看了开头我都会看下去。越看越喜欢。最重要的是观大的文体很好，不像某知名小说家“某某的蜜蜂”，他的小说，一句话可以写一页，真的。</Data></Cell>
+<Cell><Data ss:Type="String">观大，你的脑子真的很溜，每部小说都很深的套路啊，这种布局，真不是一般人可以想出来的。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">喝红茶的少年</Data></Cell>
+<Cell><Data ss:Type="String">1504706792</Data></Cell>
+<Cell><Data ss:Type="String">我命由我不由天</Data></Cell>
+<Cell><Data ss:Type="String">喝红茶的少年</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹动漫赶快更新第二季吧</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504706686</Data></Cell>
+<Cell><Data ss:Type="String">鹏</Data></Cell>
+<Cell><Data ss:Type="String">2367290311LZP</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，凌霄之上，仙国大帝   古海   钟山都印象深刻</Data></Cell>
+<Cell><Data ss:Type="String">你的小说太他妈好看了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">杰</Data></Cell>
+<Cell><Data ss:Type="String">1504706397</Data></Cell>
+<Cell><Data ss:Type="String">落霞与孤鹜齐飞</Data></Cell>
+<Cell><Data ss:Type="String">Y2509824695</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">我现在只看过万古仙穹，不过真的好看，支持观棋。</Data></Cell>
+<Cell><Data ss:Type="String">人张那么帅，写小说有那么好看，请收下我的膝盖。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小饶</Data></Cell>
+<Cell><Data ss:Type="String">1504706371</Data></Cell>
+<Cell><Data ss:Type="String">最强王者小学生</Data></Cell>
+<Cell><Data ss:Type="String">小饶</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">基本上都看过，最喜欢你的长生不死</Data></Cell>
+<Cell><Data ss:Type="String">希望你的小说越写越好，看的人越来越多</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">寒锋</Data></Cell>
+<Cell><Data ss:Type="String">1504704877</Data></Cell>
+<Cell><Data ss:Type="String">寒峰</Data></Cell>
+<Cell><Data ss:Type="String">cswtf5</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2011年 长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">我现在根据小说成了一名风水师，感谢观大。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">懶廆</Data></Cell>
+<Cell><Data ss:Type="String">1504703676</Data></Cell>
+<Cell><Data ss:Type="String">懒鬼</Data></Cell>
+<Cell><Data ss:Type="String">langui0617</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2010年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死   仙国大帝  盖世天尊   万古仙穹   凌霄之上</Data></Cell>
+<Cell><Data ss:Type="String">你写的每本书我都在认真的看，希望观棋继续努力写出好的作品，我会一直支持下去。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504703579</Data></Cell>
+<Cell><Data ss:Type="String">墨笑红尘</Data></Cell>
+<Cell><Data ss:Type="String">jwdrz20120728</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">自从高中看了盗版的《长生不死》哦，我就是观大的粉丝了。后来观大的每本小说我都有支持正版。唯一让我遗憾的是《盖世天尊》的夭折。心中挥不去的痛啊。</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504703235</Data></Cell>
+<Cell><Data ss:Type="String">文白</Data></Cell>
+<Cell><Data ss:Type="String">18726661474</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死   初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死  仙国大帝   万古仙穹   凌霄之上
+钟山    老而不死是为妖</Data></Cell>
+<Cell><Data ss:Type="String">棒棒哒</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504702894</Data></Cell>
+<Cell><Data ss:Type="String">飞霜</Data></Cell>
+<Cell><Data ss:Type="String">QQ2423690050</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2014年的时候</Data></Cell>
+<Cell><Data ss:Type="String">看过长生不老，仙国大帝，盖世天尊，万古仙穹，印象最深的时候是长生里面苏阿佛快死那段，非常感人</Data></Cell>
+<Cell><Data ss:Type="String">观大，看你的书看了有三年多了，对你最大的遗憾就是天尊那本书，希望你这本凌霄能创出一个新纪元</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504702434</Data></Cell>
+<Cell><Data ss:Type="String">煜虚人煊</Data></Cell>
+<Cell><Data ss:Type="String">13463016818</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">大神请收下我的膝盖</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504701306</Data></Cell>
+<Cell><Data ss:Type="String">万古钟山</Data></Cell>
+<Cell><Data ss:Type="String">13735386903</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，盖世天尊，仙国大帝，御道，钟山，古海</Data></Cell>
+<Cell><Data ss:Type="String">观棋加油，支持你，！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">沐雪</Data></Cell>
+<Cell><Data ss:Type="String">1504700399</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟-白秋阳</Data></Cell>
+<Cell><Data ss:Type="String">沐雪</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">最早接触是观大的  长生不死 那时还是高中，现在大二</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，的足智多谋的 古海，还有古灵精怪的灵儿，印象深刻的就是灵儿破不动禅</Data></Cell>
+<Cell><Data ss:Type="String">支持观大，写的小说很赞</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504700268</Data></Cell>
+<Cell><Data ss:Type="String">太一</Data></Cell>
+<Cell><Data ss:Type="String">HDQ991024</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高州</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹等。长生不死最喜欢，运朝</Data></Cell>
+<Cell><Data ss:Type="String">想继续看你的书，如果有机会，想参与进去</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504700086</Data></Cell>
+<Cell><Data ss:Type="String">白开水</Data></Cell>
+<Cell><Data ss:Type="String">15290097522</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死   仙国大帝  万古仙穹   我到现在为止只看过这三本小说，万古仙穹暂时还没看完，感觉都非常好看，特喜欢，用俗话说就是‘对我的口’</Data></Cell>
+<Cell><Data ss:Type="String">希望你能做出更多好看的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504699879</Data></Cell>
+<Cell><Data ss:Type="String">南街浊酒</Data></Cell>
+<Cell><Data ss:Type="String">15010200897</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">16年。高中</Data></Cell>
+<Cell><Data ss:Type="String">万古苍穹，凌霄之上</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">高渐离</Data></Cell>
+<Cell><Data ss:Type="String">1504699548</Data></Cell>
+<Cell><Data ss:Type="String">苹果吃西红柿</Data></Cell>
+<Cell><Data ss:Type="String">高渐离</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹、长生不死、仙国大帝、凌霄之上。最喜欢万古仙穹，古海，古海对爱情的那份执着。</Data></Cell>
+<Cell><Data ss:Type="String">人的素质不同，审美观不同，欣赏的层次也有差别，好书。。。在每个人的心里的都不一样</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504699096</Data></Cell>
+<Cell><Data ss:Type="String">茶入光阴</Data></Cell>
+<Cell><Data ss:Type="String">15065498911</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">两年前，仙穹</Data></Cell>
+<Cell><Data ss:Type="String">仙穹，挺喜欢古海，只是结局潦草了点。</Data></Cell>
+<Cell><Data ss:Type="String">看凌霄，有点工厂生产线作业的感觉。进去一种模式化生产。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504698459</Data></Cell>
+<Cell><Data ss:Type="String">红尘</Data></Cell>
+<Cell><Data ss:Type="String">mws15893943564</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中接触的</Data></Cell>
+<Cell><Data ss:Type="String">喜欢钟山的，智取天下，始皇帝的大仁大义，古海和观棋，穿越万年前，棋力对决很精彩，又或者古海靠智谋，在六道救人，惊心动魄，仙国大帝，一个个为人人如龙而战，长生不死一个个为超脱而战，长生不死和仙国大帝连接起来真的好精彩</Data></Cell>
+<Cell><Data ss:Type="String">希望能进群</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504698404</Data></Cell>
+<Cell><Data ss:Type="String">卅</Data></Cell>
+<Cell><Data ss:Type="String">15912067335</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">11年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死  仙国大帝  万古仙穹 最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">希望您越来越好。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504698345</Data></Cell>
+<Cell><Data ss:Type="String">思想的行动者</Data></Cell>
+<Cell><Data ss:Type="String">guanzhou786158124</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">两本，万古仙穹，凌霄之上；都喜欢吧，古海跑错片场</Data></Cell>
+<Cell><Data ss:Type="String">情节把握很到位，人物塑造能力很强</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504697168</Data></Cell>
+<Cell><Data ss:Type="String">凉菜君</Data></Cell>
+<Cell><Data ss:Type="String">18232240025</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2010高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，当然喜欢钟山，为了救天灵儿被雷电了半死</Data></Cell>
+<Cell><Data ss:Type="String">希望能出更多新作品，我会一直支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">.</Data></Cell>
+<Cell><Data ss:Type="String">1504697036</Data></Cell>
+<Cell><Data ss:Type="String">如风</Data></Cell>
+<Cell><Data ss:Type="String">tp1028766504</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高三。当时看长生不死。</Data></Cell>
+<Cell><Data ss:Type="String">长生不死开始看，开始喜欢观棋的书。之后的仙国大帝，万古仙穹都看了。书的风格写法都很喜欢。最喜欢的还是长生不死吧。毕竟这是观棋第一本运朝流的。当时新颖的写法深深地吸引了我。第二本仙国大帝最后快结局时所有人努力战上天的那种精神。让人震撼。万古仙穹的这个正反仙穹的我很喜欢。虽然三本书套路都很像但还是很喜欢看。</Data></Cell>
+<Cell><Data ss:Type="String">从长生不死到仙国大帝，再到万古仙穹。中间还有一本没写完的盖世天尊吧。观棋写的书我一直都很喜欢。喜欢观棋的风格。还有就是喜欢中国古典神话。特别喜欢观棋在书中关联一些我们的古老神话传说。看着很有意思。万古仙穹的构思真的很喜欢。里面的姜连山给我留下的印象最深。灵山的如来是他儿子。大黄天朝圣上是他臣子。蚩尤是他儿子。大焱天朝的跋是他女儿。俩字。牛逼。真的好看看。希望观棋继续努力写出更多好书给大家看。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">R.杰</Data></Cell>
+<Cell><Data ss:Type="String">1504696751</Data></Cell>
+<Cell><Data ss:Type="String">R.杰</Data></Cell>
+<Cell><Data ss:Type="String">18011444148</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹。喜欢古海的算无遗漏，杀伐果断，至情至性！</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">云</Data></Cell>
+<Cell><Data ss:Type="String">1504696325</Data></Cell>
+<Cell><Data ss:Type="String">笑笑与潇潇</Data></Cell>
+<Cell><Data ss:Type="String">yun743012415</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死  仙国大帝  万古仙穹   
+最喜欢长生不死    喜欢的是这本书的情节布局</Data></Cell>
+<Cell><Data ss:Type="String">期待有更精彩的情节</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">誰人蒙妳不棄</Data></Cell>
+<Cell><Data ss:Type="String">1504696202</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟-昔颜</Data></Cell>
+<Cell><Data ss:Type="String">Joan-lin0512</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">从仙国大帝一直追到现在，可以说是观大的铁杆粉丝。最喜欢观大笔下的每个人物，最近比较喜欢巳神圣子。从这个人物身上我觉得每个人都有的使命还有职责，有些时候是逃不过命运的。</Data></Cell>
+<Cell><Data ss:Type="String">还是会一如既往的支持你。今天在别的群里有人夸万古动漫好，作为你的粉丝我特别骄傲，我跟那个人说我就是棋天盟的。</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504695806</Data></Cell>
+<Cell><Data ss:Type="String">浮生</Data></Cell>
+<Cell><Data ss:Type="String">13160574593</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">一五年年底</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹、凌霄之上、仙国大帝等</Data></Cell>
+<Cell><Data ss:Type="String">挺期待观棋写都市类型的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504695544</Data></Cell>
+<Cell><Data ss:Type="String">无悔</Data></Cell>
+<Cell><Data ss:Type="String">17864167589</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹 </Data></Cell>
+<Cell><Data ss:Type="String">继续加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504695464</Data></Cell>
+<Cell><Data ss:Type="String">鳄鱼</Data></Cell>
+<Cell><Data ss:Type="String">15168778472</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2012年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹 </Data></Cell>
+<Cell><Data ss:Type="String">我很喜欢这类小说 希望观棋大大多多更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504695216</Data></Cell>
+<Cell><Data ss:Type="String">星空</Data></Cell>
+<Cell><Data ss:Type="String">1358697520</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">三年前</Data></Cell>
+<Cell><Data ss:Type="String">观棋小说大部分都看过，最喜欢《长生不死》。钟山</Data></Cell>
+<Cell><Data ss:Type="String">每天更三章更完美幺。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694771</Data></Cell>
+<Cell><Data ss:Type="String">宇荣乐</Data></Cell>
+<Cell><Data ss:Type="String">15255168830</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">小学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">希望在出一本像万古仙穹的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694648</Data></Cell>
+<Cell><Data ss:Type="String">玄天大帝</Data></Cell>
+<Cell><Data ss:Type="String">15091973550</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">观棋，真的。我特别喜欢你的书，你的风格，在看书的过程中，我学到了许多知识，也加深了理解。就像盖世天尊，我特别喜欢，但是你却不更啦。我只想说，没有人，没有书是一下子就特别好，总需要时间沉淀。斗破苍穹，斗罗大陆这两部书火不火？但他也经过了时间的沉淀，他们写完了！最终他们收到了回报！！时间证明是金子总会发光。我相信盖世天尊是金子，我相信盖世天尊是一本好书，我也努力给你推荐。希望你能继续写下去啊…这是我高中就想和你说的话。 一个工作的人。玄天大帝</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694646</Data></Cell>
+<Cell><Data ss:Type="String">夏天</Data></Cell>
+<Cell><Data ss:Type="String">774993445</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2017年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，最喜欢的就是古海和龙战国还有高仙芝等一些人。喜欢他们的性格风范事情。</Data></Cell>
+<Cell><Data ss:Type="String">说实话我看其他小说多有跳几张或者十多张看，但是万古仙穹可以说没有，只是后面感觉有点不理想，不过还是可以了！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694592</Data></Cell>
+<Cell><Data ss:Type="String">蜗壳爱打铁</Data></Cell>
+<Cell><Data ss:Type="String">634491852</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">邪魔妖道，白中仙的修道生涯，长生不死，仙国大帝，盖世天尊，万古仙穹，凌霄之上。最喜欢的莫过于长生不死，喜欢长生不死的格局，剧情发展合理且不牵强，让人欲罢不能。</Data></Cell>
+<Cell><Data ss:Type="String">作为一名差不多看完观棋所有作品的铁杆粉丝，真心希望有机会加入这个大家庭，希望与观棋交流观书心得与感想，共同构思剧情的发展与走向！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694585</Data></Cell>
+<Cell><Data ss:Type="String">文刀三虎</Data></Cell>
+<Cell><Data ss:Type="String">azse751051727</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死是我看过的第一部修帝王的小说！</Data></Cell>
+<Cell><Data ss:Type="String">观棋加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504694201</Data></Cell>
+<Cell><Data ss:Type="String">辉</Data></Cell>
+<Cell><Data ss:Type="String">18975901026</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，这是我看到的第一个以建国统一来长生不死的模式，大部分多是宗派练级模式</Data></Cell>
+<Cell><Data ss:Type="String">希望创作出更换的玄幻小说，后面几本感觉还是老套路</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小孟尝峰峰</Data></Cell>
+<Cell><Data ss:Type="String">1504694057</Data></Cell>
+<Cell><Data ss:Type="String">南华</Data></Cell>
+<Cell><Data ss:Type="String">cxf197126</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中，长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹
+长生殿外面我为钟山大帝
+</Data></Cell>
+<Cell><Data ss:Type="String">看了不少小说，在我心中，唯观棋不败</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">英汉互译-茶尚昆</Data></Cell>
+<Cell><Data ss:Type="String">1504694056</Data></Cell>
+<Cell><Data ss:Type="String">茶尚昆</Data></Cell>
+<Cell><Data ss:Type="String">Brucekun</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大二上学期（也就是2011年）开始看的长生不死，这是我追的第一部网络小说</Data></Cell>
+<Cell><Data ss:Type="String">从长生开始看起，之后每一部都看，由于盖世太监，之后的每一本都是付费看的。印象最深的肯定是钟老魔了，他的智慧，他的城府，他的每一个特点都是做人的好榜样，记得当初看完长生还特地写了一个空间说说写钟山的</Data></Cell>
+<Cell><Data ss:Type="String">希望观大多用点心，一直顶观大，一直都支持观大</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">罗茂贻</Data></Cell>
+<Cell><Data ss:Type="String">1504694015</Data></Cell>
+<Cell><Data ss:Type="String">爻</Data></Cell>
+<Cell><Data ss:Type="String">罗茂贻</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死开始一直都追观棋小说</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693816</Data></Cell>
+<Cell><Data ss:Type="String">苏衍</Data></Cell>
+<Cell><Data ss:Type="String">15776998562</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">看过仙国大帝，万古苍穹，和现在更新的凌霄之上，最喜欢仙国大帝这本小说</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋能越来越好，事业越走越高</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">刺客</Data></Cell>
+<Cell><Data ss:Type="String">1504693690</Data></Cell>
+<Cell><Data ss:Type="String">刺客</Data></Cell>
+<Cell><Data ss:Type="String">13780037088</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，13年，已经踏入社会了</Data></Cell>
+<Cell><Data ss:Type="String">基本都喜欢</Data></Cell>
+<Cell><Data ss:Type="String">盖世烂尾了，有点可以，熊孩子姜泰有点怀念，希望以后不再烂尾</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693675</Data></Cell>
+<Cell><Data ss:Type="String">林尐</Data></Cell>
+<Cell><Data ss:Type="String">l773815583</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">10年左右   大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死、仙国大帝、万古仙穹
+最喜欢长生不死里的钟山</Data></Cell>
+<Cell><Data ss:Type="String">希望你可以写出更多的优秀作品~
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">qwearq</Data></Cell>
+<Cell><Data ss:Type="String">1504693601</Data></Cell>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">13571899624</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢盖世 接下来长生</Data></Cell>
+<Cell><Data ss:Type="String">希望再写盖世</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693499</Data></Cell>
+<Cell><Data ss:Type="String">那遗忘的过去！</Data></Cell>
+<Cell><Data ss:Type="String">908047009</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">有个主播播讲长生不死时知道观棋大大的！</Data></Cell>
+<Cell><Data ss:Type="String">长生不死里面的情节和脉络和各种坑都填的很好！直到现在还一直恋恋不忘！</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大加油↖(^ω^)↗</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693424</Data></Cell>
+<Cell><Data ss:Type="String">老虎不哭 </Data></Cell>
+<Cell><Data ss:Type="String">tanyang678</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学刚毕业，14年的时候</Data></Cell>
+<Cell><Data ss:Type="String">看过长生不死   仙国大帝     最喜欢的还是长生不死  长生不死好像开始的时候不叫这个名字   那个时候只记得钟山这个人物  于是百度搜索  然后找到了这本书 只觉得长生不死中有风趣  有坚毅  场面宏大  可以看的哭  可以看的笑 </Data></Cell>
+<Cell><Data ss:Type="String">观棋啊，长生不死和仙国大帝都看了，我今年已经28岁了，看你这两本书的时候不会觉得你写的书很幼稚，但是你最新的书凌霄之上  看到进地宫的那一段的时候  怎么会有种你写书越来越幼稚的感觉呢？可能是心理的变化觉得书中的人太幼稚，凌霄之上从进地宫开始我就没有继续看了，但是还是希望你有更好的作品！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693377</Data></Cell>
+<Cell><Data ss:Type="String">『大鹏』</Data></Cell>
+<Cell><Data ss:Type="String">940689348</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 仙国大帝 万古仙穹都看过  钟山  嬴政   古海  特别是这种帝王的书特别有意思</Data></Cell>
+<Cell><Data ss:Type="String">加油 我就喜欢看这种帝王书  有感情 有斗智斗勇 可以学到不少东西</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">白光伟</Data></Cell>
+<Cell><Data ss:Type="String">1504693373</Data></Cell>
+<Cell><Data ss:Type="String">我是光伟</Data></Cell>
+<Cell><Data ss:Type="String">15804039542</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中长生不死</Data></Cell>
+<Cell><Data ss:Type="String">所有，长生不死，愿天下苍生人人如龙长生不死，赢死的时候</Data></Cell>
+<Cell><Data ss:Type="String">观大是我第一个迷上的作家，长生不死是我第一本迷上的书，感谢观大，陪我度过无数个空虚的日子，感谢观大，跟我一起成长</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693306</Data></Cell>
+<Cell><Data ss:Type="String">百度贴吧秦始皇嬴</Data></Cell>
+<Cell><Data ss:Type="String">18861945678</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 第一次接触观棋的书 也是第一次看运国的书所以印象最深 已经看了好几遍了</Data></Cell>
+<Cell><Data ss:Type="String">我觉得观棋生活中肯定是个厉害的人物  </Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693212</Data></Cell>
+<Cell><Data ss:Type="String">hey</Data></Cell>
+<Cell><Data ss:Type="String">gaibian258258</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">今年</Data></Cell>
+<Cell><Data ss:Type="String">万古苍穹</Data></Cell>
+<Cell><Data ss:Type="String">希望棋哥有源源不断的好书陪着我</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">观棋</Data></Cell>
+<Cell><Data ss:Type="String">1504693209</Data></Cell>
+<Cell><Data ss:Type="String">刘家有</Data></Cell>
+<Cell><Data ss:Type="String">A2534165806</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">继续努力！我们支持你！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">明天再见</Data></Cell>
+<Cell><Data ss:Type="String">1504693206</Data></Cell>
+<Cell><Data ss:Type="String">渐渐之刃</Data></Cell>
+<Cell><Data ss:Type="String">15291576109</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">13年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，钟山老谋深算
+仙国大帝，阎川霸气侧漏</Data></Cell>
+<Cell><Data ss:Type="String">长生不死是观棋的成名作也是巅峰作，希望观棋坚持自己的特色。加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693130</Data></Cell>
+<Cell><Data ss:Type="String">希杰</Data></Cell>
+<Cell><Data ss:Type="String">18204775595</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">观棋的小说都看过，最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">观棋，小说构思精密，小说文字功底强，不敷衍的写作，永远支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693115</Data></Cell>
+<Cell><Data ss:Type="String">Mop聪</Data></Cell>
+<Cell><Data ss:Type="String">13711245807</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">前年。大学</Data></Cell>
+<Cell><Data ss:Type="String">长生，还是那种操控感，无敌，哈哈，开玩笑啦，还是观棋写书的文风看着舒服。愿随一路。</Data></Cell>
+<Cell><Data ss:Type="String">写得好，看的舒服，文笔用词真的舒服</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693108</Data></Cell>
+<Cell><Data ss:Type="String">Bing</Data></Cell>
+<Cell><Data ss:Type="String">13451807859</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死以后的所有小说，最喜欢长生不死，印象最深刻的当然是钟山钟老魔了，还有肥哥竹竿，哈哈</Data></Cell>
+<Cell><Data ss:Type="String">还是希望观大快快更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504693006</Data></Cell>
+<Cell><Data ss:Type="String">Roc</Data></Cell>
+<Cell><Data ss:Type="String">18011188050</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">第一本是长生不死</Data></Cell>
+<Cell><Data ss:Type="String">都看过，最喜欢的还是钟山</Data></Cell>
+<Cell><Data ss:Type="String">从起点开始到后来的17不离不弃</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">旧念不如久念</Data></Cell>
+<Cell><Data ss:Type="String">1504692996</Data></Cell>
+<Cell><Data ss:Type="String">旧念不如久念</Data></Cell>
+<Cell><Data ss:Type="String">YF1913225833</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝长生不死</Data></Cell>
+<Cell><Data ss:Type="String">我一直很喜欢您的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Yeezn</Data></Cell>
+<Cell><Data ss:Type="String">1504692959</Data></Cell>
+<Cell><Data ss:Type="String">Yeezn</Data></Cell>
+<Cell><Data ss:Type="String">YZG121985832</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">看过《盖世天尊》，《长生不死》，《仙国大帝》，《万古仙穹》，以及现在的《凌霄之上》，最喜欢《盖世天尊》了，喜欢观棋想要囊括春秋战国时期所有典故的魄力，比较喜欢鲁班这个角色，最后应该是跟了姜泰才破了魔咒。</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋创作出更多优秀的作品。很喜欢观棋的写作思维思路，以及观棋独有的风格，从凌霄之上看出来观棋有很努力在创新，丰富了我的生活，谢谢观棋的小说!</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Expiredlove.</Data></Cell>
+<Cell><Data ss:Type="String">1504692941</Data></Cell>
+<Cell><Data ss:Type="String">DF丶姚俊</Data></Cell>
+<Cell><Data ss:Type="String">15167510806</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">15年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">好看，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">慎独</Data></Cell>
+<Cell><Data ss:Type="String">1504692932</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟～卅</Data></Cell>
+<Cell><Data ss:Type="String">DivanoAllen</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">主角是钟山那本，还有万古和凌霄之上，仙国大帝，最喜欢钟山那本</Data></Cell>
+<Cell><Data ss:Type="String">观棋的书读起来有质感，读下来有思想，读完有深度。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">三叶.</Data></Cell>
+<Cell><Data ss:Type="String">1504692843</Data></Cell>
+<Cell><Data ss:Type="String">世界之外</Data></Cell>
+<Cell><Data ss:Type="String">aiwangshining</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，很多，真的不知道怎么说</Data></Cell>
+<Cell><Data ss:Type="String">没有理由就是每本书都很喜欢啊</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">陈先生</Data></Cell>
+<Cell><Data ss:Type="String">1504692829</Data></Cell>
+<Cell><Data ss:Type="String">陈先生</Data></Cell>
+<Cell><Data ss:Type="String">svipit</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2012年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，钟山，情结爽翻车。</Data></Cell>
+<Cell><Data ss:Type="String">刷，牛，酷。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">不良人</Data></Cell>
+<Cell><Data ss:Type="String">1504692790</Data></Cell>
+<Cell><Data ss:Type="String">情话终有主</Data></Cell>
+<Cell><Data ss:Type="String">17881103785</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;上过“我是棋天人”专访的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">应该是13年吧，上初中的时候</Data></Cell>
+<Cell><Data ss:Type="String">我最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">我最喜欢长生不死，希望可以多写点这种书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692739</Data></Cell>
+<Cell><Data ss:Type="String">邪。。。ooo</Data></Cell>
+<Cell><Data ss:Type="String">317462466</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">刚刚接触观大，特别喜欢，</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹，盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">喜欢你，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">毛木灬火华</Data></Cell>
+<Cell><Data ss:Type="String">1504692728</Data></Cell>
+<Cell><Data ss:Type="String">小烨</Data></Cell>
+<Cell><Data ss:Type="String">mao553904160</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">12年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死    愿天下苍生人人如龙</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观大的小说已经五年了，从长生不死到现在的凌霄之上，还是一如既往的喜欢，希望观大以后写更多的书，让读者们能大饱眼福</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692688</Data></Cell>
+<Cell><Data ss:Type="String">月祭</Data></Cell>
+<Cell><Data ss:Type="String">15922151913</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，看的观棋第一本书</Data></Cell>
+<Cell><Data ss:Type="String">多设置点悬念。话说后面这排括号里的第一个词就错了，是想对不是相对</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692626</Data></Cell>
+<Cell><Data ss:Type="String">冬四爷</Data></Cell>
+<Cell><Data ss:Type="String">冬四爷</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">钟山</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692604</Data></Cell>
+<Cell><Data ss:Type="String">鱼塘</Data></Cell>
+<Cell><Data ss:Type="String">13971672295</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">刚刚</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，凌霄之上正在追，剧情还不错</Data></Cell>
+<Cell><Data ss:Type="String">嘴角露出一丝冷笑，脸色一沉，棋哥经典表情</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692565</Data></Cell>
+<Cell><Data ss:Type="String">夕阳晚风</Data></Cell>
+<Cell><Data ss:Type="String">chenxijin890429</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">特别喜欢观棋写的国家类型的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692509</Data></Cell>
+<Cell><Data ss:Type="String">暖阳</Data></Cell>
+<Cell><Data ss:Type="String">ztm0908mxl</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">上个月</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹   古海   大智若妖
+凌霄之上   林画音   </Data></Cell>
+<Cell><Data ss:Type="String">没有特别想说的  小说写的让人很想看 很好。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692493</Data></Cell>
+<Cell><Data ss:Type="String"> Mr-大房</Data></Cell>
+<Cell><Data ss:Type="String">d851845360</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死，仙国大帝，还有万古仙穹！最喜欢的人物是钟山</Data></Cell>
+<Cell><Data ss:Type="String">你的运朝流让我看的欲罢不能！特别爽，希望你多出这种小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">合德置业小何</Data></Cell>
+<Cell><Data ss:Type="String">1504692409</Data></Cell>
+<Cell><Data ss:Type="String">浅笑</Data></Cell>
+<Cell><Data ss:Type="String">13119527006</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">多加更就好，注意身体。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504692398</Data></Cell>
+<Cell><Data ss:Type="String">葬花</Data></Cell>
+<Cell><Data ss:Type="String">qq729042974</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">写的很好。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">孙乐明</Data></Cell>
+<Cell><Data ss:Type="String">1504568611</Data></Cell>
+<Cell><Data ss:Type="String">孙乐明</Data></Cell>
+<Cell><Data ss:Type="String">17798429125</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">计成连环方为计</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">天域冥凤</Data></Cell>
+<Cell><Data ss:Type="String">1504438899</Data></Cell>
+<Cell><Data ss:Type="String">地狱凤凰</Data></Cell>
+<Cell><Data ss:Type="String">shengsi--wuding</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝 万古仙穹。最喜欢长生不死，尤其是各个体系为大千世界探索长生不死奥秘失败说说的那句话，我之不幸，天下大幸，愿大千世界人人如龙，长生不死！也感叹盘古最后的弥留，即使如此衰弱，也要与邪魔同归的决心！！</Data></Cell>
+<Cell><Data ss:Type="String">看观棋大大的书好多年了，对不起，之前不知道盗版对作者的伤害！但从万古仙穹开始一定会支持观棋大大。唯希望大大注意省体，保重身体，经常锻炼，多多陪陪家人！！现在的我才知道家人是多么无私的奉献！不要忽略了他们</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504405696</Data></Cell>
+<Cell><Data ss:Type="String">乱清一</Data></Cell>
+<Cell><Data ss:Type="String">qweewqqwertyuiop</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">观棋老人</Data></Cell>
+<Cell><Data ss:Type="String">天下之大，无界可比。观棋之文，无人可仿。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">zixlhua</Data></Cell>
+<Cell><Data ss:Type="String">1504397839</Data></Cell>
+<Cell><Data ss:Type="String">zixl</Data></Cell>
+<Cell><Data ss:Type="String">zixlhua</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2010大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，直接就看五遍</Data></Cell>
+<Cell><Data ss:Type="String">超脱长生不死</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">若寒</Data></Cell>
+<Cell><Data ss:Type="String">1504360043</Data></Cell>
+<Cell><Data ss:Type="String">白凤</Data></Cell>
+<Cell><Data ss:Type="String">WENROUNANHAI520 </Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2014 初中</Data></Cell>
+<Cell><Data ss:Type="String">《万古仙穹》《盖世天尊》万古仙穹的很多细节感觉特别完美特别喜欢，各种连环计，女主复活时的感动，其中龙婉钰这个角色特别喜欢！</Data></Cell>
+<Cell><Data ss:Type="String">本人也是一个写小说的，但是写的并没有多么好，但是我会努力向各位前辈学习。特别喜欢观棋前辈小说中的各种套路，感觉其中内容特别丰富，有种让人看不腻的感觉，明明看了很多了，却有种才刚刚开始的感觉，看完《盖世天尊》时特别不舍，观棋前辈每周坚持和大家互动也是非常的难得。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504352498</Data></Cell>
+<Cell><Data ss:Type="String">年轻的战场</Data></Cell>
+<Cell><Data ss:Type="String">qin1033247490</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">看过观棋的长生不死，仙国大帝，万古苍穹，印象最深当然是钟山了</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋能够写出更好的作品，加油＾０＾~</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">黑夜黎明</Data></Cell>
+<Cell><Data ss:Type="String">1504346111</Data></Cell>
+<Cell><Data ss:Type="String">黑夜黎明</Data></Cell>
+<Cell><Data ss:Type="String">15549447996</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">在小学六年级暑假，在一个破手机里发现了观棋的小说《长生不死》</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，仙国大帝，凌霄之上，
+最喜欢《长生不死》，这是我最早接触的观棋的书，而且当时忘记了名字，后来想看，找了好长时间，这本书写的很不错，情节紧凑，合理，而且运用了不少中国传统人物故事，给人以耳目一新的感觉。印象最深刻的人物是庄周，根本想不到他竟然隐藏的这么深</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋大大能再创辉煌，将运朝类小说推上巅峰</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504342756</Data></Cell>
+<Cell><Data ss:Type="String">阴建军</Data></Cell>
+<Cell><Data ss:Type="String">952376975</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹最喜欢的</Data></Cell>
+<Cell><Data ss:Type="String">你出现的名字里没见过姓阴的。我觉得可以现在魔门之类的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504282625</Data></Cell>
+<Cell><Data ss:Type="String">匿名D96C9</Data></Cell>
+<Cell><Data ss:Type="String">573722759</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观大大的书，就是就是每天两更看着不爽  </Data></Cell>
+<Cell><Data ss:Type="String">从万古仙穹开始就一直追着大大，写的也很棒，就是更新太慢，不爆发，，，，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504278330</Data></Cell>
+<Cell><Data ss:Type="String">无道自逍遥</Data></Cell>
+<Cell><Data ss:Type="String">990912591</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">《长生不死》钟山，《仙国大帝》，赢，《盖世天尊》没写完很可惜，</Data></Cell>
+<Cell><Data ss:Type="String">观棋哥，一直喜欢你的书，从大情钟山到东方王王雄，喜欢你书的理由是主角很牛Ⅹ，智商压制和实力压制，我以前看你的书都是盗版的，因为以前上学也没有多余的毛爷爷，以后有机会一定看正版，希望你不会放弃写作，我会永远支持你的，也不知道你能不能看见，愿天下苍生，人人如龙，长生不死</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">汤亚男</Data></Cell>
+<Cell><Data ss:Type="String">1504268110</Data></Cell>
+<Cell><Data ss:Type="String">小法</Data></Cell>
+<Cell><Data ss:Type="String">tangtanan</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">更新长生不死中还没飞升大千世界时候</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，剑傲，虽然中期无敌一世，后期没看到真的很遗憾，特别是仙国大帝，我虽然那本没怎么看，但是没那种争锋之姿</Data></Cell>
+<Cell><Data ss:Type="String">观大大加油，希望能出个不污，类似于仙剑1的感情世界出来，最好了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504267922</Data></Cell>
+<Cell><Data ss:Type="String">凌霄大仙凯哥</Data></Cell>
+<Cell><Data ss:Type="String">SCK20020107</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2017年暑假</Data></Cell>
+<Cell><Data ss:Type="String">一本，凌霄之上，   我请天眼射天狼</Data></Cell>
+<Cell><Data ss:Type="String">不是同一时间发两张，字数比大多数小说一章多。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">游戏入梦</Data></Cell>
+<Cell><Data ss:Type="String">1504262205</Data></Cell>
+<Cell><Data ss:Type="String">王者、归来</Data></Cell>
+<Cell><Data ss:Type="String">18105269296</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，仙国大帝……
+长生不死
+钟山</Data></Cell>
+<Cell><Data ss:Type="String">继续加油，写出更好的作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504259316</Data></Cell>
+<Cell><Data ss:Type="String">caiai</Data></Cell>
+<Cell><Data ss:Type="String">wicy14</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高一</Data></Cell>
+<Cell><Data ss:Type="String">古海，嬴政，武瞾</Data></Cell>
+<Cell><Data ss:Type="String">非常合口味，觉得观棋很棒</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503940179</Data></Cell>
+<Cell><Data ss:Type="String">男帝</Data></Cell>
+<Cell><Data ss:Type="String">522929528</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">我记得是长生开篇的时候，忘了是哪一年</Data></Cell>
+<Cell><Data ss:Type="String">最先看的长生，后来将盖世天尊，仙国大帝看完，接着又追万古仙穹，现在看凌霄之上，最喜欢长生不死，做男儿当做钟山，另外也喜欢盖世里的姜泰，感觉这两本是两个方向，可惜盖世没有完结，一大遗憾，通过看观棋的书了解到不少历史上的东西，尤其是对藏家，以及鬼谷特别想了解更多，希望在以后的书里能够看到更多这方面的东西！</Data></Cell>
+<Cell><Data ss:Type="String">希望有一天，能将盖世天尊继续完，另外能不能别让那些公司翻拍咱的作品，对于我们这些看过原版的书迷们，这真的是一种侮辱，我不知道他们这些改编的人是想突显他们的才华还是国家审批这块有什么问题，内容改编的我真想打人，形象也太不入目了！只希望经典永远留存在每个人的脑海中！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">UFO</Data></Cell>
+<Cell><Data ss:Type="String">1503911624</Data></Cell>
+<Cell><Data ss:Type="String">ufo</Data></Cell>
+<Cell><Data ss:Type="String">329866672</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">钟山</Data></Cell>
+<Cell><Data ss:Type="String">加油码子</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503828065</Data></Cell>
+<Cell><Data ss:Type="String">尸雨零</Data></Cell>
+<Cell><Data ss:Type="String">zeroterry</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹_熬顺_孔宣_忠心不改，宁死不屈。</Data></Cell>
+<Cell><Data ss:Type="String">作品十分有趣，而且有吸引性，但错字略多，后期甚至字体丢失甚多~不过依然不失一部好的小说，也从新燃起我从头开始写小说的心情。感谢观棋前辈！在下，拜谢！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503774036</Data></Cell>
+<Cell><Data ss:Type="String">太阳星</Data></Cell>
+<Cell><Data ss:Type="String">ywj998968</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2017年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，古海</Data></Cell>
+<Cell><Data ss:Type="String">牛人一个</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503738644</Data></Cell>
+<Cell><Data ss:Type="String">亿万少女的梦</Data></Cell>
+<Cell><Data ss:Type="String">Z245607251</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊，
+第一个最经典，盖世期待续写</Data></Cell>
+<Cell><Data ss:Type="String">长生一路过来，老人了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503735091</Data></Cell>
+<Cell><Data ss:Type="String">哼哼哈嘿丶</Data></Cell>
+<Cell><Data ss:Type="String">18612134055</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016.初中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">666</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503708915</Data></Cell>
+<Cell><Data ss:Type="String">唔多</Data></Cell>
+<Cell><Data ss:Type="String">526012537</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">最近</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">书写的大气磅礴</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503552543</Data></Cell>
+<Cell><Data ss:Type="String">少君</Data></Cell>
+<Cell><Data ss:Type="String">13479703742</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古，古海</Data></Cell>
+<Cell><Data ss:Type="String">作者加油更新新书，追的看不够</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">曹昆</Data></Cell>
+<Cell><Data ss:Type="String">1503497728</Data></Cell>
+<Cell><Data ss:Type="String">诚实可靠小郎君</Data></Cell>
+<Cell><Data ss:Type="String">AWL1354429400</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高三的时候神迷长生不死，晚自习经常写猜想的剧情，发在长生不死吧</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，最喜欢他的老成，不管遇见什么难题，总留有后手</Data></Cell>
+<Cell><Data ss:Type="String">一定要写自己想写的小说，别被读者评论带偏了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503480389</Data></Cell>
+<Cell><Data ss:Type="String"> 玉鼎小组</Data></Cell>
+<Cell><Data ss:Type="String">13610868253</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2017年初中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，最深刻的人是古海最深刻的性细节是，陈国的皇帝驾崩了然后让太子去找他。说古海能救国。</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大你有师傅吗？</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503472218</Data></Cell>
+<Cell><Data ss:Type="String">滑落之泪</Data></Cell>
+<Cell><Data ss:Type="String">魅力</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，其实我是看了动漫才追的，因为已经书荒好几年了，最喜欢古海，每次都用的阳谋，别人还没法杀他</Data></Cell>
+<Cell><Data ss:Type="String">看完万古后，我会再去看看其他作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503417062</Data></Cell>
+<Cell><Data ss:Type="String">小五</Data></Cell>
+<Cell><Data ss:Type="String">lw12687631</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">4本，最喜欢万古仙穹，黑帝性别有点模糊，送慕容焉去奕天阁的时候是女的，后面写的都是男的</Data></Cell>
+<Cell><Data ss:Type="String">更新更快，大力支持</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Alg丶凉城</Data></Cell>
+<Cell><Data ss:Type="String">1503391514</Data></Cell>
+<Cell><Data ss:Type="String">安于心。</Data></Cell>
+<Cell><Data ss:Type="String">q929148841</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">6年前</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊，白中仙修道生涯。最喜欢长生不死中的白起。霸气十足。最崇拜长生和仙国都出现的鸿钧。賊能算计。能力十足。</Data></Cell>
+<Cell><Data ss:Type="String">如果能把盖世天尊写完就好了。。人物很丰满。每一个都个性十足。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">一生一世</Data></Cell>
+<Cell><Data ss:Type="String">1503315495</Data></Cell>
+<Cell><Data ss:Type="String">一生一世</Data></Cell>
+<Cell><Data ss:Type="String">305945153</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2014</Data></Cell>
+<Cell><Data ss:Type="String">古海，很喜欢下棋</Data></Cell>
+<Cell><Data ss:Type="String">我希望观棋大大，加油出新书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503310869</Data></Cell>
+<Cell><Data ss:Type="String">鬼先生</Data></Cell>
+<Cell><Data ss:Type="String">ZYB1338332</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中！仙国大帝写的时候是哪年</Data></Cell>
+<Cell><Data ss:Type="String">全部都看过啊！仙国大帝没写完我就开始看，后来又补了前面的！长生，仙国，盖世三遍，其他的两遍！最喜欢仙国大帝，闫川霸气无敌</Data></Cell>
+<Cell><Data ss:Type="String">加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">嬴顺</Data></Cell>
+<Cell><Data ss:Type="String">1503219313</Data></Cell>
+<Cell><Data ss:Type="String">殷纣王</Data></Cell>
+<Cell><Data ss:Type="String">yxs2000317</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">看过   长生不死   仙国大帝  万古仙穹
+最喜欢  阎川</Data></Cell>
+<Cell><Data ss:Type="String">希望关大大的书越来越好   祝关大大  天天开心  我永远支持你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">死性不改</Data></Cell>
+<Cell><Data ss:Type="String">1503209162</Data></Cell>
+<Cell><Data ss:Type="String">死性不改</Data></Cell>
+<Cell><Data ss:Type="String">18119567525</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">最早的时候是一一年还是一二年具体忘记了</Data></Cell>
+<Cell><Data ss:Type="String">接触观棋的第一本小说是长生不死一直都在继续追还是喜欢长生不死钟山  帝释天 八极天尾哈哈</Data></Cell>
+<Cell><Data ss:Type="String">观大加油  我会一直支持你的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503155955</Data></Cell>
+<Cell><Data ss:Type="String">叶子</Data></Cell>
+<Cell><Data ss:Type="String">18351409063</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2012</Data></Cell>
+<Cell><Data ss:Type="String">长生，</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502876324</Data></Cell>
+<Cell><Data ss:Type="String">乱舞天宗</Data></Cell>
+<Cell><Data ss:Type="String">唐门——乱舞天宗</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">我目前只拜读过《万古仙穹》这本书，小说内容别具一格，不同于其他类型的小说，希望作者大大能写出更加精彩的小说。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">か^O^</Data></Cell>
+<Cell><Data ss:Type="String">1502860686</Data></Cell>
+<Cell><Data ss:Type="String">jiangsanone</Data></Cell>
+<Cell><Data ss:Type="String">jzf19941004</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死里面的钟山，记得那是上高中高三那年（2012），我把卷子装订到一起把手机放到卷子筒里看长生不死，还拿这个非智能手机看(⊙o⊙)！就喜欢钟山的老辣！</Data></Cell>
+<Cell><Data ss:Type="String">棋哥，我是真的喜欢你的作品！看了长生不死之后我又搜索你的盖世仙尊，前段时间我毕业季你写完的万古仙穹，现在追你的凌霄之上！没说的就是挺你！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502858771</Data></Cell>
+<Cell><Data ss:Type="String">濤</Data></Cell>
+<Cell><Data ss:Type="String">13363302760</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">3年前</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">连续3本书套路差不多  期待推陈出新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502736267</Data></Cell>
+<Cell><Data ss:Type="String">天下</Data></Cell>
+<Cell><Data ss:Type="String">18523762853</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">写万古仙窟开始的时候，就一直追</Data></Cell>
+<Cell><Data ss:Type="String">万古仙窟，剧情很棒，但结尾的地方就没有什么意思了</Data></Cell>
+<Cell><Data ss:Type="String">希望你能出更多更棒的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">换位思考 人生更好</Data></Cell>
+<Cell><Data ss:Type="String">1502616298</Data></Cell>
+<Cell><Data ss:Type="String">傲天</Data></Cell>
+<Cell><Data ss:Type="String">1875195781</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">不错哦</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502510018</Data></Cell>
+<Cell><Data ss:Type="String">平哥</Data></Cell>
+<Cell><Data ss:Type="String">zya6111478</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">小学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，人物，古海，牛b</Data></Cell>
+<Cell><Data ss:Type="String">第一次看万古仙穹是动画版的，然后在网上搜的小说，不看不知道一看吓一跳。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A0000000珍岛网络</Data></Cell>
+<Cell><Data ss:Type="String">1502499259</Data></Cell>
+<Cell><Data ss:Type="String">轩</Data></Cell>
+<Cell><Data ss:Type="String">h13061711911</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死    好希望能拍成电视剧   特别是最后几张  大秦群臣与赢共死的时候  催泪</Data></Cell>
+<Cell><Data ss:Type="String">长生不死   是我看的运朝类小说巅峰作品  至少我是这样认为的    不管观大以后发什么小说都会支持</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">G</Data></Cell>
+<Cell><Data ss:Type="String">1502470115</Data></Cell>
+<Cell><Data ss:Type="String">悟空O_o</Data></Cell>
+<Cell><Data ss:Type="String">guo1293267209</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">所有都看过   钟山</Data></Cell>
+<Cell><Data ss:Type="String">喜欢胖胖管  一直追这他的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">快乐所以学习</Data></Cell>
+<Cell><Data ss:Type="String">1502350777</Data></Cell>
+<Cell><Data ss:Type="String">学习使我快乐</Data></Cell>
+<Cell><Data ss:Type="String">2503379688</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生，万古，仙国都看了好多遍。最喜欢的肯定是长生，就是因为长生爱上小说的，钟山的算无遗漏和霸气，帝玄铩的绝世枭雄之资，赢之大义，大千英雄的不屈，前仆后继为大千崛起而奋斗……</Data></Cell>
+<Cell><Data ss:Type="String">观大发挥自己的特色，写出越来越好的小说，希望凌霄之上成为超越长生的又一佳作。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">。</Data></Cell>
+<Cell><Data ss:Type="String">1502334496</Data></Cell>
+<Cell><Data ss:Type="String">双鹤玫瑰露</Data></Cell>
+<Cell><Data ss:Type="String">519178835</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">刚工作的时候吧</Data></Cell>
+<Cell><Data ss:Type="String">长生</Data></Cell>
+<Cell><Data ss:Type="String">越写越好</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A-皮具维护</Data></Cell>
+<Cell><Data ss:Type="String">1502277695</Data></Cell>
+<Cell><Data ss:Type="String">顔</Data></Cell>
+<Cell><Data ss:Type="String">zsl895902366</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">全部，长生不死</Data></Cell>
+<Cell><Data ss:Type="String">再接再厉，加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">淡定</Data></Cell>
+<Cell><Data ss:Type="String">1502273254</Data></Cell>
+<Cell><Data ss:Type="String">淡定</Data></Cell>
+<Cell><Data ss:Type="String">15167721070</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">观大加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">空空</Data></Cell>
+<Cell><Data ss:Type="String">1502181349</Data></Cell>
+<Cell><Data ss:Type="String">空空</Data></Cell>
+<Cell><Data ss:Type="String">15608456457</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中，长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，基本上他的小说全看了，钟山，</Data></Cell>
+<Cell><Data ss:Type="String">希望欢大越来越好，话说上次结婚说好送喜糖的，没有送。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">挽雕、暮月夜</Data></Cell>
+<Cell><Data ss:Type="String">1502165437</Data></Cell>
+<Cell><Data ss:Type="String">暮月夜</Data></Cell>
+<Cell><Data ss:Type="String">qi0106qi</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生加之后的
+长生不死
+</Data></Cell>
+<Cell><Data ss:Type="String">慢慢来别急</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">呆呆小猪</Data></Cell>
+<Cell><Data ss:Type="String">1502157034</Data></Cell>
+<Cell><Data ss:Type="String">呆呆小猪</Data></Cell>
+<Cell><Data ss:Type="String">sheng1035740264</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2013</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，</Data></Cell>
+<Cell><Data ss:Type="String">我喜欢这种风格</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">淡漠</Data></Cell>
+<Cell><Data ss:Type="String">1502124170</Data></Cell>
+<Cell><Data ss:Type="String">淡漠</Data></Cell>
+<Cell><Data ss:Type="String">318031356</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">应该是大学</Data></Cell>
+<Cell><Data ss:Type="String">都看过了，最喜欢的始终是长生不死，印象最深刻的是姬宫涅，喜欢他的至情至性</Data></Cell>
+<Cell><Data ss:Type="String">只希望观大能加油创造出更好的作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502079159</Data></Cell>
+<Cell><Data ss:Type="String">傲娇妖孽</Data></Cell>
+<Cell><Data ss:Type="String">A2663580931</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2017年5月</Data></Cell>
+<Cell><Data ss:Type="String">看过[万古仙穹]也最喜欢[万古仙穹]印象最深的是古海，善用人心算无遗策</Data></Cell>
+<Cell><Data ss:Type="String">感谢你又让我品尝到了优质的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502033479</Data></Cell>
+<Cell><Data ss:Type="String">周瑜亮</Data></Cell>
+<Cell><Data ss:Type="String">zhouyuliang_storm</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2017，大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，少阴太阴太阳那个情节，觉得这个计谋用的确实妙</Data></Cell>
+<Cell><Data ss:Type="String">我是个动漫迷，看了万古仙穹动漫，是个有亮点的国漫，忍不住去看了小说，发现不是普通的修仙类小说，前期对计谋、战局和世界的描写很到位，很能吸引读者；但是中后期开始，显得有点仓促了，战斗的场景描写很欠缺，人物描写开始大众化，对手也越来越没有脑子，主角像推土机一样不断地平推，虽然主线还在继续，其实场面已经失控了，到最后只剩三类人了：忠诚的臣子辅助无敌的主角打败愚蠢的对手。结局美好，但初心呢？还有就是动漫改动太大了，古海的人物性格已经带偏了，最后几集烂尾啊。希望观棋能坚持下去，探索自己的风格，别总用同样的套路，不断地发掘自己的想象力，创造自己的王朝。看万古仙穹前期，真觉得发现了一个了不起的作家，后期只能说坚持再坚持。
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502023727</Data></Cell>
+<Cell><Data ss:Type="String">引画</Data></Cell>
+<Cell><Data ss:Type="String">m1985460268</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">《万古仙穹》 理由：这本小说的风格和其它书籍不同，以设局解局有主，处处设伏，故事新颖，故事更以复活仙儿为主线，突出了主人公的真性情，我从中学到了很多</Data></Cell>
+<Cell><Data ss:Type="String">观棋，你好！我喜欢你的小说，作为你的粉丝，我要说出万古仙穹美中不足的地方，1、结尾太糙了，没有细写其他人怎么复活，其它人心里活动怎么变化，团圆氛围没有突显出来 2、伏笔不够，如果能有多一点伏笔，像无星先生，姜连山的布局一般，能结合时间顺序，情节特征，人物细节的表露，刻画一个意想不到的结果，哪么我想会出色不少。最好，祝观棋写书越写越好，生活幸福美满。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501920958</Data></Cell>
+<Cell><Data ss:Type="String">无涯夜</Data></Cell>
+<Cell><Data ss:Type="String">zsx334310775</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2017</Data></Cell>
+<Cell><Data ss:Type="String">1.1本
+喜欢《万古仙穹》</Data></Cell>
+<Cell><Data ss:Type="String">感谢您日日夜夜辛辛苦苦地写作。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">唉！！！</Data></Cell>
+<Cell><Data ss:Type="String">1501733361</Data></Cell>
+<Cell><Data ss:Type="String">天王</Data></Cell>
+<Cell><Data ss:Type="String">wlty931061200</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">很早了</Data></Cell>
+<Cell><Data ss:Type="String">全部  长生不死  可惜了盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">努力吧</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">sxsl</Data></Cell>
+<Cell><Data ss:Type="String">1501663653</Data></Cell>
+<Cell><Data ss:Type="String">从头在来</Data></Cell>
+<Cell><Data ss:Type="String">13020444409</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，12年</Data></Cell>
+<Cell><Data ss:Type="String">全部看过，最喜欢的还是长生，从看上观棋的书我就没看过别的小说，没有更新的时候我就看长生不知道看了多少变了！</Data></Cell>
+<Cell><Data ss:Type="String">希望观大加油写一部超过长生的小说！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">天宝~晋云</Data></Cell>
+<Cell><Data ss:Type="String">1501654585</Data></Cell>
+<Cell><Data ss:Type="String">天宝  晋云</Data></Cell>
+<Cell><Data ss:Type="String">1358651309</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死     那时我刚好大病住院</Data></Cell>
+<Cell><Data ss:Type="String">长生不死     仙国     盖世     万古         最喜欢长生       最深刻的是尸先生喊的哪几个冤          </Data></Cell>
+<Cell><Data ss:Type="String">打发时间看不会无聊睡觉        求每天3更</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">伟</Data></Cell>
+<Cell><Data ss:Type="String">1501638399</Data></Cell>
+<Cell><Data ss:Type="String">极地之南</Data></Cell>
+<Cell><Data ss:Type="String">13729023203</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">从白中仙就开始看观棋大大的书，最喜欢长生不死，赢最让人难以忘怀</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大，我很喜欢你…………………………………………………………………………的书，请别误会，我对你的身体真没兴趣</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501596049</Data></Cell>
+<Cell><Data ss:Type="String">温文儒雅、</Data></Cell>
+<Cell><Data ss:Type="String">18707580791</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">计谋举世无双</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">叶无殇</Data></Cell>
+<Cell><Data ss:Type="String">1501589561</Data></Cell>
+<Cell><Data ss:Type="String">叶无殇</Data></Cell>
+<Cell><Data ss:Type="String">18586300521</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">3本，《仙国大帝》   一切皆在计算当中。</Data></Cell>
+<Cell><Data ss:Type="String">让我受益匪浅，从中更增长了见识。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">雨过无痕</Data></Cell>
+<Cell><Data ss:Type="String">1501492284</Data></Cell>
+<Cell><Data ss:Type="String">雨过无痕</Data></Cell>
+<Cell><Data ss:Type="String">qqdexin</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">前年开始看的吧</Data></Cell>
+<Cell><Data ss:Type="String">以现代化经济手段融入书里，虽然略显夸张。也是吸引我的地方。当然有很多很多。总之很喜欢</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">张东辉</Data></Cell>
+<Cell><Data ss:Type="String">1501469935</Data></Cell>
+<Cell><Data ss:Type="String">久安</Data></Cell>
+<Cell><Data ss:Type="String">975024047</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">12年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，情节，套路，构架，都是计较符合我的口味的</Data></Cell>
+<Cell><Data ss:Type="String">继续加油，努力</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">喻某某。</Data></Cell>
+<Cell><Data ss:Type="String">1501415141</Data></Cell>
+<Cell><Data ss:Type="String">天河焦黑丶</Data></Cell>
+<Cell><Data ss:Type="String">929779983</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">五年前</Data></Cell>
+<Cell><Data ss:Type="String">喜欢长生</Data></Cell>
+<Cell><Data ss:Type="String">越写越精彩</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501399103</Data></Cell>
+<Cell><Data ss:Type="String">陈</Data></Cell>
+<Cell><Data ss:Type="String">cc3625018</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">三四年前吧，是在写仙国大帝的时候</Data></Cell>
+<Cell><Data ss:Type="String">我喜欢长生不死和仙国大帝，很喜欢</Data></Cell>
+<Cell><Data ss:Type="String">我喜欢观棋的题材，可也感觉观棋被题材限制了，走不出去</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501381631</Data></Cell>
+<Cell><Data ss:Type="String">如此轻狂</Data></Cell>
+<Cell><Data ss:Type="String">670798410</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万户，和现在的</Data></Cell>
+<Cell><Data ss:Type="String">非常有情节，特别喜欢</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">执默。</Data></Cell>
+<Cell><Data ss:Type="String">1501317932</Data></Cell>
+<Cell><Data ss:Type="String">易水寒</Data></Cell>
+<Cell><Data ss:Type="String">qjqaw9804</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">最最最喜欢的是仙国大帝中，阎川与奕风对弈的那局棋，写出了气势恢宏的磅礴场面。写出了一个帝王驾驭名臣的权术。</Data></Cell>
+<Cell><Data ss:Type="String">这么多年的小说之旅，唯独看观大的书看的最多，映像最深刻，不仅仅是写故事，没有深厚的文学功底也吸引不了我的。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501298562</Data></Cell>
+<Cell><Data ss:Type="String">紫霄</Data></Cell>
+<Cell><Data ss:Type="String">zixiao9</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">御道  2009年</Data></Cell>
+<Cell><Data ss:Type="String">看过四本  喜欢帝王道</Data></Cell>
+<Cell><Data ss:Type="String">虽然我看的是盗版但是我真的喜欢你小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">久伴</Data></Cell>
+<Cell><Data ss:Type="String">1501296084</Data></Cell>
+<Cell><Data ss:Type="String">卅</Data></Cell>
+<Cell><Data ss:Type="String">h2396562864</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">看过长生不死，仙国大帝，万古仙穹。最喜欢长生不死，因为里边剧情都很丰富，各种心机各种藏。</Data></Cell>
+<Cell><Data ss:Type="String">就是个人觉得观棋些这些书，应该会看很多资料啥的吧，那样就会特别辛苦，而且一般没断过更，作者真是很辛苦</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">沉默</Data></Cell>
+<Cell><Data ss:Type="String">1501292997</Data></Cell>
+<Cell><Data ss:Type="String">沉默</Data></Cell>
+<Cell><Data ss:Type="String">沉默</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">就是这个味</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">下个陌生人</Data></Cell>
+<Cell><Data ss:Type="String">1501263488</Data></Cell>
+<Cell><Data ss:Type="String">珉尘</Data></Cell>
+<Cell><Data ss:Type="String">wj20021202</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">看过《长生不老》，《万古仙穹》…；《万古仙穹》；印象深刻的莫过于《万古仙穹》中龙战国一斧逆天，傲世苍穹的场面：人不成仙，无力面天？</Data></Cell>
+<Cell><Data ss:Type="String">在意料之外，又在情理之中…</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501251947</Data></Cell>
+<Cell><Data ss:Type="String">谢文东</Data></Cell>
+<Cell><Data ss:Type="String">liuminggang99</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2010</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，钟山，霸气帝皇，唯我独尊，枭雄</Data></Cell>
+<Cell><Data ss:Type="String">枭雄争霸，群雄争霸，比智，比狠，比命，比运，比气，，，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501244661</Data></Cell>
+<Cell><Data ss:Type="String">都天落羽</Data></Cell>
+<Cell><Data ss:Type="String">302882250</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">中专</Data></Cell>
+<Cell><Data ss:Type="String">长生不死   仙国大帝   万古仙穹   盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">跪求更新加快</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501239874</Data></Cell>
+<Cell><Data ss:Type="String">时光浅浅</Data></Cell>
+<Cell><Data ss:Type="String">1583378184</Data></Cell>
+<Cell><Data ss:Type="String">其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">刚开始是看到动漫感觉太慢了，才会去看小说，但是一看小说就忍不住的一直看，我也是看了八年小说的小说迷了，最近两年很难找到喜欢的小说了，总之这是一本我很喜欢的小说</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观棋老人，算尽天下人，天下事，佩服他的头脑吧</Data></Cell>
+<Cell><Data ss:Type="String">希望能一直这样坚持下去，勿忘本心，就一定能一直写出最好的小说</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501239656</Data></Cell>
+<Cell><Data ss:Type="String">我为亚歌上王者</Data></Cell>
+<Cell><Data ss:Type="String">317578262，15660720369</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死。连载的时候</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝。这个系列以国家为群体的修炼体系。很喜欢。</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝后还有续集嘛</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501239133</Data></Cell>
+<Cell><Data ss:Type="String">哈！</Data></Cell>
+<Cell><Data ss:Type="String">L1242382366</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高1</Data></Cell>
+<Cell><Data ss:Type="String">长生不死  天灵儿失忆后钟山做的一切 最后他们亿万人前结为夫妻感觉很浪漫  心都化了</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大加油  每一本书都很好看</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">侯淇</Data></Cell>
+<Cell><Data ss:Type="String">1501238132</Data></Cell>
+<Cell><Data ss:Type="String">侯淇</Data></Cell>
+<Cell><Data ss:Type="String">18822512891</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">万古 仙国</Data></Cell>
+<Cell><Data ss:Type="String">求多更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">℡6肖建彩钢铁艺</Data></Cell>
+<Cell><Data ss:Type="String">1501237642</Data></Cell>
+<Cell><Data ss:Type="String">肖建彩钢</Data></Cell>
+<Cell><Data ss:Type="String">18192048402</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死万古仙宆</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">永远支持</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">笨笨笨笨笨、猪</Data></Cell>
+<Cell><Data ss:Type="String">1501237058</Data></Cell>
+<Cell><Data ss:Type="String">笨笨笨笨笨、猪</Data></Cell>
+<Cell><Data ss:Type="String">13876077495</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">03年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501237024</Data></Cell>
+<Cell><Data ss:Type="String">纯洁少年i</Data></Cell>
+<Cell><Data ss:Type="String">1044982320</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">哪年忘了，那时候贴吧看长生不死更新，然后又看了观棋之前的小说</Data></Cell>
+<Cell><Data ss:Type="String">观棋的小说都看，长生不死是我看的第一部修仙小说，最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">观棋小说内容丰富有趣情节让人回味，我会一直支持下去，希望观大以后有机会续写盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">　　　　</Data></Cell>
+<Cell><Data ss:Type="String">1501209805</Data></Cell>
+<Cell><Data ss:Type="String">风萧萧、学旅艰辛</Data></Cell>
+<Cell><Data ss:Type="String">479830411</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">第五遍，感谢耐心的群主大大，能给我这个机会。我爱观棋！
+最喜欢的是御道，因为这是我看的第一本网络小说之后就一直追观棋大大的书到现在还把白中仙修仙传补完了。
+最喜欢的是【御道】，因为这是我看的第一本网络小说，这本书简直给我打开了新世界的大门。之后就一直追观棋大大的书到现在还把白中仙修仙传补完了。
+以下是印象深刻的情节，观大的所有书都看过就每本书都写一下。
+最喜欢的是【御道】，因为这是我看的第一本网络小说，这本书简直给我打开了新世界的大门。之后就一直追观棋大大的书到现在还把白中仙修仙传补完了。
+以下是印象深刻的情节，观大的所有书都看过就每本书都写一点。
+1.白中仙修仙传：白中仙的徒弟们怼熊圣人，那时候没看多少小说就贼担心怕白中仙回来晚了这些徒弟们扑街。
+2.御道：因为第一次看所有？情节都觉得新鲜，所以印象深刻的有点多，挑两处最深刻的说吧，一个是通天在铁剑门说的我不戒色,87侧漏；另一个是主角制作古琴揪天马尾巴，当时看笑疯23333。
+3.邪魔妖道：剑舞还是谁扑街了主角为她重塑阴魂修剑；知道原始弄死的主角师父兼手下迎祖之后，邪神自爆套路原始。
+4.长生不死：女主角虽多只粉天灵儿，喜欢桂花糕和漫画书剧情。还有从这个时候开始观棋大大走上了传销传销的伟大事业。
+5.仙国大帝：格局大但是把中枢写废了不开心。印象最深的是大秦一众老将魂兮归来；大臻至秦，原来的玉玺甘愿融入大臻玉玺之中。
+6.盖世天尊：这本书没有下面，这一点吧。姜杵臼怼死鹿仙人；林蛋大。
+7.万古仙穹：蒙泰团伙相互算计，主角逆天救龙战国。
+8.凌霄之上：主角为周天音挡住寒气。</Data></Cell>
+<Cell><Data ss:Type="String">从初中到大学毕业，观棋大大的书陪我度过了无数个独处的时光。我见证了观棋大大写的每一本书（可惜了不是白中仙时代的老粉），观棋大大的书也陪伴了我的成长。我觉得观棋大大给我的感觉超越了书友跟作者，观大像一位大哥哥一样一直在给我讲故事，一直到现在。以前没条件，只能看盗版，现在有条件了，我会一直看正版的，虽然不能为观棋大大带来太大的收益，但是我会陪观棋大大一直走下去。你陪我长大，我陪你走到底！人生路程，感谢有你。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Long强</Data></Cell>
+<Cell><Data ss:Type="String">1501067204</Data></Cell>
+<Cell><Data ss:Type="String">本尊敷帅</Data></Cell>
+<Cell><Data ss:Type="String">i5201316</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2013年看的长生不死，之后追的仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死，看过之后不单喜欢钟山，还有嬴，姬宫涅还有钟山的一众臣子！最喜欢那句“愿天下苍生人人如龙，长生不死”还有姬宫涅跟大周告别，真看哭了！</Data></Cell>
+<Cell><Data ss:Type="String">我想说：观大，我会一直支持你，只要你还写书，我就看。虽然我没太多钱打赏，但我一定会看正版！加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">(*^﹏^*)～～太阳心</Data></Cell>
+<Cell><Data ss:Type="String">1501065097</Data></Cell>
+<Cell><Data ss:Type="String">太阳心</Data></Cell>
+<Cell><Data ss:Type="String">akwangjunak</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2013</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，长生不死等，万古仙穹最喜欢，印象最深得是古海主角</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋得作品越来越好，每天爆更，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A权健资料库 小曹 18522654372</Data></Cell>
+<Cell><Data ss:Type="String">1501064278</Data></Cell>
+<Cell><Data ss:Type="String">翔哥</Data></Cell>
+<Cell><Data ss:Type="String">18522654372</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初三时的长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，白中仙，万古仙穹，还有一个阉割的
+最喜欢的还是钟老魔，胖瘦二兄弟，撒尿的情节和悲青丝的显微镜，水里有怪兽，哈哈</Data></Cell>
+<Cell><Data ss:Type="String">多多更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501064251</Data></Cell>
+<Cell><Data ss:Type="String">鸿蒙</Data></Cell>
+<Cell><Data ss:Type="String">ws0708ws</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">不记得了，就是长生那年开始看的</Data></Cell>
+<Cell><Data ss:Type="String">观棋的小说全都看完了，最喜欢就数长生不死了！</Data></Cell>
+<Cell><Data ss:Type="String">很喜欢观棋的写作风格</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501063589</Data></Cell>
+<Cell><Data ss:Type="String">观棋 钟</Data></Cell>
+<Cell><Data ss:Type="String">18258997411</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">14年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">挺好的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">句号</Data></Cell>
+<Cell><Data ss:Type="String">1500910143</Data></Cell>
+<Cell><Data ss:Type="String">句号</Data></Cell>
+<Cell><Data ss:Type="String">15208317275</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中吧  那时候看长生来着   11年吧</Data></Cell>
+<Cell><Data ss:Type="String">长生开始追的嘛一直到现在的凌霄，最喜欢的当然是长生不死，顺路一提，盖世真特么好看。还记得一段特别令我激动的一段，古神通气运加身，化为万丈巨人，上有封神榜，下有息壤。一人力战苍天之眼！这段真的看着真是特有味道。</Data></Cell>
+<Cell><Data ss:Type="String">说真的   ，观棋大大，在我看来长生之所以会成为经典主要原因并不是它的帝王流，而是它清晰的世界构架和丰富的人物形象，当初看长生不死的时候感觉自己能看到这个世界的各式各样，能清晰的认知到这世界的地理、文明构架分布，每个读者能找到自己喜欢的人物，除了主角之外，每个人物都有自己的闪光点，有自己的个性。这么说吧，看长生就像是在看群像剧，就这些吧，嗯，就这些。（ps：感觉就阴月王朝的皇帝描写得都比万古的好多角色比如说卅、    什么的都好，本来想多说几个，可是万古能让我记住又正好可以用在卅后面那段空白的人物想好一会都没想到。）</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">倘若。</Data></Cell>
+<Cell><Data ss:Type="String">1500816359</Data></Cell>
+<Cell><Data ss:Type="String">一帅</Data></Cell>
+<Cell><Data ss:Type="String">qkhhihsskk </Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">重生骷髅小兵</Data></Cell>
+<Cell><Data ss:Type="String">从长生不死开始看，一直到现在，最喜欢的还是长生不死</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋大大越写越好！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">。独月丶</Data></Cell>
+<Cell><Data ss:Type="String">1500710331</Data></Cell>
+<Cell><Data ss:Type="String">丶独月。</Data></Cell>
+<Cell><Data ss:Type="String">13189472708</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，盖世天尊，万古仙穹喜欢这三本，尤其是万古仙穹最为喜欢，独特的设定，琴棋书画的文修设定尤其出彩，充分活跃改写了上古神话中的一些主要人物，精彩的博弈看的十分过瘾，最喜欢开头凡人阶段时的那场国与国之间的斗争，古海使用的“乱”字谋让人眼前一亮，看的我大呼过瘾，十分精彩出色。</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋能再接再厉，写出更好更精彩的小说，同时也希望你能再创新高，期待凌霄之上的后续发展，希望能给我一种不一样的感觉。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500695187</Data></Cell>
+<Cell><Data ss:Type="String">往生者</Data></Cell>
+<Cell><Data ss:Type="String">407940161</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，小说写得很有情感</Data></Cell>
+<Cell><Data ss:Type="String">很有情感</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500632717</Data></Cell>
+<Cell><Data ss:Type="String">随风</Data></Cell>
+<Cell><Data ss:Type="String">287890745</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中2015</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹     很喜欢作者笔下的古海，</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋继续写出类似于万古仙穹，凌霄之上的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Efforts丶T徫</Data></Cell>
+<Cell><Data ss:Type="String">1500596070</Data></Cell>
+<Cell><Data ss:Type="String">Efforts丶T徫</Data></Cell>
+<Cell><Data ss:Type="String">351021655</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2012</Data></Cell>
+<Cell><Data ss:Type="String">从《长生不死》开始，《仙国大帝》，《盖世天尊》，《万古苍穹》到现在的《凌霄之上》都一直追更！从不间断，每天都看！最喜欢的还是《长生不死》，书荒的时候看了三四次！</Data></Cell>
+<Cell><Data ss:Type="String">感谢观棋这么多年的陪伴，让我在空余的时间里得到了充实！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">初一</Data></Cell>
+<Cell><Data ss:Type="String">1500554954</Data></Cell>
+<Cell><Data ss:Type="String">初一</Data></Cell>
+<Cell><Data ss:Type="String">ABCDASDF752539</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">16年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死、仙国大帝、万古仙穹，最喜欢赢这个角色。</Data></Cell>
+<Cell><Data ss:Type="String">从观大的书中可以看出观大是有理想有抱负的人，可惜，现实终究只是现实。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500538853</Data></Cell>
+<Cell><Data ss:Type="String">一剑酷龙</Data></Cell>
+<Cell><Data ss:Type="String">15959059675</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">最早一本是长生不死，高中的时候，本人目前大三</Data></Cell>
+<Cell><Data ss:Type="String">看过长生不死之后的每一本。最喜欢盖世天尊，主角变身旱魃，还记得那天下午兴致勃勃的进贴吧打算看小说的，结果发现观棋大大说盖世天尊太监了</Data></Cell>
+<Cell><Data ss:Type="String">我只想观棋有机会的话能不能把盖世天尊写完，真的很喜欢</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">青丝寸寸绕指柔</Data></Cell>
+<Cell><Data ss:Type="String">1500534639</Data></Cell>
+<Cell><Data ss:Type="String">花落飘雪</Data></Cell>
+<Cell><Data ss:Type="String">1284870551</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">10年12月，看长生不死。</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 仙国大帝</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观棋的小说，一环扣一环各种兵法阴谋阳谋，各种人物刻画很完美，开辟了仙武运朝模式，不是其他的小说，千篇一律的斗破苍穹复制版。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">国内外旅游-吴海宽</Data></Cell>
+<Cell><Data ss:Type="String">1500529728</Data></Cell>
+<Cell><Data ss:Type="String">狂乱桂公子</Data></Cell>
+<Cell><Data ss:Type="String">13384403983</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学时期，08年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穷</Data></Cell>
+<Cell><Data ss:Type="String">第一次看观大的事是在火车上，6个小时的长途跋涉，是观大的书陪伴着我，后来找工作，上班了，每每在公交上，下班休息，都是看观大的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500518922</Data></Cell>
+<Cell><Data ss:Type="String">黎一</Data></Cell>
+<Cell><Data ss:Type="String">318634876</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死仙国大帝盖世天尊最喜欢盖世天高三那段时间让我开怀大笑～</Data></Cell>
+<Cell><Data ss:Type="String">本身不太会说话，陪伴是最长情的告白，从高中开始接触长生不死，陪伴你从起点到塔读到17k，在往后的时光里我将继续陪伴～</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">为明天加油</Data></Cell>
+<Cell><Data ss:Type="String">1500505075</Data></Cell>
+<Cell><Data ss:Type="String">为明天加油</Data></Cell>
+<Cell><Data ss:Type="String">feiyunshiqi</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">盖世天尊刚出的那个时候</Data></Cell>
+<Cell><Data ss:Type="String">4本，万古仙穹，最喜欢古海，因为作者笔下的这个主人公跟我看其他书籍主人公有所不同，写古海这个人物就以一种简洁的语言去概括每一章所写的事情而不像其他书籍有许多的无用话在内这就需要让人细心的去看，但，写万古不同每一章就显得十分有趣，环环相扣。</Data></Cell>
+<Cell><Data ss:Type="String">一本好书需要具有三个条件:时间，地点，人物，这些观棋都做到了，深感佩服</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">不太胖的胖子</Data></Cell>
+<Cell><Data ss:Type="String">1500481638</Data></Cell>
+<Cell><Data ss:Type="String">不太胖的胖子</Data></Cell>
+<Cell><Data ss:Type="String">z2479406003</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">《万古仙穹》，《长生不死》
+姜连山，观棋老人，古明，未生人：身融伏羲七魄那一段。
+嬴：身死而为了让钟山超脱。还有大千世界的无数强者，以死来验证超脱之路。</Data></Cell>
+<Cell><Data ss:Type="String">写的有热血，有心计，有阴谋，有真情，但两本小说有雷同。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">雨的印记</Data></Cell>
+<Cell><Data ss:Type="String">1500481268</Data></Cell>
+<Cell><Data ss:Type="String">雨的印记</Data></Cell>
+<Cell><Data ss:Type="String">Tchengzzb</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大一，就是2013年</Data></Cell>
+<Cell><Data ss:Type="String">我一般不记书名，不过钟山跟嬴的那两部都看过了，仙国大帝还有长生不死，如果没记错的话，还有古海的万古仙穹，还有现在的凌霄之上。万古仙穹挺不错的，印象最深刻的当然是主角古海啦，从微末看起，到最后凌驾于众人之上，还有龙婉清姐妹两个都收了，就是牛，哈哈。</Data></Cell>
+<Cell><Data ss:Type="String">从最开始接触观棋的书，到现在，已经好几年了，是我看小说以来，就观棋的看得多，看得认真，追的最久。其他的，多数都是无聊，不知道看什么而看的，支持观棋。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500476000</Data></Cell>
+<Cell><Data ss:Type="String">不后悔</Data></Cell>
+<Cell><Data ss:Type="String">fu605857150</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊等等！最喜欢长生不死，神一般的思路，不同的方式，细腻的手法，创造的思维！</Data></Cell>
+<Cell><Data ss:Type="String">我想加入龙套，我叫傅星凯！傅姓是黄帝姬姓分支！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500453959</Data></Cell>
+<Cell><Data ss:Type="String">端木凌丰</Data></Cell>
+<Cell><Data ss:Type="String">Fb986835</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2010年或是2011年吧，具体不记得了。</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹，凌霄还在追。喜欢长生，钟山。第一本印象比较深。</Data></Cell>
+<Cell><Data ss:Type="String">没啥想说的。祝越来越多的人喜欢观大。</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">。</Data></Cell>
+<Cell><Data ss:Type="String">1500450281</Data></Cell>
+<Cell><Data ss:Type="String">。</Data></Cell>
+<Cell><Data ss:Type="String">15883962001</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">都看过。。最喜欢长生不死和万古仙穹。</Data></Cell>
+<Cell><Data ss:Type="String">第一次接触观棋的小说就感觉入迷了。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">华子</Data></Cell>
+<Cell><Data ss:Type="String">1500447897</Data></Cell>
+<Cell><Data ss:Type="String">华子</Data></Cell>
+<Cell><Data ss:Type="String">78603634</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">11年工作</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝的靖，好霸气又好温柔，是靖的侄女被杀死他复仇的一节，还有和铩的交往！</Data></Cell>
+<Cell><Data ss:Type="String">第一本看的小说是《诛仙》，后来基本没在看过小说，偶然的机会碰到了观大的仙国大帝，就一直追到了现在，也偶尔看了别人的小说，不知为什么就是觉得不如看观大的小说感觉好，看来已中毒很深啦！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">青衫龄</Data></Cell>
+<Cell><Data ss:Type="String">1500447576</Data></Cell>
+<Cell><Data ss:Type="String">大鱼崽</Data></Cell>
+<Cell><Data ss:Type="String">yaoke023572</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">哈哈哈哈</Data></Cell>
+<Cell><Data ss:Type="String">凌霄之上</Data></Cell>
+<Cell><Data ss:Type="String">哈哈哈哈</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">无限</Data></Cell>
+<Cell><Data ss:Type="String">1500426086</Data></Cell>
+<Cell><Data ss:Type="String">无限</Data></Cell>
+<Cell><Data ss:Type="String">13569032076</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">参加工作以后</Data></Cell>
+<Cell><Data ss:Type="String">盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">希望能把盖世写完</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500398859</Data></Cell>
+<Cell><Data ss:Type="String">孽龙</Data></Cell>
+<Cell><Data ss:Type="String">13068527016</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">邪魔妖道-白中仙，长生不死，鲜果，等全都看了，不过真正最喜欢的还是邪魔妖道，里面的科技与修仙结合至今难忘，一枚神墨石，看了忘不了</Data></Cell>
+<Cell><Data ss:Type="String">陪伴我度过整一个高中的美好时光，谢谢！以前读书多是看盗版，现在出来了，长生后的每本书都有订阅，加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500387342</Data></Cell>
+<Cell><Data ss:Type="String">宝葫楼</Data></Cell>
+<Cell><Data ss:Type="String">15940893035</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死时候</Data></Cell>
+<Cell><Data ss:Type="String">长生，邪魔，御道，仙国，万古，盖世，凌霄</Data></Cell>
+<Cell><Data ss:Type="String">观大的书写的非常好一直在看，虽然没有打赏过，但是我是全部订阅过来的，看书一直在起点为了看观大的书一直追到别的网站！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">你若安好，便是晴天！</Data></Cell>
+<Cell><Data ss:Type="String">1500386480</Data></Cell>
+<Cell><Data ss:Type="String">赤霄道尊（杨斌）（杨文武）</Data></Cell>
+<Cell><Data ss:Type="String">ywb1314521577</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">看过:长生不死，仙国大帝，万古仙穹，凌霄之上
+最喜欢:仙国大帝
+印象深刻的人物:孔皇天，紫薇大帝
+</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大，你的书不错，可以给书中加着其他元素可能会更加完美一些，还有就是普遍将部下的修为提高一点。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500381395</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟—大帝</Data></Cell>
+<Cell><Data ss:Type="String">13937706155</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹，凌霄之上。最喜欢长生不死</Data></Cell>
+<Cell><Data ss:Type="String">还记得当年我失恋的时候是仙国大帝陪伴我。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500375241</Data></Cell>
+<Cell><Data ss:Type="String">廿卅卌</Data></Cell>
+<Cell><Data ss:Type="String">xueyuezhimen</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">忘了，好多年了，长生不死开始的</Data></Cell>
+<Cell><Data ss:Type="String">都看过，盖世天尊最好看</Data></Cell>
+<Cell><Data ss:Type="String">从盖世天尊烂尾开始就对观棋失望了，本想着再也不看了，但是其他人的小说又看不习惯，所以一直拖着
+希望观大能越来越好，而不是虎头蛇尾</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">帅帅的小毛驴</Data></Cell>
+<Cell><Data ss:Type="String">1500374822</Data></Cell>
+<Cell><Data ss:Type="String">帅帅</Data></Cell>
+<Cell><Data ss:Type="String">wushuaihua</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中，2012年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，钟山。
+仙国大帝。
+盖世天尊。
+万古仙穹。
+凌霄之上。</Data></Cell>
+<Cell><Data ss:Type="String">我以前都不看小说，自从朋友推荐了一部长生不死，从那以后，深陷其中，不能自拔，啊啊啊，太爱了，这就是我喜欢的风格！
+这么多年来，我一直默默支持，很喜欢观大。是观大的书陪伴了我的高中、大学时代，现在工作了，快要成家立业，回想起来还真是温馨。
+希望观大的书越来越好，我们会一直陪伴你，加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">心之所向便是光</Data></Cell>
+<Cell><Data ss:Type="String">1500373559</Data></Cell>
+<Cell><Data ss:Type="String">豌豆射手</Data></Cell>
+<Cell><Data ss:Type="String">wx397865428</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">12年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊，万古仙穹。长生不死是我看观棋的第一本书，喜欢钟山的霸气，智慧。愿天下苍生，人人如龙这句话看的我心情澎湃</Data></Cell>
+<Cell><Data ss:Type="String">我也是老书虫了，以前从没看充过钱看正版书，观棋的书是我第一充值订阅，支持观棋，好好写，慢慢写，写稳，写好</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500372297</Data></Cell>
+<Cell><Data ss:Type="String">小宇</Data></Cell>
+<Cell><Data ss:Type="String">pyf3825131</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">两年前，第一次看的是万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢的还是万古仙穹，里边前后八百万年的逻辑简直逆天，而且到最后也没有成功修改命运，很有哲学</Data></Cell>
+<Cell><Data ss:Type="String">我一直喜欢玄幻小说，特别喜欢逻辑性强的小说，在看了观棋的小说之后就知道我找到好作者了，我一定会一直关注观棋，给他支持</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">西伯利亚风</Data></Cell>
+<Cell><Data ss:Type="String">1500367453</Data></Cell>
+<Cell><Data ss:Type="String">蜗牛</Data></Cell>
+<Cell><Data ss:Type="String">18911429461</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">全看过，长生不死的赢，剑傲，帝玄杀。</Data></Cell>
+<Cell><Data ss:Type="String">观棋的书格局大，构思严谨，几乎没bug，很喜欢！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">〆Royal^天蝎座</Data></Cell>
+<Cell><Data ss:Type="String">1500364211</Data></Cell>
+<Cell><Data ss:Type="String">天蝎座</Data></Cell>
+<Cell><Data ss:Type="String">13110007862</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">钟山</Data></Cell>
+<Cell><Data ss:Type="String">我一直很喜欢观棋大大，很喜欢观棋的风格</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">程永波</Data></Cell>
+<Cell><Data ss:Type="String">1500362084</Data></Cell>
+<Cell><Data ss:Type="String">小胖鱼</Data></Cell>
+<Cell><Data ss:Type="String">15679068977</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高二到现在，已经7年了。</Data></Cell>
+<Cell><Data ss:Type="String">观棋小说从长生不死、仙国大帝、盖世天尊、万古仙穹都有看过，最喜欢长生不死。
+情节的话长生不死大结局——愿天下苍生，人人如龙，长生不死。</Data></Cell>
+<Cell><Data ss:Type="String">我会一直支持你，期待以后请观大吃饭。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">邓远宝</Data></Cell>
+<Cell><Data ss:Type="String">1500361263</Data></Cell>
+<Cell><Data ss:Type="String">大侠饶命</Data></Cell>
+<Cell><Data ss:Type="String">violette_1</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">2010年左右吧，看长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，一命二运三风水四积阴德五读书的体系很喜欢</Data></Cell>
+<Cell><Data ss:Type="String">观棋我爱你就想老鼠爱大米，这么牛逼没理由不翻牌吧</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500360337</Data></Cell>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">sjzlmd001 </Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">1年级</Data></Cell>
+<Cell><Data ss:Type="String">万古苍穹</Data></Cell>
+<Cell><Data ss:Type="String">你媳妇好漂亮</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">九脉山泉 阿玉</Data></Cell>
+<Cell><Data ss:Type="String">1500359031</Data></Cell>
+<Cell><Data ss:Type="String">阿玉</Data></Cell>
+<Cell><Data ss:Type="String">ps101007</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不老2012年</Data></Cell>
+<Cell><Data ss:Type="String">长生不老  仙国大帝  盖世天尊  万古仙穹
+ 最喜欢 长生不死
+  印象最深的是 钟山 钟山九个老婆易衍先生 剑傲 赢 姜泰 等等
+  情节  天崩计划   愿大千世界人人如龙 长生不死</Data></Cell>
+<Cell><Data ss:Type="String">虽然没有华丽的词语 但写得深入人心 情节更是扣人心弦</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">温热</Data></Cell>
+<Cell><Data ss:Type="String">1500352286</Data></Cell>
+<Cell><Data ss:Type="String">温热</Data></Cell>
+<Cell><Data ss:Type="String">ajwpj1314520</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2009初中</Data></Cell>
+<Cell><Data ss:Type="String">都看过，仙国大帝，闫川，霸气，睿智。</Data></Cell>
+<Cell><Data ss:Type="String">希望可以一直看观棋的书到老，让孩子们也一起看。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">か朕恕你无罪！</Data></Cell>
+<Cell><Data ss:Type="String">1500352212</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟-折岚</Data></Cell>
+<Cell><Data ss:Type="String">k1577120264</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，好多年前吧，都出社会了！</Data></Cell>
+<Cell><Data ss:Type="String">长生不死情节，与嬴同死，简直是泪崩啊！
+万古仙穹，古海第一次从地球回到大瀚那一刻，或者说陈天山的坚持让人感动！
+龙战国那种虽千万人吾往矣的霸气！</Data></Cell>
+<Cell><Data ss:Type="String">可能还想见到盖世天尊的完本吧，可以说盖世是转折点，观棋没走过去！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500350144</Data></Cell>
+<Cell><Data ss:Type="String">天下</Data></Cell>
+<Cell><Data ss:Type="String">Jing0508739x</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹。最喜欢的是万古仙穹的古海</Data></Cell>
+<Cell><Data ss:Type="String">观棋的书有内涵，有深度。在茫茫书海中一定能占有一席之地。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500335480</Data></Cell>
+<Cell><Data ss:Type="String">无雪</Data></Cell>
+<Cell><Data ss:Type="String">若雪飘零</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死 仙国大帝 盖世天尊 凌霄之上   喜欢长生不死钟山嘴遁 为了百世洞天 甘为仙儿无尽轮回终不悔 圣庭之力对抗三圣  立天庭时候的霸气</Data></Cell>
+<Cell><Data ss:Type="String">小说好好看，求多爆更</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500312574</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">huihuigood</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">長生不死，人人如龍</Data></Cell>
+<Cell><Data ss:Type="String">慢慢學，不催更，學好作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500308147</Data></Cell>
+<Cell><Data ss:Type="String">血怨</Data></Cell>
+<Cell><Data ss:Type="String">luolei727075</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">从长生开始到现在的凌霄，最喜欢长生不死，那一句愿天下苍生，人人如龙，长生不死至今不忘</Data></Cell>
+<Cell><Data ss:Type="String">看到这个推送，我又想起了曾经在yy棋天盟剧讨部的时光，当年因为一些原因离开了剧讨部，斌哥，鬼吹灯，小熊 ，不知道各位还好吗？</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">Mlai</Data></Cell>
+<Cell><Data ss:Type="String">1500308000</Data></Cell>
+<Cell><Data ss:Type="String">日出东方</Data></Cell>
+<Cell><Data ss:Type="String">nmb748hh</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">几年前吧！具体忘了，长生开始就追了</Data></Cell>
+<Cell><Data ss:Type="String">长生，仙国，盖世，万古，凌霄
+</Data></Cell>
+<Cell><Data ss:Type="String">观大出品，必看！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">修道</Data></Cell>
+<Cell><Data ss:Type="String">1500305555</Data></Cell>
+<Cell><Data ss:Type="String">书中虫</Data></Cell>
+<Cell><Data ss:Type="String">13753913453</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">五年前</Data></Cell>
+<Cell><Data ss:Type="String">太多</Data></Cell>
+<Cell><Data ss:Type="String">更新太慢</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">疯就要疯的够独特</Data></Cell>
+<Cell><Data ss:Type="String">1500305003</Data></Cell>
+<Cell><Data ss:Type="String">心如薄荷天然凉</Data></Cell>
+<Cell><Data ss:Type="String">15170886958</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，剑敖</Data></Cell>
+<Cell><Data ss:Type="String">长生不死很好看，盖世不写了，有些可惜。加油！写出超越长生的神作</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">闹市修行</Data></Cell>
+<Cell><Data ss:Type="String">1500303354</Data></Cell>
+<Cell><Data ss:Type="String">闹市修行</Data></Cell>
+<Cell><Data ss:Type="String">w13437197566</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹和目前的凌霄之上。看过很多仙侠类的小说，刚接触万古时它的风格让我眼前一亮，可能跟我也喜欢围棋一样就追着看下去了。万古里面我最记得的还是龙战国这个人物，敢同天斗同地斗同强权斗争，失败后也不气馁，努力奋起，并且甘当猪脚的绿叶。</Data></Cell>
+<Cell><Data ss:Type="String">观棋，加油！照你的思路和想法写下去，我相信你一定会给不离不弃一路支持你的书友们带来更多的精彩！！！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500302846</Data></Cell>
+<Cell><Data ss:Type="String">突突宇</Data></Cell>
+<Cell><Data ss:Type="String">A9698782A</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中啊</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，从大千世界人人如龙，到仙国大帝，新世界人人如龙。到万古仙穹，再到凌霄之上，真爱粉！</Data></Cell>
+<Cell><Data ss:Type="String">牛逼！长生不死至少刷了十遍</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500302673</Data></Cell>
+<Cell><Data ss:Type="String">蔷薇赤万</Data></Cell>
+<Cell><Data ss:Type="String">sjt1193404012</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">看过万古仙穹，在看凌霄之上，
+最有印象的是观棋老人，</Data></Cell>
+<Cell><Data ss:Type="String">引我老师一句话“当你尝尽人情冷暖，当你决定为了你的理想燃烧，扪心自们，生活的压力与生命的尊严哪一个更重要？
+我觉的观棋作到了生命的尊严。
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">虚妄</Data></Cell>
+<Cell><Data ss:Type="String">1500300442</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟一剑风萧</Data></Cell>
+<Cell><Data ss:Type="String">15919443420</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死最有印象</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟愿陪观棋迎战天下
+棋天盟愿陪观棋指点江山
+棋天盟愿陪观棋挥斥方遒
+棋天盟愿陪观棋风霜雨露
+棋天盟愿陪观棋不悔人生</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500299286</Data></Cell>
+<Cell><Data ss:Type="String">执念</Data></Cell>
+<Cell><Data ss:Type="String">执念</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2015.已工作</Data></Cell>
+<Cell><Data ss:Type="String">2本，其它正在追看，万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">观棋要加油哦，每天都在等你更新，只要一更新就第一时间去看</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500298524</Data></Cell>
+<Cell><Data ss:Type="String">风萧萧、学旅艰辛</Data></Cell>
+<Cell><Data ss:Type="String">479830411</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">第三遍，微信辣鸡软件嘤嘤嘤，这点困难瞒不住我，宝宝是观棋铁粉^=_=^
+最喜欢的是【御道】，因为这是我看的第一本网络小说，这本书简直给我打开了新世界的大门。之后就一直追观棋大大的书到现在还把白中仙修仙传补完了。
+以下是印象深刻的情节，观大的所有书都看过就每本书都写一点。
+1.白中仙修仙传：白中仙的徒弟们怼熊圣人，那时候没看多少小说就贼担心怕白中仙回来晚了这些徒弟们扑街。
+2.御道：因为第一次看所有？情节都觉得新鲜，所以印象深刻的有点多，挑两处最深刻的说吧，一个是通天在铁剑门说的我不戒色,87侧漏；另一个是主角制作古琴揪天马尾巴，当时看笑疯23333。
+3.邪魔妖道：剑舞还是谁扑街了主角为她重塑阴魂修剑；知道原始弄死的主角师父兼手下迎祖之后，邪神自爆套路原始。
+4.长生不死：女主角虽多只粉天灵儿，喜欢桂花糕和漫画书剧情。还有从这个时候开始观棋大大走上了传销传销的伟大事业。
+5.仙国大帝：格局大但是把中枢写废了不开心。印象最深的是大秦一众老将魂兮归来；大臻至秦，原来的玉玺甘愿融入大臻玉玺之中。
+6.盖世天尊：这本书没有下面，这一点吧。姜杵臼怼死鹿仙人；林蛋大。
+7.万古仙穹：蒙泰团伙相互算计，主角逆天救龙战国，炎帝为慕容雪冲冠一怒。
+8.凌霄之上：主角为周天音挡寒气。</Data></Cell>
+<Cell><Data ss:Type="String">从初中到大学毕业，观棋大大的书陪伴着我成长，虽然未曾谋面，但是观棋的书陪我度过了无数独自相处的时光。一句成长感谢有您，观大。虽然现在不像小时候时间那么充裕，有时候也挺忙的，您的书我一直会看，以前小没啥钱看不起正版，现在条件允许我会一直看正版哒，您陪我长大，我陪您走到底。最后求翻拍祝我能有继续深造的机会*^o^*。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500298449</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">wxp520131458</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，钟山</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢与过修仙</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">壬&泽</Data></Cell>
+<Cell><Data ss:Type="String">1500297845</Data></Cell>
+<Cell><Data ss:Type="String">壬泽</Data></Cell>
+<Cell><Data ss:Type="String">18679249205</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">都看过，前面的第一本写的很不好，看不下去</Data></Cell>
+<Cell><Data ss:Type="String">感谢您的作品丰富我的生活。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">STZ小潇</Data></Cell>
+<Cell><Data ss:Type="String">1500296800</Data></Cell>
+<Cell><Data ss:Type="String">STZ小萧</Data></Cell>
+<Cell><Data ss:Type="String">xjx16120541</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">16年，高三毕业</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊，万古仙穹都看过，最喜欢的当然是长生不死啦。</Data></Cell>
+<Cell><Data ss:Type="String">观棋是独一无二的。他给我我们带来的不仅仅是一个别具一格的帝王，还有那一个个精彩纷呈的谋略世界，书友们徜徉在其中的时候，所享受到的智慧与气魄，亦将在书友们的世界中回馈精彩纷呈！！！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">夜独静《高源》</Data></Cell>
+<Cell><Data ss:Type="String">1500296783</Data></Cell>
+<Cell><Data ss:Type="String">我就是我</Data></Cell>
+<Cell><Data ss:Type="String">gaoyuanlianfang</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">大前年</Data></Cell>
+<Cell><Data ss:Type="String">古海，钟山</Data></Cell>
+<Cell><Data ss:Type="String">感觉挺有实力的作者</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">真的也就是个摆设</Data></Cell>
+<Cell><Data ss:Type="String">1500295209</Data></Cell>
+<Cell><Data ss:Type="String">丑</Data></Cell>
+<Cell><Data ss:Type="String">chenDoooooooo</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">12年年底左右刚完成学业</Data></Cell>
+<Cell><Data ss:Type="String">长生不死老爷子，仙国大帝川大帝，万古仙穹古圣，还有一本夭折的可惜了。</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">风间琉璃</Data></Cell>
+<Cell><Data ss:Type="String">1500295205</Data></Cell>
+<Cell><Data ss:Type="String">风间琉璃</Data></Cell>
+<Cell><Data ss:Type="String">a182346916121</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">2本,《万古仙穹》，古海，他让我学到要有恒心，学会努力</Data></Cell>
+<Cell><Data ss:Type="String">谢谢你，观大，陪我度过光阴</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500294013</Data></Cell>
+<Cell><Data ss:Type="String">君圣仙</Data></Cell>
+<Cell><Data ss:Type="String">18255089833</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，盖世天尊，凌霄之上，万古仙穹。
+长生不死最喜欢，最喜欢主角钟山
+有志气，有魄力，有智慧，有能力。
+喜欢长生不死，是它是我看的观棋大大第一本书，从哪以后，就渐渐喜欢上了观棋大大的这类风格的书。
+毕竟是第一次，很有纪念意义
+而且我个人感觉，长生不死，是大大写的最好看，也是最巅峰的书！</Data></Cell>
+<Cell><Data ss:Type="String">喜欢你的书，毫无理由的喜欢，但请大大以后的新书能不能不要把女主角写死，虽然最后复活了，但看见女主角死了，真的很难过！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">大咸者</Data></Cell>
+<Cell><Data ss:Type="String">1500293449</Data></Cell>
+<Cell><Data ss:Type="String">大咸者</Data></Cell>
+<Cell><Data ss:Type="String">A2736185518</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">14</Data></Cell>
+<Cell><Data ss:Type="String">长生不老，万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">写的真的，越看越像知道看完下面的剧情，看完一本还不够，要去翻观棋其他书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">星野凭风</Data></Cell>
+<Cell><Data ss:Type="String">1500293274</Data></Cell>
+<Cell><Data ss:Type="String">星野凭风</Data></Cell>
+<Cell><Data ss:Type="String">cdy1439271195</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">2011年初二</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，邪魔妖道，白中仙的修道生涯，盖世天尊，万古仙穹，凌霄之上
+最喜欢长生不死，开创运朝流，让我眼前一亮，且其中人物刻画鲜明，钟山的崩天计划，屠圣立天庭，嬴的篡命衍生舍身成仁，帝玄的铩剐世天下，天道子的黑白翎子冠，等等人物至今记忆犹新，情节合理，主角有智商，反派也有智商，</Data></Cell>
+<Cell><Data ss:Type="String">从初二到大二，看观大的书有六年了，首先深深佩服观大，第一个吃螃蟹的人，长生不死的运朝流格局宏大，布局深远，情节流畅，还有些遗憾，盖世教派流不幸被腰斩，看梗概就知道肯定又是一本好书，最后是支持，祝观大书越写越好。
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500292411</Data></Cell>
+<Cell><Data ss:Type="String">一土灰蝎</Data></Cell>
+<Cell><Data ss:Type="String">13103227391</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高二</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹，柏皇，感觉像爷爷</Data></Cell>
+<Cell><Data ss:Type="String">每个人心中都有他自己的一片天，这一片天里，他万众瞩目，光芒万丈。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">℡以一叶而知天下秋</Data></Cell>
+<Cell><Data ss:Type="String">1500291624</Data></Cell>
+<Cell><Data ss:Type="String">以一叶而知天下秋</Data></Cell>
+<Cell><Data ss:Type="String">zaisenwu</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2010年初三</Data></Cell>
+<Cell><Data ss:Type="String">看过观棋所有的书，最喜欢《长生不死》印象最深的是《盖世天尊》里面的剑神李慕白！</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观棋写书大气，智慧！还有逗比组合的搞笑！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">黔江</Data></Cell>
+<Cell><Data ss:Type="String">1500291195</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟  不死</Data></Cell>
+<Cell><Data ss:Type="String">770452249</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">我是长生不死中期接触观棋的，当时感觉这种小说类型很喜欢。</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢长生不死，印象最深是姬宫涅和褒姒的情。</Data></Cell>
+<Cell><Data ss:Type="String">观大很喜欢你的书，也喜欢这种类型的书，现在你在突破自己，祝你成功，希望后面在来一本类似长生的书。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">义^O^长</Data></Cell>
+<Cell><Data ss:Type="String">1500291146</Data></Cell>
+<Cell><Data ss:Type="String">星座-天秤</Data></Cell>
+<Cell><Data ss:Type="String">313028337</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，长生不死，盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">文笔不错，比较喜欢，希望观大能推出更好的作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">妖怪</Data></Cell>
+<Cell><Data ss:Type="String">1500290409</Data></Cell>
+<Cell><Data ss:Type="String">话不多</Data></Cell>
+<Cell><Data ss:Type="String">13585233421</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，万古仙穹，盖世天尊，长生不死。最喜欢仙国大帝，就是喜欢阎川。</Data></Cell>
+<Cell><Data ss:Type="String">从大学开始看观大的书，都会被书中的主角所吸引，观大的文笔和故事的走向都十分的犀利，一场场的智慧的交锋，武力的交锋，都是会被带入其中，仿佛有一种身临其境的感觉。内心都会有那么一个声音再说 :观大招我一个呗！！！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500290014</Data></Cell>
+<Cell><Data ss:Type="String">空目无泪</Data></Cell>
+<Cell><Data ss:Type="String">fqh11012012119</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">《长生不死》，《仙国大帝》，《万古仙穹》，《凌霄之上》。映像最深刻的人物是大靖钟山，我最喜欢的情节是:他消失后，国家面临危机，他突然回来，兵伐四方。</Data></Cell>
+<Cell><Data ss:Type="String">我只看过六本小说，四本观大的，自从看了观大的小说后，我就没看过其他人写的，即使闹书荒，我也不看其他人的，观大的看了一遍又一遍，百看不厌，我还像我同学宣传观大的小说。好几个都被小说情节震撼了，说也不错啊！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500289909</Data></Cell>
+<Cell><Data ss:Type="String">小懒猪</Data></Cell>
+<Cell><Data ss:Type="String">15095095873</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹  古海</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">靖康</Data></Cell>
+<Cell><Data ss:Type="String">1500289548</Data></Cell>
+<Cell><Data ss:Type="String">亦客</Data></Cell>
+<Cell><Data ss:Type="String">jingminking</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">
+看过长生不死，仙国大帝，盖世天尊，万古仙穹，白中仙等。
+从长生不死开始看，然后又回去看白中仙等等，后来一直跟着观棋的书，也加入了一个书友群。
+高中的时候没能看正版，但是大学有钱了，开始看正版，在塔读充过钱，17k充过钱，大概有一百多了。
+一直觉得观棋的小说好看，没有断追过，也会看下去。
+最喜欢的是钟山，这也是我接触的观大的第一本小说。长生不死的故事性特别好，很好看，就是那种养着憋不住，不养又看不爽的感觉。不管是主角还是配角都很有特色，反派也智商在线，很不错。</Data></Cell>
+<Cell><Data ss:Type="String">作为一个老书迷了，从看盗版到正版，从喜欢观大的书到喜欢观大这个作者，在感谢观大提供一本本不错的小说的同时，也希望观大能有所突破，写出不同的感觉。看观大的书多了，有的时候就能猜到故事的走势，就会减少作品的吸引力。相信观大会越写越好，将帝王流发扬光大。
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500288744</Data></Cell>
+<Cell><Data ss:Type="String">憨豆先生</Data></Cell>
+<Cell><Data ss:Type="String">ZY-786091</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">好几年了，具体不记得了！只知道追仙国大帝时候开始追的！</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹！还有夭折的小姜太</Data></Cell>
+<Cell><Data ss:Type="String">观棋的书陪我走过了好几年希望能一直陪我走下去……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500288303</Data></Cell>
+<Cell><Data ss:Type="String">kuang</Data></Cell>
+<Cell><Data ss:Type="String">kli88886666</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中吧</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古，盖世，和凌霄，    
+
+ 很多哦像  赢   钟三   伯皇   古海……………等等</Data></Cell>
+<Cell><Data ss:Type="String">加油大大，我们是你坚强的后盾</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500288012</Data></Cell>
+<Cell><Data ss:Type="String">低调哥</Data></Cell>
+<Cell><Data ss:Type="String">KD9837</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">观棋大大的小说全部都看过，一本不落，全部都追看了。最喜欢的是《长生不死》这本小说，最喜欢的小说情节是钟山为了救自己的爱人，和自己的几个儿子一起努力扩展自己的实力。就好像，现实中的我们为了要达到自己的梦想不顾一切的努力。长生不死的这一部小说我看了整整8遍，很多情节基本上闭上眼睛都能够想起。仿佛小说里面的人物都是有血有肉的，每次想起都感觉像是真实发生的！然后感觉还有一本《仙国大帝》是看了三遍的。《盖世天尊》也写的很nice，只不过最符合我的胃口的就是《长生不死》了~有一本写的不怎么好的是那本“白中仙的修道生涯”，感，感觉小说的剧情过快，不好看。</Data></Cell>
+<Cell><Data ss:Type="String">真的真的很喜欢看观棋大大的作品！写的文字都很好。简单的一两个字，爽文！很Good！观棋大大很会设坑，在小说中埋下伏笔，为以后的小说人物的发展做铺垫。从初中到大学七年时间一直都在追看观棋的小说。善弈者善谋，看观棋大大写的关于对弈者的小说情节的时候，我就感觉看了特别的兴奋。很喜欢这样子的情节！每当观棋大大完结一本书的时候，我就会经常不定期地上网搜索百度观棋大大什么时候再出新作！真的很感谢作者观棋，他写的小说填补了我们课余时间的课外阅读！关注微信公众号的时候是在几个月前，并不是很早，那个时候还并不知道作者有开微信公众号，所以就经常是在贴吧或者是QQ阅读，还有一些就是书旗小说的正版软件里面就是经常会打赏给观棋大大。因为同时追看多本书的缘故，现在使用的比较多的正版阅读软件就是QQ阅读，在追看其他小说的同时顺便就直接在QQ阅读软件里面打赏，还有投推荐票月票给观棋。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">虚度光阴---</Data></Cell>
+<Cell><Data ss:Type="String">1500288006</Data></Cell>
+<Cell><Data ss:Type="String">虚度光阴</Data></Cell>
+<Cell><Data ss:Type="String">18706079187</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">20，初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，万古仙穹。最喜欢仙国大帝。</Data></Cell>
+<Cell><Data ss:Type="String">希望观棋继续努力，以前有几本书我看的是盗版，对不起。现在有钱了，来支持正版了，我会一直支持观棋的。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500287753</Data></Cell>
+<Cell><Data ss:Type="String">墨子海</Data></Cell>
+<Cell><Data ss:Type="String">墨子海</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">今年</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹，古海，智取六国的过程，</Data></Cell>
+<Cell><Data ss:Type="String">精彩的故事情节，每天准时追，喜欢棋老大，更加希望老大，有空能多发点章节，一直在享受追剧的感觉，成为习惯动作，偶尔加入点励志的东西，像那个养龙那章节，看了好多次。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500287301</Data></Cell>
+<Cell><Data ss:Type="String">上善若水</Data></Cell>
+<Cell><Data ss:Type="String">chen16849</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2013</Data></Cell>
+<Cell><Data ss:Type="String">古海</Data></Cell>
+<Cell><Data ss:Type="String">书写好了，其他不重要</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">陨落星辰   玉龙杀神</Data></Cell>
+<Cell><Data ss:Type="String">1500287278</Data></Cell>
+<Cell><Data ss:Type="String">无言</Data></Cell>
+<Cell><Data ss:Type="String">18217902297</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">我喜欢古海胸有成竹的状态和头脑</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">独孤求败</Data></Cell>
+<Cell><Data ss:Type="String">1500287183</Data></Cell>
+<Cell><Data ss:Type="String">蓝蓝天</Data></Cell>
+<Cell><Data ss:Type="String">yspgqx</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，仙国大帝，最喜欢钟山的商战和运朝提升等级部分</Data></Cell>
+<Cell><Data ss:Type="String">被观大的运朝类小说迷住了，没有金手指，没有开挂，却写的那么真实，那么生动，非常吸引人</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A勇</Data></Cell>
+<Cell><Data ss:Type="String">1500287135</Data></Cell>
+<Cell><Data ss:Type="String">猫天云</Data></Cell>
+<Cell><Data ss:Type="String">gyy852670597</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;上过“我是棋天人”专访的书友;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不老（太经典）
+仙国大帝（长生追来的）
+盖世天尊（那啥，姜泰很会玩女人）
+万古仙穹（毕竟我是龙套一枚，也是很优雅的送子观音）
+凌霄之上（在追）</Data></Cell>
+<Cell><Data ss:Type="String">老观啊，你就不能认真点嘛，不要总把我们这些小龙套写的无力吐槽。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">二是＊我的个性</Data></Cell>
+<Cell><Data ss:Type="String">1500287122</Data></Cell>
+<Cell><Data ss:Type="String">二是*我的个性</Data></Cell>
+<Cell><Data ss:Type="String">gggggjhcggjkjgff</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年，初中，</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，赢。愿天下苍生人人和龙长生不死。</Data></Cell>
+<Cell><Data ss:Type="String">自从看了你写的书再也不想看别人的了，觉得别人写的写好幼稚。加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">道法自然</Data></Cell>
+<Cell><Data ss:Type="String">1500287122</Data></Cell>
+<Cell><Data ss:Type="String">道法自然</Data></Cell>
+<Cell><Data ss:Type="String">lzm1813</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">好久远的事了，记不清了。貌似从长生不死开始就订阅正版了</Data></Cell>
+<Cell><Data ss:Type="String">都看过，每本都不错，最喜欢盖世天尊因为这本书太监了，就和人们常说的得不到的就是最好的一样的心理，期待观大有机会把它写完</Data></Cell>
+<Cell><Data ss:Type="String">不夸张的说我以前每天看小说时间有十几个小时，现在不敢那么疯狂了！每天就看几章小说——就是观棋的。所以观棋的书就是我唯一的精神食粮了！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500287080</Data></Cell>
+<Cell><Data ss:Type="String">秦云</Data></Cell>
+<Cell><Data ss:Type="String">18595829830</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">白中仙，邪魔，长生，仙国，盖世，万古，凌霄</Data></Cell>
+<Cell><Data ss:Type="String">观大，我还记得你把小仙女秦云变成瞎子老头儿的经历</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500287026</Data></Cell>
+<Cell><Data ss:Type="String">齐天侯</Data></Cell>
+<Cell><Data ss:Type="String">935254426</Data></Cell>
+<Cell><Data ss:Type="String">向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中2012年</Data></Cell>
+<Cell><Data ss:Type="String">仙国大帝，阎川，长生不死，赢</Data></Cell>
+<Cell><Data ss:Type="String">我是因为以上两本书喜欢观棋的，我书龄也很久了，初一开始接触网络小说，现在大学毕业有三年左右了，自从看了观棋这两本书我觉得是我这些年看的最好的两本，文笔是一方面，在我看来这种仙国题材简直太棒了，有一些我们从小学习的历史人物，通过观棋得大胆尝试，来带动我对各种人物大胆的想象，我严格来讲并不是死忠粉，但是我希望还能看见观棋仙国类的作品，我喜欢他和他的书，我也愿意尽我能力继续支持他，成为棋天盟的一员，希望接纳成为其中一员，如果问我有什么资格的话，我只是一颗真诚的心，希望他加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500286944</Data></Cell>
+<Cell><Data ss:Type="String">王明来</Data></Cell>
+<Cell><Data ss:Type="String">1196424329</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">万古仙穹</Data></Cell>
+<Cell><Data ss:Type="String">希望多出点如万古般的好作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">陌然浅笑℡</Data></Cell>
+<Cell><Data ss:Type="String">1500286879</Data></Cell>
+<Cell><Data ss:Type="String">未亡人</Data></Cell>
+<Cell><Data ss:Type="String">LLQQ2496256112</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String"> 仙国大帝 长生不死 盖世天尊 万古仙穹 凌霄之上  都很喜欢</Data></Cell>
+<Cell><Data ss:Type="String">祝观棋的书越写越好 </Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">四季</Data></Cell>
+<Cell><Data ss:Type="String">1500286755</Data></Cell>
+<Cell><Data ss:Type="String">四季</Data></Cell>
+<Cell><Data ss:Type="String">z2655y</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">从初中到现在的大学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">作为一个马上10年的老棋迷，我早就把观棋大大的作品通读四遍，现在唯一不满意的就是观棋大大的文章更新太慢。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500286633</Data></Cell>
+<Cell><Data ss:Type="String">老幻</Data></Cell>
+<Cell><Data ss:Type="String">a2308378998</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，万古仙穹，仙国大帝，盖世天尊，御道
+，最喜欢长生不死。</Data></Cell>
+<Cell><Data ss:Type="String">说实话，一直觉得长生不死，仙国大帝，万古仙穹的内容都有所重复，观棋写的其他类型的书在精彩程度上有所不足，希望观棋不急于更新，仔细思考更多精彩的谋算，就想惊悚乐园的作者一般，虽然更新的速度有所不足，但是内容却有保障</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">月末</Data></Cell>
+<Cell><Data ss:Type="String">1500286560</Data></Cell>
+<Cell><Data ss:Type="String">妖女</Data></Cell>
+<Cell><Data ss:Type="String">t2013401178</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">《长生不死》、《万古仙穹》、《凌霄之上》。最喜欢的是《长生不死》，这是我心中永恒的经典啊，我高中最难过的日子，都是它陪我度过的。
+</Data></Cell>
+<Cell><Data ss:Type="String">
+真情感言：棋棋大人，以前看盗版书的时候，我就在想，要是能近距离跟作者接触就好了。然后，我进了棋天盟，认识了很多很多棋天人，小熊、无涯、逍遥、端木、云云、妖气、黎一、幽冥、小法、小师弟……然后在贴吧直播棋棋大人的婚礼、吃到棋棋大人的喜糖，棋棋大人名义送的U盘，跟棋棋大人在群里聊天……我发现，我竟然也有梦想成真的一天。棋棋大人，你不知道，看到你特意在婚礼时给我们录制的视频时，我真的感动的想哭。总之，因为棋棋大人，我的生活变得更有色彩，进了棋天盟，让我多了更多的朋友，谢谢棋棋大人，谢谢棋天盟的朋友们！妖女在此，给你们表白！！！
+</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">腻</Data></Cell>
+<Cell><Data ss:Type="String">1500286529</Data></Cell>
+<Cell><Data ss:Type="String">春秋</Data></Cell>
+<Cell><Data ss:Type="String">fengchen199789</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">看过《长生不死》《仙国大帝》《盖世天尊》《万古仙穹》《凌霄之上》，最喜欢《长生不死》</Data></Cell>
+<Cell><Data ss:Type="String">希望观大的小说成绩越来越好！小说水平越来越高！也希望观大和观嫂幸福安康！将出生的小观棋身体健康！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">即墨名臣</Data></Cell>
+<Cell><Data ss:Type="String">1500286516</Data></Cell>
+<Cell><Data ss:Type="String">即墨名臣</Data></Cell>
+<Cell><Data ss:Type="String">z09171122</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">小学</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，没什么理由就是喜欢</Data></Cell>
+<Cell><Data ss:Type="String">书不错</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">漫步人生</Data></Cell>
+<Cell><Data ss:Type="String">1500286319</Data></Cell>
+<Cell><Data ss:Type="String">漫步人生</Data></Cell>
+<Cell><Data ss:Type="String">15637082182</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">好早了。不记得了</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢，长生不死，最深刻的是盖世天尊</Data></Cell>
+<Cell><Data ss:Type="String">作者真不容易</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1500286239</Data></Cell>
+<Cell><Data ss:Type="String">罗密欧。</Data></Cell>
+<Cell><Data ss:Type="String">taitaisama</Data></Cell>
+<Cell><Data ss:Type="String">已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;向“棋天盟剧讨组”投过稿的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中接触的是长生不死</Data></Cell>
+<Cell><Data ss:Type="String">长生不死的国兽，帝仙仙的爷爷刮如来，钟山屠第一圣人程猴立天庭。</Data></Cell>
+<Cell><Data ss:Type="String">观大加油，我相信你的凌霄之上一定能突破长生不死的高度</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">贪</Data></Cell>
+<Cell><Data ss:Type="String">1500286222</Data></Cell>
+<Cell><Data ss:Type="String">喂，我娶你</Data></Cell>
+<Cell><Data ss:Type="String">qq190757520</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死，最经典的是“我之不幸乃天下之大幸，愿天下苍生人人如龙长生不死”</Data></Cell>
+<Cell><Data ss:Type="String">比起征服整个世界，我更愿意征服观棋的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">明心见性</Data></Cell>
+<Cell><Data ss:Type="String">1500286124</Data></Cell>
+<Cell><Data ss:Type="String">明心见性</Data></Cell>
+<Cell><Data ss:Type="String">xiaqitao5201314</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">高中，</Data></Cell>
+<Cell><Data ss:Type="String">每本都看过，最喜欢长生不死和盖世天尊，钟山的老辣，商战，智慧，谋略。愿天下苍生，人人如龙。</Data></Cell>
+<Cell><Data ss:Type="String">我只是一个喜欢在闲暇的时候看看书，品品茶，谈不上多么的热衷，但是喜欢品味文字，喜欢观棋大大的书，有很大一部分原因是因为宁静吧，不拼。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A 腾锋</Data></Cell>
+<Cell><Data ss:Type="String">1500286120</Data></Cell>
+<Cell><Data ss:Type="String">百度贴吧名字长生大帝   17k名字  棋天盟贵州后援团</Data></Cell>
+<Cell><Data ss:Type="String">13368650299</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中一部长生不死 深深吸引我</Data></Cell>
+<Cell><Data ss:Type="String">全部看过，大秦 嬴政我一直喜欢，这个角色以及历史人物我都感觉他不错</Data></Cell>
+<Cell><Data ss:Type="String">就想问一句 我是棋天人  什么时候到我啊？？？几年了啊</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A董A</Data></Cell>
+<Cell><Data ss:Type="String">1500286107</Data></Cell>
+<Cell><Data ss:Type="String">棋天盟-玉麟</Data></Cell>
+<Cell><Data ss:Type="String">18516508768</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;</Data></Cell>
+<Cell><Data ss:Type="String">12年</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">观大我是你的忠实粉丝，凌霄之上贴吧第一个签到十级，万古苍穹，皇甫朝歌是我提供的龙套，那个时候我感觉我太幸福了，新书我一定订阅到底！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">亦世逍遥</Data></Cell>
+<Cell><Data ss:Type="String">1500278349</Data></Cell>
+<Cell><Data ss:Type="String">亦世逍遥</Data></Cell>
+<Cell><Data ss:Type="String">XKF595227474</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">【邪魔妖道，长生不死，仙国大帝，盖世天尊，万古仙穹，凌霄之上。】
+【盖世天尊】
+【赢，钟山的好基友，基情满满，威武霸气，为天下人人如龙，长生不死！】</Data></Cell>
+<Cell><Data ss:Type="String">观棋，给我介绍个女主吧*^_^*  我来当男主！啊哈哈哈哈哈哈～～～～</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">俯仰与顾盼</Data></Cell>
+<Cell><Data ss:Type="String">1500277734</Data></Cell>
+<Cell><Data ss:Type="String">枫玥无涯</Data></Cell>
+<Cell><Data ss:Type="String">qiu994377086</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">高中，第一本是长生不死</Data></Cell>
+<Cell><Data ss:Type="String">除了御道都看过，最喜欢长生不死，印象最深的是嬴，大秦天朝，君临天下，九龙为乘，帝皇无双！</Data></Cell>
+<Cell><Data ss:Type="String">喜欢观棋笔下的帝王，他们或霸道，或奸诈，或善谋，或冷血，每一位都展现了一个帝王的绝代风采，群雄逐鹿，谁主沉浮？</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">1500277351</Data></Cell>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">329866672</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">长生不死</Data></Cell>
+<Cell><Data ss:Type="String">喜欢你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">明辅</Data></Cell>
+<Cell><Data ss:Type="String">1500276804</Data></Cell>
+<Cell><Data ss:Type="String">明辅</Data></Cell>
+<Cell><Data ss:Type="String">17615833868</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《凌霄之上》专属17k小说客户端app;上过“我是棋天人”专访的书友;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">从御道后边的都看过，最欢长生吧，愿天下苍生人人如龙！</Data></Cell>
+<Cell><Data ss:Type="String">没什么想说的，希望能一直走下去！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

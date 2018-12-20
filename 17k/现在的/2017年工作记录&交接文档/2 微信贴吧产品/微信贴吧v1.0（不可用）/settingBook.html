@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
+    <title>设置追更作品</title>
+    <link type="text/css" href="skin/main.css" rel="stylesheet" />
+    <link type="text/css" href="skin/author.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+<header>
+    <a class="back" href="javascript:history.back()">返回</a>
+    <span>设置追更作品</span>
+    <a></a>
+</header>
+
+<section class="tit">
+    <h2><span>当前追更作品：</span>万古仙穷</h2>
+</section>
+
+<form>
+    <dl class="list">
+        <dd>
+            <input id="inpBookId" name="bookId" class='grayText' type="text" placeholder="输入17K书号">
+        </dd>
+        <p class="error"></p>
+    </dl>
+    <section class="btn"><a href="javascript:;">修改</a></section>
+
+    <script>
+        var oInp_bookId=document.getElementById('inpBookId');
+        var oError=document.querySelector('.error');
+        var oBtn=document.querySelector('.btn a');
+        oBtn.addEventListener('touchend',function(e){
+            e.stopPropagation();
+            var v=W.trim(oInp_bookId.value);
+            if(v==''){
+                oError.innerHTML='输入内容不能为空';
+                return
+            }
+            if(!(/^[0-9]*$/).test(v)){
+                oError.innerHTML='输入格式不正确';
+                return
+            }else{
+                /*请求接口查找有没有此书*/
+                if(v!='123456789'){
+                    oError.innerHTML='抱歉没有查到此书，请重新输入';
+                    return
+                }else{
+                    oError.innerHTML='';
+                    W.alert('<h2>请确认追更作品修改为</h2><h3>《万古仙穷之霸气归来》</h3>',modifyBookName);
+                    oInp_bookId.value='';
+                }
+            }
+        },false)
+
+        function modifyBookName(){
+            /*请求设置追更作品接口*/
+            oError.innerHTML='追更作品修改成功';
+        }
+
+    </script>
+
+</form>
+
+</body>
+</html>

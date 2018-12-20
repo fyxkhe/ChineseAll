@@ -1,0 +1,232 @@
+@import "dev";
+
+body{
+  margin:0 auto;
+  padding:0;
+  background:#F8F8F8;
+}
+
+dl,dd,dt,form,input,h1,h2,h3,p,ul,li{
+  margin:0;padding:0;
+}
+
+h1,h2,h3{
+  font-weight:normal;
+}
+
+li{
+  list-style-type: none;
+}
+
+em{
+  font-style:normal;
+}
+
+a,span,em{
+  display: inline-block;
+  vertical-align: top;
+}
+
+input{
+  border:0;
+  width:100%;
+  &.grayText{
+    &::-webkit-input-placeholder{
+      color:#9B9B9B;
+    }
+  }
+  &::-webkit-input-placeholder{
+    color:#333;
+  }
+}
+
+a{
+  text-decoration:none;
+  color:#333;
+  vertical-align: top;
+}
+
+img{
+  vertical-align: top;
+}
+
+header{
+  padding:0 26/@rem;
+  background:#fff;
+  .flexbox();
+  font-size:30/@rem;
+  a{
+    min-width:120/@rem;
+    height:96/@rem;
+    line-height:96/@rem;
+    .noSelect();
+    &.back{
+      background:url(arr_back.jpg) no-repeat left center;
+      background-size:18/@rem,32/@rem;
+      padding-left:35/@rem;
+      width:130/@rem;
+    }
+    &.btn_nav{
+      padding:10/@rem 20/@rem;
+      height:32/@rem;
+      line-height:32/@rem;
+      text-align:center;
+      font-size:26/@rem;
+      border:1px solid #979797;
+      border-radius:8/@rem;
+      margin-top:20/@rem;
+      &.edit{
+        border:none;
+        color:#fff;
+        background:#5561A9;
+      }
+    }
+  }
+  span{
+   .flexbox(1);
+    line-height:96/@rem;
+    text-align: center;
+    .ellipsis();
+  }
+}
+
+.txtArea{
+  margin:50/@rem auto;
+  width:568/@rem;
+  height:290/@rem;
+  padding:30/@rem 32/@rem;
+  display: block;
+  border:1px solid @borderColor;
+  resize:none;
+  outline:none;
+  font-size:24/@rem;
+  line-height:35/@rem;
+}
+
+.bottom_nav{
+  background:#fff;
+  height:133/@rem;
+  width:100%;
+  position:fixed;
+  z-index: 20;
+  left:0;
+  right:0;
+  bottom:0;
+  border-top:1px solid #E6E6E6;
+  a{
+    width:25%;
+    text-align:center;
+    padding:87/@rem 0 20/@rem;
+    float:left;
+    font-size:24/@rem;
+    color:#A4A4A4;
+    &.active{
+      color:#1C1C1C;
+    }
+    &:nth-of-type(1){
+      background:url(icon1.jpg) no-repeat center 25/@rem;
+      background-size:48/@rem,56/@rem;
+      &.active{
+        background:url(icon1_a.jpg) no-repeat center 25/@rem;
+        background-size:48/@rem,56/@rem;
+      }
+    }
+    &:nth-of-type(2){
+      background:url(icon2.jpg) no-repeat center 25/@rem;
+      background-size:56/@rem,56/@rem;
+      &.active{
+        background:url(icon2_a.jpg) no-repeat center 25/@rem;
+        background-size:56/@rem,56/@rem;
+      }
+    }
+    &:nth-of-type(3){
+      background:url(icon3.jpg) no-repeat center 25/@rem;
+      background-size:50/@rem,56/@rem;
+      &.active{
+        background:url(icon3_a.jpg) no-repeat center 25/@rem;
+        background-size:50/@rem,56/@rem;
+      }
+    }
+    &:nth-of-type(4){
+      background:url(icon4.jpg) no-repeat center 25/@rem;
+      background-size:48/@rem,56/@rem;
+      &.active{
+        background:url(icon4_a.jpg) no-repeat center 25/@rem;
+        background-size:48/@rem,56/@rem;
+      }
+    }
+  }
+  &.sel{
+    padding:30/@rem 0 40/@rem 0;
+    height:63/@rem;
+    line-height:63/@rem;
+    overflow: hidden;
+    .checkbox{
+      position:relative;
+      float:left;
+      padding-left:40/@rem;
+      select{
+        width: 132/@rem;
+        height:52/@rem;
+        border-radius: 6/@rem;
+        border:2px solid #000;
+        line-height:48/@rem;
+        padding-left:10/@rem;
+        -webkit-appearance: none;
+        background: url(list_array.jpg) no-repeat 90/@rem center;
+        background-size: 24/@rem,14/@rem;
+      }
+    }
+    .btns{
+      padding-right:30/@rem;
+      float:right;
+      &.shenhe{
+        button{
+          padding:0;
+          width: 116/@rem;
+          height:56/@rem;
+          text-align:center;
+          line-height:56/@rem;
+        }
+      }
+
+      button{
+        background:none;
+        font-size:26/@rem;
+        padding:13/@rem 30/@rem;
+        border-radius: 5/@rem;
+        &:nth-of-type(1){
+          background:#5561a9;
+          border: 1px solid #5561a9;
+          color:#fff;
+        }
+        &:nth-of-type(2){
+          background:#fff;
+          border: 1px solid #000;
+          color:#000;
+        }
+
+      }
+    }
+  }
+}
+
+.btn_float{
+  position:fixed;
+  right:0;
+  top:435/@rem;
+  div{
+    a {
+      background: #000;
+      opacity: 0.4;
+      color: #fff;
+      width: 148/@rem;
+      height: 80/@rem;
+      line-height: 80/@rem;
+      border-radius: 10/@rem 0 0 10/@rem;
+      margin-bottom: 10/@rem;
+      font-size: 30/@rem;
+      text-align: center;
+    }
+  }
+}

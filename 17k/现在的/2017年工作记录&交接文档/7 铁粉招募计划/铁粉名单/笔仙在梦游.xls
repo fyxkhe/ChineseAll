@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="gbk"?>
+
+            <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:x="urn:schemas-microsoft-com:office:excel"
+            xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="1512099260">
+<Table>
+<Row>
+<Cell><Data ss:Type="String">微信用户</Data></Cell>
+<Cell><Data ss:Type="String">创建时间</Data></Cell>
+<Cell><Data ss:Type="String">昵称</Data></Cell>
+<Cell><Data ss:Type="String">微信号</Data></Cell>
+<Cell><Data ss:Type="String">满足以下条件</Data></Cell>
+<Cell><Data ss:Type="String">最早接触笔仙的书是什么时候，哪本书？</Data></Cell>
+<Cell><Data ss:Type="String">说出一个让你印象深刻的小说人物或情节</Data></Cell>
+<Cell><Data ss:Type="String">想对笔仙在梦游说点什么？</Data></Cell>
+<Cell><Data ss:Type="String">我的性别是</Data></Cell>
+<Cell><Data ss:Type="String">我的年龄段是？</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504868115</Data></Cell>
+<Cell><Data ss:Type="String">泡泡家猫叔</Data></Cell>
+<Cell><Data ss:Type="String">13621997879</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">小学四年级的时候，读的是妖孽兵王～</Data></Cell>
+<Cell><Data ss:Type="String">里面印象最深的是虞美人。因为在章节末的时候，当她知道阮清霜为徐云留下了自嗣后。作为和徐云青梅足马的她，不仅没有生气，反而大义凌然地为她诊断。而众所周知，当时她是因为救徐云失身，这是我印象最深的一个人物～</Data></Cell>
+<Cell><Data ss:Type="String">笔仙大大，读你的小说会让我越来越激动。你的作品名不虚传。而且在你的小说中，我也学到很多东西，希望你以后可以写更多的作品～</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">伪恶</Data></Cell>
+<Cell><Data ss:Type="String">1504425672</Data></Cell>
+<Cell><Data ss:Type="String">爱笔仙</Data></Cell>
+<Cell><Data ss:Type="String">13383249321</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">2014，冒牌天才</Data></Cell>
+<Cell><Data ss:Type="String">徐云，好善良</Data></Cell>
+<Cell><Data ss:Type="String">要多更几章哦</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">啊哈李瓢瓢</Data></Cell>
+<Cell><Data ss:Type="String">1504400108</Data></Cell>
+<Cell><Data ss:Type="String">啊哈李瓢瓢</Data></Cell>
+<Cell><Data ss:Type="String">lip1124386232</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">初中，妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">阮青霜，她很平凡，但遇到徐云就是奇迹的开始。很幸运的人生，一路有她爱的爱她的为她遮风挡雨</Data></Cell>
+<Cell><Data ss:Type="String">麻麻总说我做什么都三分钟热度，你看，我看妖孽兵王就一直坚持着！</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">现实、太虚伪</Data></Cell>
+<Cell><Data ss:Type="String">1504349863</Data></Cell>
+<Cell><Data ss:Type="String">现实、太虚伪</Data></Cell>
+<Cell><Data ss:Type="String">zym18793599802</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">初中《妖孽兵王》</Data></Cell>
+<Cell><Data ss:Type="String">徐云</Data></Cell>
+<Cell><Data ss:Type="String">书中满满的正能量，很鼓舞人，祝你成功！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504235261</Data></Cell>
+<Cell><Data ss:Type="String">禅茶一味</Data></Cell>
+<Cell><Data ss:Type="String">m15131911819</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">徐云</Data></Cell>
+<Cell><Data ss:Type="String">更新快点</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">大寒暖阳</Data></Cell>
+<Cell><Data ss:Type="String">1504232852</Data></Cell>
+<Cell><Data ss:Type="String">大寒暖阳</Data></Cell>
+<Cell><Data ss:Type="String">h520923</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">2013年9月30日，《妖孽兵王》</Data></Cell>
+<Cell><Data ss:Type="String">河东市，徐云(有个高我一届的校友也叫此名，后拆迁回迁成了楼上邻居)。还有一个小妖孽叫果果。</Data></Cell>
+<Cell><Data ss:Type="String">跟定你了！笔仙加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504227893</Data></Cell>
+<Cell><Data ss:Type="String">清风</Data></Cell>
+<Cell><Data ss:Type="String">18503179796</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">2015妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">主人公不惜代价，怒杀泄密者。</Data></Cell>
+<Cell><Data ss:Type="String">还是希望你多写特种兵</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">孤独、也是一种态度゜</Data></Cell>
+<Cell><Data ss:Type="String">1504225588</Data></Cell>
+<Cell><Data ss:Type="String">孤独</Data></Cell>
+<Cell><Data ss:Type="String">syb1689897634</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中。妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">徐云，非常正义</Data></Cell>
+<Cell><Data ss:Type="String">加油，我们会永远陪你。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504194754</Data></Cell>
+<Cell><Data ss:Type="String">代葬</Data></Cell>
+<Cell><Data ss:Type="String">18825613988</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王，初中，15</Data></Cell>
+<Cell><Data ss:Type="String">徐云，有血有肉真男人！</Data></Cell>
+<Cell><Data ss:Type="String">大大加油啊！
+继续谱写想徐云一样的事件吧！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504193175</Data></Cell>
+<Cell><Data ss:Type="String">独钓寒江雪</Data></Cell>
+<Cell><Data ss:Type="String">cm254050369</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王.权力巅峰.</Data></Cell>
+<Cell><Data ss:Type="String">刘飞</Data></Cell>
+<Cell><Data ss:Type="String">王者农药带你飞</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504192825</Data></Cell>
+<Cell><Data ss:Type="String">神仙也梦游</Data></Cell>
+<Cell><Data ss:Type="String">13873969016</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2015年，妖孽兵王。</Data></Cell>
+<Cell><Data ss:Type="String">最深刻也最喜欢的应该是小女孩果果了，人小鬼大，鬼灵精怪，很是喜欢。</Data></Cell>
+<Cell><Data ss:Type="String">希望笔仙再接再厉再创辉煌，我永远支持你！！！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504192284</Data></Cell>
+<Cell><Data ss:Type="String">左手无恋</Data></Cell>
+<Cell><Data ss:Type="String">309051709</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">徐云</Data></Cell>
+<Cell><Data ss:Type="String">加油！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">大老鼠皮皮</Data></Cell>
+<Cell><Data ss:Type="String">1504191418</Data></Cell>
+<Cell><Data ss:Type="String">我还小不能告诉你但是你的书很好看</Data></Cell>
+<Cell><Data ss:Type="String">11775830ss</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">徐云那本书</Data></Cell>
+<Cell><Data ss:Type="String">借钱的时候徐云霸气出场</Data></Cell>
+<Cell><Data ss:Type="String">加油你一定可以</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504188117</Data></Cell>
+<Cell><Data ss:Type="String">翰墨若韵</Data></Cell>
+<Cell><Data ss:Type="String">13880339644</Data></Cell>
+<Cell><Data ss:Type="String">笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">冒牌天才，特等无赖，2014年</Data></Cell>
+<Cell><Data ss:Type="String">凌小瞳，王小穷，带点异能，纵横红尘</Data></Cell>
+<Cell><Data ss:Type="String">应该有时带点诗意，偶尔幽默，不时骚包下</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504187073</Data></Cell>
+<Cell><Data ss:Type="String">长歌</Data></Cell>
+<Cell><Data ss:Type="String">13815639503</Data></Cell>
+<Cell><Data ss:Type="String">笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">林歌</Data></Cell>
+<Cell><Data ss:Type="String">我们不是一家人，但我们相逢过。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504185419</Data></Cell>
+<Cell><Data ss:Type="String">小库</Data></Cell>
+<Cell><Data ss:Type="String">18767634346</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">四年前</Data></Cell>
+<Cell><Data ss:Type="String">步飞梵</Data></Cell>
+<Cell><Data ss:Type="String">希望作者大大写的小说越来越出名</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504184285</Data></Cell>
+<Cell><Data ss:Type="String">千夜</Data></Cell>
+<Cell><Data ss:Type="String">15659389646</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">最早接触是在2015年的8月份左右吧当然是妖孽兵王了</Data></Cell>
+<Cell><Data ss:Type="String">当然是徐云我云哥被笔仙大大雕刻的有正义感朋友有第一时间生出援助之手并且可以以一打百哈哈哈当然还有可爱的果果腼腆却总是在后面默默帮助徐云的清霜姐当时还有很多哈哈哈</Data></Cell>
+<Cell><Data ss:Type="String">我希望笔仙大大继续写你的正义让更多的被你的精神感染也一样这本书的人物色彩还像妖孽兵王里的一样当然最后还是祝愿笔仙大大身体健康多多锻炼身体毕竟要有一个好的身体才能写出好的小说。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504183267</Data></Cell>
+<Cell><Data ss:Type="String">凌义</Data></Cell>
+<Cell><Data ss:Type="String">yelinyun936354378</Data></Cell>
+<Cell><Data ss:Type="String">笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王  初中</Data></Cell>
+<Cell><Data ss:Type="String">最后的100章，带着淡淡的忧伤</Data></Cell>
+<Cell><Data ss:Type="String">            我虽然看的不多，就一本，但你写的情节深深的震撼了我，希望你一直写下去，甚至于超过3少的记录！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">楊再南</Data></Cell>
+<Cell><Data ss:Type="String">1504178966</Data></Cell>
+<Cell><Data ss:Type="String">广东九姑娘</Data></Cell>
+<Cell><Data ss:Type="String">13711008767</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">林歌，鸽子！有徐云的地方，总有鸽子的身影，好基友一辈子！</Data></Cell>
+<Cell><Data ss:Type="String">人生总有不如意，笑一笑就可以！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504177313</Data></Cell>
+<Cell><Data ss:Type="String">上帝不是神</Data></Cell>
+<Cell><Data ss:Type="String">406107520</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">别人推荐</Data></Cell>
+<Cell><Data ss:Type="String">暂无</Data></Cell>
+<Cell><Data ss:Type="String">同事说很好</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">开心就好</Data></Cell>
+<Cell><Data ss:Type="String">1504176143</Data></Cell>
+<Cell><Data ss:Type="String">敷衍</Data></Cell>
+<Cell><Data ss:Type="String">Y854822711</Data></Cell>
+<Cell><Data ss:Type="String">笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王，初中，2015年</Data></Cell>
+<Cell><Data ss:Type="String">果果，人小鬼大！</Data></Cell>
+<Cell><Data ss:Type="String">结局不要太匆忙</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">海</Data></Cell>
+<Cell><Data ss:Type="String">1504174826</Data></Cell>
+<Cell><Data ss:Type="String">小姚</Data></Cell>
+<Cell><Data ss:Type="String">15119839313</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王，社会，大前年</Data></Cell>
+<Cell><Data ss:Type="String">阮清霜，一个默默在背后支持的女人</Data></Cell>
+<Cell><Data ss:Type="String">多加点爱国情节，让书友在书中重燃爱国情怀</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504174793</Data></Cell>
+<Cell><Data ss:Type="String">我爱梦游</Data></Cell>
+<Cell><Data ss:Type="String">18769453517</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">好几年了   妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">徐云和清霜</Data></Cell>
+<Cell><Data ss:Type="String">你能把我写进去么</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504174601</Data></Cell>
+<Cell><Data ss:Type="String">遇见</Data></Cell>
+<Cell><Data ss:Type="String">ps1306657374</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">3个月前   妖孽兵王  高三  98年</Data></Cell>
+<Cell><Data ss:Type="String">小东北 有喜感 仗义 耿直   这种人社会上太少了</Data></Cell>
+<Cell><Data ss:Type="String">希望作者能给我们构造一个在现实之外的另一个真实的世界。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504174501</Data></Cell>
+<Cell><Data ss:Type="String">文问闻周8文艺</Data></Cell>
+<Cell><Data ss:Type="String">Me1834658047</Data></Cell>
+<Cell><Data ss:Type="String">在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;书友Q群186702334成员;</Data></Cell>
+<Cell><Data ss:Type="String">最早接触笔仙的书是15年3月，还在读大学期间，看各种小说，然后就是一不小心看到《妖孽兵王》这部小说，就一直追到结束了。</Data></Cell>
+<Cell><Data ss:Type="String">《妖孽兵王》，初期的果果让我印象很深，甚至比几位女主清霜、仇研、婉儿还有男主徐云还要深刻。
+原因吗，可能是因为果果相对于其他几位主要人物，是个小女孩，年龄比较小，然而作者笔仙在梦游却刻画了出不一般的成熟形象。最重要的，还特别聪明懂事，谁会不喜欢一位聪明机灵的小女孩呢？</Data></Cell>
+<Cell><Data ss:Type="String">作为一位喜欢看小说的家伙，看过非常多小说，笔仙在梦游的《妖孽兵王》是我目前最喜欢的小说之一，还有一本是天蚕土豆的《大主宰》，可以和以前鱼人二代的《校花的贴身高手》同列为我最喜欢的3本网文小说。呵呵，不过现在鱼儿的校花写得越来越那个水了……
+对于《妖孽兵王》，喜欢的一个写作特点是作者能够和一些国家时事联系在一起，并且敢调侃！很久之前，说自己如果也写长篇小说，一定要联系时事，批判一番这世道的一些不公平或者坑爹的事。
+再说句，自己作为一位没名气的业余的作者、编辑、记者，也或多或少知道长期更文的不容易，再者，感谢笔仙在几个月前在百忙之中能够抽空接受我的不专业的线上采访。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504174435</Data></Cell>
+<Cell><Data ss:Type="String">立发</Data></Cell>
+<Cell><Data ss:Type="String">LIFA9262</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;笔仙在梦游小说2年以上读者;</Data></Cell>
+<Cell><Data ss:Type="String">最早接触得是兵王这本书那时候刚更新几百章觉得特别好</Data></Cell>
+<Cell><Data ss:Type="String">兵王到了最后感觉笔仙应该是灵感用尽了吧写的都是笔仙自己得感想啥得</Data></Cell>
+<Cell><Data ss:Type="String">希望这本笔仙灵感满满能有一个好得开始和结局</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">绿百合</Data></Cell>
+<Cell><Data ss:Type="String">1504174286</Data></Cell>
+<Cell><Data ss:Type="String">绿百合</Data></Cell>
+<Cell><Data ss:Type="String">baiheblog</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">yaonie兵王，2016</Data></Cell>
+<Cell><Data ss:Type="String">徐云</Data></Cell>
+<Cell><Data ss:Type="String">及时加更</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504173082</Data></Cell>
+<Cell><Data ss:Type="String">大圣</Data></Cell>
+<Cell><Data ss:Type="String">18324807995</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">妖孽兵王</Data></Cell>
+<Cell><Data ss:Type="String">徐云</Data></Cell>
+<Cell><Data ss:Type="String">写的好，不拖沓冗长，不像一些不好看的，看的起鸡皮疙瘩！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

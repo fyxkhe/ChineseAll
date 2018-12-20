@@ -1,0 +1,55 @@
+@import "dev";
+
+.sendMessage {
+  h1 {
+    padding-left:50/@rem;
+    border-bottom: 1px solid @borderColor;
+    input{
+      background:none;
+      display: block;
+      width: 650/@rem;
+      height:124/@rem;
+      border:none;
+      color:#9C9C9C;
+      &::-webkit-input-placeholder{
+        color:#9C9C9C;
+      }
+    }
+  }
+  div{
+    padding:50/@rem 0 0 50/@rem;
+    textarea{
+      width:650/@rem;
+      resize: none;
+      border:none;
+      background:none;
+      height:500/@rem;
+    }
+  }
+  dl{
+    border-top:1px solid @borderColor;
+    padding:40/@rem 50/@rem;
+    height:58/@rem;
+    dt{
+      float:right;
+      width:250/@rem;
+      img{
+        width:48/@rem;
+        height:48/@rem;
+        vertical-align: middle;
+      }
+      button{
+        background:#5561A9;
+        width:160/@rem;
+        height:56/@rem;
+        border-radius: 10/@rem;
+        line-height:56/@rem;
+        text-align:center;
+        color:#fff;
+        font-size:26/@rem;
+        border:none;
+      }
+    }
+  }
+
+}

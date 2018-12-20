@@ -1,0 +1,38 @@
+@rem:40rem;
+@borderColor: #E8E8E8;
+
+.ellipsis() {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.ellipsis(@width) {
+  width: @width;
+  .ellipsis();
+}
+
+.noSelect() {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.bottomLine() {
+  border-bottom: 1px solid @borderColor;
+}
+
+.flexbox() {
+  display: -webkit-box;
+}
+
+.flexbox(@n) {
+  -webkit-box-flex: @n;
+  display: block;
+}
+
+.ellipsisLine(@line){
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: @line;
+  -webkit-box-orient: vertical;
+}

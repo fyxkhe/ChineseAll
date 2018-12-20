@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
+    <title>我的用户中心</title>
+    <link type="text/css" href="skin/main.css" rel="stylesheet" />
+    <link type="text/css" href="skin/usercenter.css" rel="stylesheet" />
+    <link type="text/css" href="skin/author.css" rel="stylesheet" />
+    <script src="js/main.js"></script>
+</head>
+<body>
+<header>
+    <a class="back" href="javascript:history.back()">返回</a>
+    <span>个人中心</span>
+    <a></a>
+</header>
+
+<div class="page">
+    <!-- 个人中心 -->
+    <dl class="usercenter">
+        <dt>
+            <a href="#">
+                <img src="skin/headPic.jpg" />
+                <span>更多</span>
+            </a>
+        </dt>
+        <dd>
+            <a href="MyTips1.html">
+                <em>我的发帖</em>
+                <span>12</span>
+            </a>
+        </dd>
+        <dd>
+            <a href="MyTips2.html">
+                <em>我参与的</em>
+                <span>0</span>
+            </a>
+        </dd>
+    </dl>
+
+    <!-- 作者后台 -->
+    <dl class="list">
+        <dt class="title">您好观棋</dt>
+        <dd><a href="javascript:;">设置追更作品</a></dd>
+        <dd><a href="javascript:;">管理番外作品</a></dd>
+        <dd><a href="javascript:;">管理书架推荐作品</a></dd>
+        <dd><a href="javascript:;">讨论区设置</a></dd>
+    </dl>
+
+    <section class="btn"><a href="javascript:;">作者后台</a></section>
+
+
+
+<section class="bottom_nav">
+    <a href="index.html">首页</a>
+    <a href="talking.html">讨论</a>
+    <a href="sendMessage.html">发帖</a>
+    <a class="active" href="">我的</a>
+</section>
+
+<script type="text/javascript">
+    var aDl=document.querySelectorAll('dl');
+    var oBtn=document.querySelector('.btn a');
+    var flag=true;
+    oBtn.addEventListener('touchend',function(e){
+        e.preventDefault();
+        e.stopPropagation();
+        if(flag){
+            aDl[0].style.display='none';
+            aDl[1].style.display='block';
+            this.innerHTML='返回个人中心'
+        }else{
+            aDl[0].style.display='block';
+            aDl[1].style.display='none';
+            this.innerHTML='作者后台'
+        }
+        flag=!flag;
+    })
+
+
+
+
+</script>
+
+</body>
+</html>

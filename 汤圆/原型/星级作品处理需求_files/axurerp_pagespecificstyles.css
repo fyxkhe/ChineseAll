@@ -1,0 +1,222 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../星级作品处理需求_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:42px;
+    top:31px;
+    width:316px;
+    height:204px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:322px;
+    height:210px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:30px;
+    width:312px;
+    height:144px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../星级作品处理需求_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:42px;
+    top:304px;
+    width:294px;
+    height:46px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:300px;
+    height:52px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:346px;
+    top:304px;
+    width:248px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../星级作品处理需求_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:42px;
+    top:384px;
+    width:294px;
+    height:46px;
+}
+
+#u5_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:300px;
+    height:52px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7 {
+    position:absolute;
+    left:346px;
+    top:399px;
+    width:248px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../星级作品处理需求_files/u5_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:42px;
+    top:433px;
+    width:294px;
+    height:46px;
+}
+
+#u8_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:300px;
+    height:52px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../星级作品处理需求_files/u2_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:42px;
+    top:253px;
+    width:294px;
+    height:46px;
+}
+
+#u10_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:300px;
+    height:52px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:290px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

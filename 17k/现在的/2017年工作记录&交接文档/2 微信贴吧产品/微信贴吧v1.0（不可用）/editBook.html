@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
+    <title>修改番外作品</title>
+    <link type="text/css" href="skin/main.css" rel="stylesheet" />
+    <link type="text/css" href="skin/author.css" rel="stylesheet" />
+    <script type="text/javascript" src="js/main.js"></script>
+</head>
+<body>
+
+  <header>
+      <a class="back" href="#">返回</a>
+      <span>修改番外作品</span>
+      <a></a>
+  </header>
+
+  <form>
+      <dl class="list">
+          <dd>
+              <input type="text" value="番外一(点击修改)">
+          </dd>
+          <dd>
+              <a href="javascript:;">上传封面</a>
+          </dd>
+          <dd>
+              <a href="#">创建章节</a>
+          </dd>
+          <dd>
+              <a href="#">修改章节<em>5章</em></a>
+
+          </dd>
+          <dd>
+              <a class="btn_del">删除作品</a>
+          </dd>
+      </dl>
+      <section class="btn"><a href="javascript:;">提交</a></section>
+  </form>
+
+  <script type="text/javascript">
+      var oBtn_del=document.querySelector('.btn_del')
+      oBtn_del.addEventListener('touchend',go);
+      function go(e){
+          e.stopPropagation();
+          tip('222','444444',goto);
+      }
+      function goto(){
+          console.log('删除作品');
+      }
+  </script>
+</body>
+</html>

@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="gbk"?>
+
+            <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:x="urn:schemas-microsoft-com:office:excel"
+            xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+            xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="1512098901">
+<Table>
+<Row>
+<Cell><Data ss:Type="String">微信用户</Data></Cell>
+<Cell><Data ss:Type="String">创建时间</Data></Cell>
+<Cell><Data ss:Type="String">你的微信号</Data></Cell>
+<Cell><Data ss:Type="String">你的昵称</Data></Cell>
+<Cell><Data ss:Type="String">满足以下条件</Data></Cell>
+<Cell><Data ss:Type="String">最早接触梦入洪荒小说是什么时候？ </Data></Cell>
+<Cell><Data ss:Type="String">看过梦入洪荒哪几本小说？最喜欢哪一本？或让你印象最深刻的是哪个人物或情节？</Data></Cell>
+<Cell><Data ss:Type="String">想对梦梦说的话</Data></Cell>
+<Cell><Data ss:Type="String">您的性别是</Data></Cell>
+<Cell><Data ss:Type="String">您的年龄段是</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1511671820</Data></Cell>
+<Cell><Data ss:Type="String">z519608940</Data></Cell>
+<Cell><Data ss:Type="String">给不起的浪漫</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2012年</Data></Cell>
+<Cell><Data ss:Type="String">都看过，最喜欢权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">老梦你好，官途可以写到中央政治局委员权力巅峰为什么只写到省长就不写了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">杨占利13569967399</Data></Cell>
+<Cell><Data ss:Type="String">1511372944</Data></Cell>
+<Cell><Data ss:Type="String">yangzhanli002</Data></Cell>
+<Cell><Data ss:Type="String">杨占利</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">感恩的心</Data></Cell>
+<Cell><Data ss:Type="String">1511002824</Data></Cell>
+<Cell><Data ss:Type="String">13792816375</Data></Cell>
+<Cell><Data ss:Type="String">感恩的心</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">官途。权力巅峰。喜欢……官途。刘飞。</Data></Cell>
+<Cell><Data ss:Type="String">多写官途这样的书……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">昔日的回忆</Data></Cell>
+<Cell><Data ss:Type="String">1510874610</Data></Cell>
+<Cell><Data ss:Type="String">18723337297</Data></Cell>
+<Cell><Data ss:Type="String">昔日的回忆</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">17年</Data></Cell>
+<Cell><Data ss:Type="String">至高使命，李天逸，为官正直，刚正不阿，一心为民，不惧强权</Data></Cell>
+<Cell><Data ss:Type="String">写的书很经典很好看，给人一种振奋人心的感觉</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1510779221</Data></Cell>
+<Cell><Data ss:Type="String">abc13839127755</Data></Cell>
+<Cell><Data ss:Type="String">傅</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">工作后</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">购买权力巅峰一书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1509796731</Data></Cell>
+<Cell><Data ss:Type="String">BJdongyh030818</Data></Cell>
+<Cell><Data ss:Type="String">鸿儒</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">1   官途   肖建辉</Data></Cell>
+<Cell><Data ss:Type="String">加油写书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">北方的狼</Data></Cell>
+<Cell><Data ss:Type="String">1509338947</Data></Cell>
+<Cell><Data ss:Type="String">15379055508</Data></Cell>
+<Cell><Data ss:Type="String">北方的狼</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">继续加油，你好棒啊！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">chessfan</Data></Cell>
+<Cell><Data ss:Type="String">1508813789</Data></Cell>
+<Cell><Data ss:Type="String">s673814216</Data></Cell>
+<Cell><Data ss:Type="String">chessfan</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">我猜到你爱吃西红柿鸡蛋面，生气时爱摔一些小东西，对中医国学有一定造诣，坚强的抵制日货派，有一辆哈弗汽车。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1508243515</Data></Cell>
+<Cell><Data ss:Type="String">13451097827</Data></Cell>
+<Cell><Data ss:Type="String">虎子</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">官途，权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">太喜欢你的小说了，
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1506551930</Data></Cell>
+<Cell><Data ss:Type="String">lumoxuan20060210</Data></Cell>
+<Cell><Data ss:Type="String">云霸天下</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">小学，我现在11岁</Data></Cell>
+<Cell><Data ss:Type="String">我就看了那个刘晓飞，现在想起刘晓飞在雨天和黄豆的威胁下打架还是毛骨悚然</Data></Cell>
+<Cell><Data ss:Type="String">怎么说呢，看您的书没有多久就已经喜欢上了您的写作风格，希望您多出一些更好的书吧，我不是什么煽情的人，不怎么会说话，（求翻牌）</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1506048688</Data></Cell>
+<Cell><Data ss:Type="String">haianyuanlin</Data></Cell>
+<Cell><Data ss:Type="String">左撇子</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2017</Data></Cell>
+<Cell><Data ss:Type="String">官途、权力巅峰。刘飞、柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">继续、加油等待更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505976103</Data></Cell>
+<Cell><Data ss:Type="String">wtt13451906122</Data></Cell>
+<Cell><Data ss:Type="String">禅缘</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">希望继续创作精彩小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">无题</Data></Cell>
+<Cell><Data ss:Type="String">1505924510</Data></Cell>
+<Cell><Data ss:Type="String">404858623</Data></Cell>
+<Cell><Data ss:Type="String">无题</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2011</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">至高使命希望更新快点！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505616017</Data></Cell>
+<Cell><Data ss:Type="String">13895015027</Data></Cell>
+<Cell><Data ss:Type="String">武林</Data></Cell>
+<Cell><Data ss:Type="String">微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2013年</Data></Cell>
+<Cell><Data ss:Type="String">喜欢玄幻小说及官场小说</Data></Cell>
+<Cell><Data ss:Type="String">梦梦好！看过几本你的小说。看的盗版看些，同时打赏支持也近百元。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">陈敏（恢宏工程检测）</Data></Cell>
+<Cell><Data ss:Type="String">1505615194</Data></Cell>
+<Cell><Data ss:Type="String">18973300986</Data></Cell>
+<Cell><Data ss:Type="String">柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">13年</Data></Cell>
+<Cell><Data ss:Type="String">刘飞的儿子柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">经常与官打交道，虽然没那么书中说的险恶，但是有时候情节有时候可以运用到现实中，从官途那本书就让领悟到官道的险恶，人和人的竞争，人和人的争斗。梦梦好样的，铁粉在此！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505612049</Data></Cell>
+<Cell><Data ss:Type="String">15913298398</Data></Cell>
+<Cell><Data ss:Type="String">手自留香</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">四年前</Data></Cell>
+<Cell><Data ss:Type="String">刘飞
+实在，有血肉，亲平民</Data></Cell>
+<Cell><Data ss:Type="String">加油＾０＾~＾０＾~＾０＾~＾０＾~＾０＾~加油，期待佳作连连</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505606638</Data></Cell>
+<Cell><Data ss:Type="String">强哥</Data></Cell>
+<Cell><Data ss:Type="String">强哥</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2年前</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">加油，写出更好的作品！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505355603</Data></Cell>
+<Cell><Data ss:Type="String">hxy928732341</Data></Cell>
+<Cell><Data ss:Type="String">勇哥</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">17年</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">好书希望多多更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">男儿行</Data></Cell>
+<Cell><Data ss:Type="String">1505313734</Data></Cell>
+<Cell><Data ss:Type="String">JINGHUI18738767165</Data></Cell>
+<Cell><Data ss:Type="String">男儿行</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">初中时期</Data></Cell>
+<Cell><Data ss:Type="String">《官途》主角，改变自己，奋起拼搏！</Data></Cell>
+<Cell><Data ss:Type="String">可以在女主方面多多下些功夫，毕竟官场文看多了有些枯燥乏味，适当加些柔情，让人物更加饱满！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1505199482</Data></Cell>
+<Cell><Data ss:Type="String">GL13707932562</Data></Cell>
+<Cell><Data ss:Type="String">高岚</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，刘小飞的故事，致高利益。</Data></Cell>
+<Cell><Data ss:Type="String">希望多写好看的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504793949</Data></Cell>
+<Cell><Data ss:Type="String">g13959911325</Data></Cell>
+<Cell><Data ss:Type="String">海盗服</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">官途，刘小飞等四本书我都喜欢，</Data></Cell>
+<Cell><Data ss:Type="String">没有什么要说的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504755534</Data></Cell>
+<Cell><Data ss:Type="String">892843136</Data></Cell>
+<Cell><Data ss:Type="String">大曾</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">刚开始接触</Data></Cell>
+<Cell><Data ss:Type="String">官途 权力巅峰 现看至高使命</Data></Cell>
+<Cell><Data ss:Type="String">写的小说充满正能量 正义感</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504727853</Data></Cell>
+<Cell><Data ss:Type="String">stlhyuyang</Data></Cell>
+<Cell><Data ss:Type="String">余洋</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">看过《官途》，《权力巅峰》，《刘小飞》，《至高使命》。最喜欢的是《权力巅峰》里面的柳擎宇！他有一种能屈能伸的精神！</Data></Cell>
+<Cell><Data ss:Type="String">能否不要让主人公太顺？太多奇遇？很想看看主人公几起几落甚至被踩得半死后百折不挠和坚定信念的精神？能否安排李天逸被贬为平民后再通过商场成功（做慈善）～政协委员（为民请命）～再被关注～平冤昭雪～再被重用～为国爱民？</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504701876</Data></Cell>
+<Cell><Data ss:Type="String">Z13153694188</Data></Cell>
+<Cell><Data ss:Type="String">百毒不戒</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">官途，权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">作品每一部都很吸引人</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504661094</Data></Cell>
+<Cell><Data ss:Type="String">782874200</Data></Cell>
+<Cell><Data ss:Type="String">枫</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2012年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权利巅峰，刘小飞，至高使命，刘飞刘庸华恒刘钊黑子闷棍王，诸葛丰，曹晋阳，顾旭阳，孙伟宏，以及红颜知己秦睿婕小二黑，秦帅沈鸿飞，</Data></Cell>
+<Cell><Data ss:Type="String">我要追到底，您写的太好了，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504639424</Data></Cell>
+<Cell><Data ss:Type="String">13928373459</Data></Cell>
+<Cell><Data ss:Type="String">联振</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">作者写的很好，到终究是一厢情愿，但我很喜欢您写的小说，不知道您写这些小说作何感想，</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">君</Data></Cell>
+<Cell><Data ss:Type="String">1504533249</Data></Cell>
+<Cell><Data ss:Type="String">dlj978825783</Data></Cell>
+<Cell><Data ss:Type="String">ㄟ绝处さ逢生</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">官途     权力巅峰   至高使命    最喜欢权力巅峰   印象深刻的是柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">希望有你签名的《权力巅峰》全套实体书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">王亚</Data></Cell>
+<Cell><Data ss:Type="String">1504511070</Data></Cell>
+<Cell><Data ss:Type="String">18703705522</Data></Cell>
+<Cell><Data ss:Type="String">王亚</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">三年前</Data></Cell>
+<Cell><Data ss:Type="String">《官途》《权力巅峰》《刘小飞》《至高使命》，几本都很喜欢，特别是正面人物。</Data></Cell>
+<Cell><Data ss:Type="String">《刘小飞》《至高使命》期待能更新快点。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504509861</Data></Cell>
+<Cell><Data ss:Type="String">17693281083</Data></Cell>
+<Cell><Data ss:Type="String">怀策</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2014</Data></Cell>
+<Cell><Data ss:Type="String">官途  刘飞     权力巅峰  柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">感谢你写了这么精彩的书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">狼王智慧</Data></Cell>
+<Cell><Data ss:Type="String">1504501542</Data></Cell>
+<Cell><Data ss:Type="String">狼王智慧13780596635</Data></Cell>
+<Cell><Data ss:Type="String">大崔</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">我看过〈官途〉〈权力巅峰〉，正在微信看〈刘小飞〉和k17网站〈至高使命〉</Data></Cell>
+<Cell><Data ss:Type="String">看过您的作品以后，国家兴旺，中华民族兴旺，执政为民，千千万万基层党员为人民努力工作。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504500789</Data></Cell>
+<Cell><Data ss:Type="String">13571836204</Data></Cell>
+<Cell><Data ss:Type="String">醒悟</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">官途，大慨在2015年</Data></Cell>
+<Cell><Data ss:Type="String">看过官途，刘小飞，权力颠峰，至高使命。让人最深刻的是打击官场的黑暗，严惩贪官的情节。</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦再接両励多写几部打击官场黑暗的小说，让人们有个槽神寄托。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504496500</Data></Cell>
+<Cell><Data ss:Type="String">lin637237</Data></Cell>
+<Cell><Data ss:Type="String">终于</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2010年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">能不能更新快一点</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504494242</Data></Cell>
+<Cell><Data ss:Type="String">15165887550</Data></Cell>
+<Cell><Data ss:Type="String">平安相伴，健康是福</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力颠峰2010年</Data></Cell>
+<Cell><Data ss:Type="String">希望多出好书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504486541</Data></Cell>
+<Cell><Data ss:Type="String">22818786</Data></Cell>
+<Cell><Data ss:Type="String">风</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">6年前</Data></Cell>
+<Cell><Data ss:Type="String">官场刘飞</Data></Cell>
+<Cell><Data ss:Type="String">写的都是对现官场美好的期望</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504482060</Data></Cell>
+<Cell><Data ss:Type="String">jyd15934359319</Data></Cell>
+<Cell><Data ss:Type="String">Jenns</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">16年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，至高使命
+最喜欢官途
+刘飞</Data></Cell>
+<Cell><Data ss:Type="String">看过很多官场小说，唯有梦梦这几本是我的最爱。满满的励志，满满的爱，满满的正能量。希望梦梦继续笔耕不辍，奉献更多优秀作品！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">郭云龙</Data></Cell>
+<Cell><Data ss:Type="String">1504477305</Data></Cell>
+<Cell><Data ss:Type="String">GYL_7421</Data></Cell>
+<Cell><Data ss:Type="String">笑傲江湖～金庸</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">15年</Data></Cell>
+<Cell><Data ss:Type="String">三本，</Data></Cell>
+<Cell><Data ss:Type="String">一直喜欢你的作品！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">红升</Data></Cell>
+<Cell><Data ss:Type="String">1504474552</Data></Cell>
+<Cell><Data ss:Type="String">zhuhuasheng5928</Data></Cell>
+<Cell><Data ss:Type="String">红升</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">四年前</Data></Cell>
+<Cell><Data ss:Type="String">都喜欢，官场正能量</Data></Cell>
+<Cell><Data ss:Type="String">多加中医知识内容。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">寻梦人</Data></Cell>
+<Cell><Data ss:Type="String">1504472878</Data></Cell>
+<Cell><Data ss:Type="String">D 780401147</Data></Cell>
+<Cell><Data ss:Type="String">寻梦人</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">三年前</Data></Cell>
+<Cell><Data ss:Type="String">官途~权力巅峰_刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">梦梦，我是你的忠实粉丝。能让我一直性看完至高使命这本书吗？一天更两章，看的实在太没意思了。也不介意发红包买看</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504457844</Data></Cell>
+<Cell><Data ss:Type="String">18052617166</Data></Cell>
+<Cell><Data ss:Type="String">vivaxwh</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">多和时政联系，虽然会被查水表</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504457111</Data></Cell>
+<Cell><Data ss:Type="String">yLq122723</Data></Cell>
+<Cell><Data ss:Type="String">水碧山青</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">1年前</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力颠峰，刘小飞，至高权力</Data></Cell>
+<Cell><Data ss:Type="String">很喜欢梦梦的官场小说</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">徐贵周</Data></Cell>
+<Cell><Data ss:Type="String">1504373581</Data></Cell>
+<Cell><Data ss:Type="String">13838708068</Data></Cell>
+<Cell><Data ss:Type="String">精品羊绒</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">《官途》《权力巅峰》，正在阅读的有《刘小飞》，《至高使命》，最喜欢看的是《权力巅峰》</Data></Cell>
+<Cell><Data ss:Type="String">希望在可能的情况下更新快些，但不要劳累过度</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">見賢思齊</Data></Cell>
+<Cell><Data ss:Type="String">1504367774</Data></Cell>
+<Cell><Data ss:Type="String">SHANXIYANAN268</Data></Cell>
+<Cell><Data ss:Type="String">见贤思齐</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">《官途》发表那年</Data></Cell>
+<Cell><Data ss:Type="String">《官途》和《权力颠峰》己看完，还听了有声小说，现正在看《至高使命》</Data></Cell>
+<Cell><Data ss:Type="String">刘飞，柳擎宇，刘小飞都特别有个性。刘飞和柳擎宇的人物形象己定格，刘小飞的人物形象是否能切合现如今的社会现象，体现出社会进步过程中的弊端，同时反映出习总带领下社会环境逐渐好转，政风，党风不断扭转的这一现实。特别是刘小飞如何在纷杂的世界环境中逐渐强大。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504273008</Data></Cell>
+<Cell><Data ss:Type="String">song450327</Data></Cell>
+<Cell><Data ss:Type="String">小松</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">两年前。官途那时候</Data></Cell>
+<Cell><Data ss:Type="String">官途   最喜欢刘飞和黑子</Data></Cell>
+<Cell><Data ss:Type="String">加油，也希望中国的官场多一些梦梦小说里面主人公这样的人物</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">累了歇会儿</Data></Cell>
+<Cell><Data ss:Type="String">1504272399</Data></Cell>
+<Cell><Data ss:Type="String">leile999999</Data></Cell>
+<Cell><Data ss:Type="String">累了歇会儿</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">在官途刚刚开始的时候，那年记不住了</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，刘小飞，至高使命</Data></Cell>
+<Cell><Data ss:Type="String">从官途就追着看，到现在的至高使命仍然在继续的追，从什么时候开始的记不住了，虽然现在我已经是60多岁的人了还是觉得很好看，对书中的年轻人仍然很认同，看到励志的桥段仍然热血沸腾，我觉得是不是有点装嫩</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504176436</Data></Cell>
+<Cell><Data ss:Type="String">13868641588</Data></Cell>
+<Cell><Data ss:Type="String">瓯越剑客</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2016年</Data></Cell>
+<Cell><Data ss:Type="String">现实述说，</Data></Cell>
+<Cell><Data ss:Type="String">加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">明明</Data></Cell>
+<Cell><Data ss:Type="String">1504153206</Data></Cell>
+<Cell><Data ss:Type="String">Wjm761206</Data></Cell>
+<Cell><Data ss:Type="String">明明</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">刘飞</Data></Cell>
+<Cell><Data ss:Type="String">你写的书太好看了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504137812</Data></Cell>
+<Cell><Data ss:Type="String">X6Z2F4</Data></Cell>
+<Cell><Data ss:Type="String">丰富</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">刘飞</Data></Cell>
+<Cell><Data ss:Type="String">刘小飞更新太慢了。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">薛建华</Data></Cell>
+<Cell><Data ss:Type="String">1504113135</Data></Cell>
+<Cell><Data ss:Type="String">xuejianhua84</Data></Cell>
+<Cell><Data ss:Type="String">薛建华</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">应该是4年前吧，具体记不清了，刚刚接触时官途刘飞应该还没有更新完</Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">小说、生活、生活、现实，无法言语，跟着更新走，跟着感悟走，现在无法像小说中为民请命，但也再不停思考，不停效仿。继续，等着你的更新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1504010199</Data></Cell>
+<Cell><Data ss:Type="String">f13341555669</Data></Cell>
+<Cell><Data ss:Type="String">山高人为峰</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2016年8月</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰尽快更新不然没什么看了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503847690</Data></Cell>
+<Cell><Data ss:Type="String">xuaoddchenlu</Data></Cell>
+<Cell><Data ss:Type="String">哆啦常作B们</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">加油，加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">幸福永远</Data></Cell>
+<Cell><Data ss:Type="String">1503500156</Data></Cell>
+<Cell><Data ss:Type="String">13605200838</Data></Cell>
+<Cell><Data ss:Type="String">幸福永远</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰
+</Data></Cell>
+<Cell><Data ss:Type="String">梦梦加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">A灵敏官</Data></Cell>
+<Cell><Data ss:Type="String">1503482494</Data></Cell>
+<Cell><Data ss:Type="String">lin2011080568</Data></Cell>
+<Cell><Data ss:Type="String">好狼仁</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">谢谢你</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503309108</Data></Cell>
+<Cell><Data ss:Type="String">cjq1069965886</Data></Cell>
+<Cell><Data ss:Type="String">程宝</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016年  官途   权力巅峰  老读者</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰  官途    最让我觉得体会最深刻的是柳挚宇   刘飞   刘小飞   </Data></Cell>
+<Cell><Data ss:Type="String">我希望梦梦的书读者突破三亿  多多看读者意见   小说结局和发展尽量多顾及大多数读者想看的想要的</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1503143866</Data></Cell>
+<Cell><Data ss:Type="String">Oscar372059851</Data></Cell>
+<Cell><Data ss:Type="String">oscar</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰，对于柳擎宇比较熟悉，为人正义。作者梦入洪荒应该也是爱国之人</Data></Cell>
+<Cell><Data ss:Type="String">希望能出多点书，可以出权利巅峰的后传。希望采纳</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502899188</Data></Cell>
+<Cell><Data ss:Type="String">w13057420510</Data></Cell>
+<Cell><Data ss:Type="String">知足常乐</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">17年第一次听官途，感觉还不错⊙▽⊙特别是，为官一任，造福一方，对我触动非常大</Data></Cell>
+<Cell><Data ss:Type="String">只看过官途，其他的还没开始看，最为触动的一段话，为官一任，造福一方，0希望以后能带给我们更好看的官场小说，我们永远支持你。</Data></Cell>
+<Cell><Data ss:Type="String">希望以后能带给我们更好看的官场小说，我们永远支持你，不管最后能不能加入铁粉军团，我都会义无反顾的支持你。</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502893718</Data></Cell>
+<Cell><Data ss:Type="String">huy00153</Data></Cell>
+<Cell><Data ss:Type="String">文跃</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">17年初，看的官途</Data></Cell>
+<Cell><Data ss:Type="String">两部，官途，权利巅峰，刘飞得形象还是蛮高大的</Data></Cell>
+<Cell><Data ss:Type="String">继续更新下一部吧，期待中，官途，权利巅峰连着看的……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502862451</Data></Cell>
+<Cell><Data ss:Type="String">1256365815</Data></Cell>
+<Cell><Data ss:Type="String">盖瑞</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰</Data></Cell>
+<Cell><Data ss:Type="String">刚刚看完权利巅峰，写的确实很好，看了快二个月了感悟很深，非常感谢作者能写出这么好的小说。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502692103</Data></Cell>
+<Cell><Data ss:Type="String">247172826</Data></Cell>
+<Cell><Data ss:Type="String">天仓</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">绝对权力</Data></Cell>
+<Cell><Data ss:Type="String">写的很好。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String"></Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502371276</Data></Cell>
+<Cell><Data ss:Type="String">ghz84911426</Data></Cell>
+<Cell><Data ss:Type="String">追风</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">2014</Data></Cell>
+<Cell><Data ss:Type="String">管途  权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">近三年来先后拜读了您写的官途以及权力巅峰了两遍，觉得情节精彩绝伦，高潮迭起，忍不住回头又看一遍。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502288420</Data></Cell>
+<Cell><Data ss:Type="String">zhiyangyufei</Data></Cell>
+<Cell><Data ss:Type="String">智洋雨飞</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2012年开始看官途  从中学到很多东西</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢刘飞，偶像！</Data></Cell>
+<Cell><Data ss:Type="String">梦梦，我是《创业之神》刘小飞故事的有声播讲者智洋雨飞，非常喜欢您的作品，前几日得知您的这本书有试音海选活动，我就尝试了一下，没想到非常幸运被选中，太开心了！能录制自己偶像的书，快哉！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502103207</Data></Cell>
+<Cell><Data ss:Type="String">liangbian0010</Data></Cell>
+<Cell><Data ss:Type="String">赤瞳黑龙</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，至高使命
+权力巅峰，柳擎宇，身怀诸多绝技，敢于向黑恶势力宣战，绝不向腐败势力低头，后宫规模大</Data></Cell>
+<Cell><Data ss:Type="String">至高使命中的李天逸应该多写一些他的红颜知己，和女官员的竞争与合作，加快更新速度。它的身世最好与刘飞和柳擎宇扯上关系，这样就非常无敌了。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502034797</Data></Cell>
+<Cell><Data ss:Type="String">853686540</Data></Cell>
+<Cell><Data ss:Type="String">胖子方</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">感谢！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1502006353</Data></Cell>
+<Cell><Data ss:Type="String">pchy9458</Data></Cell>
+<Cell><Data ss:Type="String">瓢城皇裔</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2013年文学联赛，梦梦是我的导师。</Data></Cell>
+<Cell><Data ss:Type="String">《官途》、《权力巅峰》，第二部，主角和自己年龄相当，有许多共同语言，自己实现不了的梦想由主角代劳了。</Data></Cell>
+<Cell><Data ss:Type="String">梦梦老师一步一个脚印，走上了创作巅峰，是我创作的引路人，也是我的精神导师，向梦梦老师致敬！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">我本友情</Data></Cell>
+<Cell><Data ss:Type="String">1501988175</Data></Cell>
+<Cell><Data ss:Type="String">laole7474</Data></Cell>
+<Cell><Data ss:Type="String">我本友情</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">15</Data></Cell>
+<Cell><Data ss:Type="String">觉得四部作品中写得最好的是官途。
+
+印象最深刻的是郑博方对柳擎宇说的话:
+
+睿智的人看得透，故不争。豁达的人想得开，故不斗。悟道的人通天意，故不急。厚道的人重谦和，故不躁。明理的人放得下，故不痴。自信的人肯努力，故不误。重义的人交天下，故不孤。浓情的人淡名利，故不独。宁静的人行深远，故不折，知足的人常快乐，故不老。
+
+这是深刻的人生哲理。</Data></Cell>
+<Cell><Data ss:Type="String">梦老大，在一个作家创作最黄金的时间段，抓紧时间写书吧，专心致志，排除诱惑。</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501982927</Data></Cell>
+<Cell><Data ss:Type="String">THL20110119</Data></Cell>
+<Cell><Data ss:Type="String">顺源机械</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">杈力巅峰，刘小飞，官途。最喜欢官途，刘飞角色比较好。</Data></Cell>
+<Cell><Data ss:Type="String">加快速度。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">上善若水</Data></Cell>
+<Cell><Data ss:Type="String">1501943796</Data></Cell>
+<Cell><Data ss:Type="String">18764442508</Data></Cell>
+<Cell><Data ss:Type="String">谦君已发869522123</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">12年大学</Data></Cell>
+<Cell><Data ss:Type="String">官途， 权力巅峰！最喜欢官途 刘飞结婚的情景</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦注意身体！为读者写出更多的小说！让读者在其中学到很多道理和为人处事的方法！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">有缘人</Data></Cell>
+<Cell><Data ss:Type="String">1501916873</Data></Cell>
+<Cell><Data ss:Type="String">有缘人(ID:101636)</Data></Cell>
+<Cell><Data ss:Type="String">有缘人</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">1996,7,初中毕业</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰的主角</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦至高使命每天可以多更几章，书是你奇思构想出来的，至于写到什么程度你自己清楚，我在微信上就不反驳了，你的管理员回答我也看到了，很失望，很不满意，给你留面子</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501904379</Data></Cell>
+<Cell><Data ss:Type="String">Denny995382802</Data></Cell>
+<Cell><Data ss:Type="String">陈光德</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2017年</Data></Cell>
+<Cell><Data ss:Type="String">官途(刘飞)，权力巅峰(柳擎宇)，官幕(乐凡)，陈家妖孽(陈平)，官声(秦牧)</Data></Cell>
+<Cell><Data ss:Type="String">特别喜欢你的小说，无论从情节布局，还是人物刻画，到官场内幕，包括对社会各种人物的心理描述，都需要相关的专业知识及认知才能做到。缺点是有错别字，更主要的是本来是A人物的姓名，却写成B人物的姓名，当然，对我来说，还是理解的，但可以做的更好。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">一起快乐</Data></Cell>
+<Cell><Data ss:Type="String">1501775175</Data></Cell>
+<Cell><Data ss:Type="String">AQ7092</Data></Cell>
+<Cell><Data ss:Type="String">刘博</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2013年</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰：刘擎宇
+官途：刘飞
+</Data></Cell>
+<Cell><Data ss:Type="String">希望有更多的读者喜欢。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501771395</Data></Cell>
+<Cell><Data ss:Type="String">13787591315</Data></Cell>
+<Cell><Data ss:Type="String">吴锋</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">参加工作以后</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰，过瘾</Data></Cell>
+<Cell><Data ss:Type="String">努力刻画贴近生活又高于生活的人物形象</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501770358</Data></Cell>
+<Cell><Data ss:Type="String">li13818174036</Data></Cell>
+<Cell><Data ss:Type="String">冬天的阳光</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">至高使命</Data></Cell>
+<Cell><Data ss:Type="String">真实的情感炽热的心，读者的共鸣心声</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501757111</Data></Cell>
+<Cell><Data ss:Type="String">15309327770</Data></Cell>
+<Cell><Data ss:Type="String">心*光</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2013</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">继续努力，注意身体，不忘初心。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">晨曦</Data></Cell>
+<Cell><Data ss:Type="String">1501750050</Data></Cell>
+<Cell><Data ss:Type="String">lypzq68</Data></Cell>
+<Cell><Data ss:Type="String">晨曦</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">从权利巅峰开始每本都看，浩然正气，引人入胜</Data></Cell>
+<Cell><Data ss:Type="String">希望更新快一些，哈哈</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501743842</Data></Cell>
+<Cell><Data ss:Type="String">18637898911</Data></Cell>
+<Cell><Data ss:Type="String">玛雅影歌</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">《官途》《权力巅峰》《至高使命》</Data></Cell>
+<Cell><Data ss:Type="String">你目前为止写的3部官场小说非常好，非常值得现在的官员学习，学习里面主人公为了一切为了人民，一切想着人民，和贪腐分子作斗争等，是我看过的最精彩的官场小说，没有之一</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501742345</Data></Cell>
+<Cell><Data ss:Type="String">hjl19930706</Data></Cell>
+<Cell><Data ss:Type="String">HAKULAMATATA</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大一</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">梦梦梦梦</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">老广</Data></Cell>
+<Cell><Data ss:Type="String">1501684367</Data></Cell>
+<Cell><Data ss:Type="String">ana782944</Data></Cell>
+<Cell><Data ss:Type="String">老广</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">国际环境与国家大政方针及实际结合的不错</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小平</Data></Cell>
+<Cell><Data ss:Type="String">1501575535</Data></Cell>
+<Cell><Data ss:Type="String">lx04510751</Data></Cell>
+<Cell><Data ss:Type="String">lxp_6818</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2年前</Data></Cell>
+<Cell><Data ss:Type="String">官途、权力巅峰等</Data></Cell>
+<Cell><Data ss:Type="String">追求至高无尚是你优秀的品质</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501564714</Data></Cell>
+<Cell><Data ss:Type="String">15510423676</Data></Cell>
+<Cell><Data ss:Type="String">菲菲</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大概是2014年</Data></Cell>
+<Cell><Data ss:Type="String">   最喜欢刘飞，柳擎宇。品格高尚，大公无私，廉洁奉公，一心为民。
+   目前正在阅读刘小飞的故事和至高使命，非常喜欢。
+    </Data></Cell>
+<Cell><Data ss:Type="String">希望读到梦梦更更好的作品！</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501557789</Data></Cell>
+<Cell><Data ss:Type="String">13511733628</Data></Cell>
+<Cell><Data ss:Type="String">烟花三月</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">官途，刘小飞
+</Data></Cell>
+<Cell><Data ss:Type="String">多写一些好的作品奉献给读者
+</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501465345</Data></Cell>
+<Cell><Data ss:Type="String">17076462383</Data></Cell>
+<Cell><Data ss:Type="String">米迷</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2014</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰 官途
+最喜欢权利巅峰
+柳擎宇
+大楼救人最感动</Data></Cell>
+<Cell><Data ss:Type="String">最好能定期放开免费阅读章节，非常期待，如饥似渴想看最新章节</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501452888</Data></Cell>
+<Cell><Data ss:Type="String">miao20080522</Data></Cell>
+<Cell><Data ss:Type="String">流星</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">从官途开始接触</Data></Cell>
+<Cell><Data ss:Type="String">官途   权力巅峰  最喜欢官途 因为写的很真实很符合现实</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦今后继续努力创作出更多好的贴近生活和现实的官场小说作品</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501434163</Data></Cell>
+<Cell><Data ss:Type="String">lilaoshi669</Data></Cell>
+<Cell><Data ss:Type="String">李老师</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">有正义感</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501425551</Data></Cell>
+<Cell><Data ss:Type="String">wriguozhuomei</Data></Cell>
+<Cell><Data ss:Type="String">中国五常 美丽卫国</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2016</Data></Cell>
+<Cell><Data ss:Type="String">最强狂兵 刘小飞  权力巅峰  官途 最喜欢柳擎宇</Data></Cell>
+<Cell><Data ss:Type="String">你辛苦了最强狂兵 刘小飞  权力巅峰  官途 都看过，谢谢你。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">格格巫</Data></Cell>
+<Cell><Data ss:Type="String">1501425413</Data></Cell>
+<Cell><Data ss:Type="String">mousezhang01</Data></Cell>
+<Cell><Data ss:Type="String">格格巫</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">前年</Data></Cell>
+<Cell><Data ss:Type="String">权力颠峰，官途，至高使命。铁牛舍身救主。</Data></Cell>
+<Cell><Data ss:Type="String">每天看时事，写官场小说，值得推崇。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">与你相约</Data></Cell>
+<Cell><Data ss:Type="String">1501422760</Data></Cell>
+<Cell><Data ss:Type="String">18632853319</Data></Cell>
+<Cell><Data ss:Type="String">与你相约</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">去年</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰、至高使命、刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">写作是个痛苦的事，但也是件快乐的事！祝你健康，开开心心每一天！争取出更多的好作品！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501418304</Data></Cell>
+<Cell><Data ss:Type="String">18174572162</Data></Cell>
+<Cell><Data ss:Type="String">冷空气</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">忘记了，权力巅峰开始</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰，刘小飞，至高使命</Data></Cell>
+<Cell><Data ss:Type="String">加油，多革新</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">强哥门窗工程</Data></Cell>
+<Cell><Data ss:Type="String">1501417794</Data></Cell>
+<Cell><Data ss:Type="String">15037813000</Data></Cell>
+<Cell><Data ss:Type="String">强哥门窗工程</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">两年前</Data></Cell>
+<Cell><Data ss:Type="String">《官途》！《权利巅峰》 以及现在的新书
+
+正义 人间真情</Data></Cell>
+<Cell><Data ss:Type="String">看着梦梦的书，才没有对社会完全失望，原来每个人都有无可奈何的时候！
+只有拼搏，才能摆脱困境</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501414748</Data></Cell>
+<Cell><Data ss:Type="String">ABC45092219850703251</Data></Cell>
+<Cell><Data ss:Type="String">剑锋</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢刘小飞，</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦的书能出电视刷</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">蜕变</Data></Cell>
+<Cell><Data ss:Type="String">1501413269</Data></Cell>
+<Cell><Data ss:Type="String">18295920488</Data></Cell>
+<Cell><Data ss:Type="String">蜕变</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">2012.6</Data></Cell>
+<Cell><Data ss:Type="String">官途    权力颠峰 至高使命</Data></Cell>
+<Cell><Data ss:Type="String">梦梦，您的作品非常不错，经常让我看的忘了别的事，刘小飞就是更新的有点慢，让人迫不及待</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501412486</Data></Cell>
+<Cell><Data ss:Type="String">yh5394</Data></Cell>
+<Cell><Data ss:Type="String">小辉</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">高中</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰，至高使命   都喜欢   最深的是刘飞，特别是他的一句话，当官不为民，不如回家卖红薯。</Data></Cell>
+<Cell><Data ss:Type="String">多更新一点，把套路在换一换。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501410226</Data></Cell>
+<Cell><Data ss:Type="String">hui723927</Data></Cell>
+<Cell><Data ss:Type="String">迷惘</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">忘了</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力，都很喜欢，刘飞，，柳擎宇，刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">加油，期待你的新作</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">星夜</Data></Cell>
+<Cell><Data ss:Type="String">1501403084</Data></Cell>
+<Cell><Data ss:Type="String">zfryzw</Data></Cell>
+<Cell><Data ss:Type="String">星夜</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">14年</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰 人在不同年龄段的处事方式变化</Data></Cell>
+<Cell><Data ss:Type="String">权利巅峰结局有些仓促。希望能对人物刻画上再细致点，人无完人，再坏的人也有做好事的时候！好人也会做出令人无语的事情。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501401847</Data></Cell>
+<Cell><Data ss:Type="String">15874571071</Data></Cell>
+<Cell><Data ss:Type="String">上上签</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2年前</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰，适合我口味的官场小说。</Data></Cell>
+<Cell><Data ss:Type="String">感谢梦梦提供这么好的官场作品，希再接再厉。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501401567</Data></Cell>
+<Cell><Data ss:Type="String">exo159888</Data></Cell>
+<Cell><Data ss:Type="String">晨鸣飞雁</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">5年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">风雨无阻的为读者服务……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501399886</Data></Cell>
+<Cell><Data ss:Type="String">langzixin_jacking</Data></Cell>
+<Cell><Data ss:Type="String">浪子心</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2102年大学</Data></Cell>
+<Cell><Data ss:Type="String">看了官途和权力巅峰，最喜欢权力巅峰，影像比较深刻的除了主角，最喜欢刘小飞。</Data></Cell>
+<Cell><Data ss:Type="String">梦梦加油！权力巅峰追了三年，这部很期待，如果多更就更好了。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501399723</Data></Cell>
+<Cell><Data ss:Type="String">13727784623</Data></Cell>
+<Cell><Data ss:Type="String">谭勇</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;</Data></Cell>
+<Cell><Data ss:Type="String">大学</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰，柳警宇</Data></Cell>
+<Cell><Data ss:Type="String">梦哥最好每年出一本书</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501398936</Data></Cell>
+<Cell><Data ss:Type="String">hqy0071</Data></Cell>
+<Cell><Data ss:Type="String">何庆源</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">官途</Data></Cell>
+<Cell><Data ss:Type="String">难得坚持！支持你…梦梦……</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">人才定制--于高峰</Data></Cell>
+<Cell><Data ss:Type="String">1501398464</Data></Cell>
+<Cell><Data ss:Type="String">carlyu2011 </Data></Cell>
+<Cell><Data ss:Type="String">鱼头</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2013</Data></Cell>
+<Cell><Data ss:Type="String">权力巅峰</Data></Cell>
+<Cell><Data ss:Type="String">加油，继续支持</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501394616</Data></Cell>
+<Cell><Data ss:Type="String">gozonee</Data></Cell>
+<Cell><Data ss:Type="String">月王落凡尘</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">工作，2016年</Data></Cell>
+<Cell><Data ss:Type="String">官途 权力巅峰 至高使命 刘小飞及各种番外
+"为天地立心，为生民立命，为往圣继绝学，为万世开太平"
+我是一个基层小公务员，也一直以此为座右铭</Data></Cell>
+<Cell><Data ss:Type="String">喜欢你的所有作品，从中学到很多为人处世的道理，令我在生活中更加圆润，处理事情得心应手，谢谢！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501393519</Data></Cell>
+<Cell><Data ss:Type="String">15366589999</Data></Cell>
+<Cell><Data ss:Type="String">冷讽</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2012年</Data></Cell>
+<Cell><Data ss:Type="String">刘飞</Data></Cell>
+<Cell><Data ss:Type="String">辛苦你了，加油。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501393444</Data></Cell>
+<Cell><Data ss:Type="String">yhq835639807</Data></Cell>
+<Cell><Data ss:Type="String">企鹅</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">大概是刚上中专第二学期的时候</Data></Cell>
+<Cell><Data ss:Type="String">看过官途，权利巅峰，现在在更新的至高使命，刘小飞。最喜欢的是权利巅峰。权利巅峰让我觉得很真实，除了里面部分介绍枪械的有点偏了，其他的让我感觉就是真实发生的，甚至不自觉的去寻找对应的地方</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦在使用军事方面的物品时多多注意下是中国的还是外国的，让整个小说故事更加真实</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">小于18岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501392477</Data></Cell>
+<Cell><Data ss:Type="String">yq200863693</Data></Cell>
+<Cell><Data ss:Type="String">阳泉公益行</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">大概11年大学期间</Data></Cell>
+<Cell><Data ss:Type="String">刘飞考公务员面试的表现</Data></Cell>
+<Cell><Data ss:Type="String">做梦都在惦记，梦梦把章节更新了没有？</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">清舞飞扬</Data></Cell>
+<Cell><Data ss:Type="String">1501388687</Data></Cell>
+<Cell><Data ss:Type="String">清舞飞扬</Data></Cell>
+<Cell><Data ss:Type="String">清舞飞扬LOVE</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">工作以后的</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢官途，喜欢一心为民，心怀天下，爱国货，反转基因。</Data></Cell>
+<Cell><Data ss:Type="String">梦大大：喜欢你愤青性格，小说流淌着爱国情怀，以国为国。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501388129</Data></Cell>
+<Cell><Data ss:Type="String">waxln1105</Data></Cell>
+<Cell><Data ss:Type="String">lhy</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015年</Data></Cell>
+<Cell><Data ss:Type="String">官途，权利巅峰，</Data></Cell>
+<Cell><Data ss:Type="String">最喜欢梦梦的书了，加油</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">穆小孩</Data></Cell>
+<Cell><Data ss:Type="String">1501388123</Data></Cell>
+<Cell><Data ss:Type="String">mengzuifanhua</Data></Cell>
+<Cell><Data ss:Type="String">芗阳花香</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2012年官途</Data></Cell>
+<Cell><Data ss:Type="String">官途―刘飞，徐娇娇
+权力巅峰―柳擎宇，曹淑慧
+</Data></Cell>
+<Cell><Data ss:Type="String">永远支持大叔，能在大叔那学到好多正能量！</Data></Cell>
+<Cell><Data ss:Type="String">女</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">崔林</Data></Cell>
+<Cell><Data ss:Type="String">1501387295</Data></Cell>
+<Cell><Data ss:Type="String">wdsjhhm</Data></Cell>
+<Cell><Data ss:Type="String">人生如梦</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">权力颠峰</Data></Cell>
+<Cell><Data ss:Type="String">我最喜欢力颠峰当中的柳擎芋。</Data></Cell>
+<Cell><Data ss:Type="String">希望梦梦能写出更多正能量的官场小说。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">自在飞</Data></Cell>
+<Cell><Data ss:Type="String">1501385912</Data></Cell>
+<Cell><Data ss:Type="String">wwm6702030181</Data></Cell>
+<Cell><Data ss:Type="String">自在飞</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2014年</Data></Cell>
+<Cell><Data ss:Type="String">   权力巅峰  官途  刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">   梦梦的作品不仅仅是一部官场小说，也满满的正能量，跟得上时代的节拍，对社会底层生活的酸甜苦辣喜怒哀乐有触及，有慈悲情怀。</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">大于40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501385793</Data></Cell>
+<Cell><Data ss:Type="String">13673836202</Data></Cell>
+<Cell><Data ss:Type="String">张攀</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">大概2013年</Data></Cell>
+<Cell><Data ss:Type="String">四本小说，最喜欢权力巅峰，</Data></Cell>
+<Cell><Data ss:Type="String">很喜欢梦梦构造的人物和情节，贴近社会生活，紧跟国家现期时政时事！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501385506</Data></Cell>
+<Cell><Data ss:Type="String">jin_790521</Data></Cell>
+<Cell><Data ss:Type="String">与你到永久</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">至高使命</Data></Cell>
+<Cell><Data ss:Type="String">期待你写更好的书！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501385299</Data></Cell>
+<Cell><Data ss:Type="String">15139120205</Data></Cell>
+<Cell><Data ss:Type="String">szp</Data></Cell>
+<Cell><Data ss:Type="String">已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">第五纵队</Data></Cell>
+<Cell><Data ss:Type="String">创作出更优秀的小说</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">30-40岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501385141</Data></Cell>
+<Cell><Data ss:Type="String">363967435</Data></Cell>
+<Cell><Data ss:Type="String">我是神</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2015</Data></Cell>
+<Cell><Data ss:Type="String">都看过
+刘飞
+
+刘小飞</Data></Cell>
+<Cell><Data ss:Type="String">更新快点</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501385104</Data></Cell>
+<Cell><Data ss:Type="String">LJW001QD</Data></Cell>
+<Cell><Data ss:Type="String">第八号当铺</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">2011年</Data></Cell>
+<Cell><Data ss:Type="String">《权力巅峰》，有幸客串省纪委书记</Data></Cell>
+<Cell><Data ss:Type="String">希望小说写得越来越精彩</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String"></Data></Cell>
+<Cell><Data ss:Type="String">1501384854</Data></Cell>
+<Cell><Data ss:Type="String">lanweiyue</Data></Cell>
+<Cell><Data ss:Type="String">小蓝</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">前两年</Data></Cell>
+<Cell><Data ss:Type="String">官途
+权力巅峰
+刘小飞的故事
+最喜欢官途的刘飞！至于么原因说不清楚</Data></Cell>
+<Cell><Data ss:Type="String">期待能与中国现实官场商场相结合，写出更好的！</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">偏执</Data></Cell>
+<Cell><Data ss:Type="String">1501383625</Data></Cell>
+<Cell><Data ss:Type="String">15061517061</Data></Cell>
+<Cell><Data ss:Type="String">偏执</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;其他请在感言中填写;</Data></Cell>
+<Cell><Data ss:Type="String">初中</Data></Cell>
+<Cell><Data ss:Type="String">全部都考过的</Data></Cell>
+<Cell><Data ss:Type="String">您写的书 我特别喜欢</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">25-30岁</Data></Cell>
+</Row>
+<Row>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">1500371947</Data></Cell>
+<Cell><Data ss:Type="String">329866672</Data></Cell>
+<Cell><Data ss:Type="String">小熊</Data></Cell>
+<Cell><Data ss:Type="String">微信贴吧活跃用户（有签到、发帖记录）;已下载《至高使命》专属17k客户端;在正版网站有过订阅、打赏记录;微信公众号中有过赞赏记录;</Data></Cell>
+<Cell><Data ss:Type="String">17年</Data></Cell>
+<Cell><Data ss:Type="String">至高使命</Data></Cell>
+<Cell><Data ss:Type="String">继续加油了</Data></Cell>
+<Cell><Data ss:Type="String">男</Data></Cell>
+<Cell><Data ss:Type="String">18-25岁</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>
